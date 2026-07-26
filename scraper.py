@@ -121,10 +121,74 @@ def matches_neighborhood(text):
     return any(n in text_lower for n in NEIGHBORHOODS)
 
 
-def parse_sqft(housing_text):
-    """Craigslist shows something like '1br - 750ft2 -' in the result meta."""
-    match = re.search(r"(\d+)\s*ft2", housing_text)
+def parse_sqft(text):
+    """Craigslist shows something like '1br - 750ft2 -' in the result meta,
+    but some posters put it in the title instead ('650 sqft studio...').
+    Caller should pass in title + meta_text combined to catch both."""
+    match = re.search(r"(\d+)\s*(?:ft2|sq\.?\s*ft\.?|sqft)", text, re.IGNORECASE)
     return int(match.group(1)) if match else None
+
+
+def is_studio(text):
+    """Word-boundary match so this doesn't fire on unrelated uses of
+    'studio' (rare in apartment listings, but keeps it precise)."""
+    return bool(re.search(r"\bstudio\b", text, re.IGNORECASE))
+
+
+SHORT_TERM_KEYWORDS = [
+    "month to month", "month-to-month", "1 month", "one month",
+    "2 months", "two months", "1-2 month", "1-2 months",
+    "short term", "short-term", "temporary", "temp lease",
+    "minimum stay",
+]
+
+_MONTH_NAMES = (
+    r"jan(?:uary)?|feb(?:ruary)?|mar(?:ch)?|apr(?:il)?|may|jun(?:e)?|"
+    r"jul(?:y)?|aug(?:ust)?|sep(?:t(?:ember)?)?|oct(?:ober)?|nov(?:ember)?|dec(?:ember)?"
+)
+_LEASE_END_TRIGGER = re.compile(
+    r"\b(?:through|thru|until|til|till|ends?|ending|available\s+(?:thru|through|until))\b",
+    re.IGNORECASE,
+)
+_DATE_PATTERN = re.compile(
+    rf"\b({_MONTH_NAMES})\.?\s+(?:\d{{1,2}}(?:st|nd|rd|th)?,?\s*)?(\d{{4}})\b",
+    re.IGNORECASE,
+)
+_MONTH_LOOKUP = {
+    "jan": 1, "feb": 2, "mar": 3, "apr": 4, "may": 5, "jun": 6,
+    "jul": 7, "aug": 8, "sep": 9, "oct": 10, "nov": 11, "dec": 12,
+}
+
+
+def is_short_term_or_expiring(text, near_term_days=60):
+    """Flags explicit short-term language ('month to month', etc.) or a
+    lease-end date (e.g. 'available through August 2026') that's already
+    passed or is coming up within near_term_days. Heuristic, not perfect —
+    it only looks near words like 'through'/'until'/'ends' to avoid
+    mistaking a move-in date for a move-out date, but free-text listings
+    vary enough that occasional misses/false positives are possible."""
+    text_lower = text.lower()
+    if any(k in text_lower for k in SHORT_TERM_KEYWORDS):
+        return True
+
+    for trigger in _LEASE_END_TRIGGER.finditer(text):
+        window = text[trigger.end():trigger.end() + 25]
+        date_match = _DATE_PATTERN.search(window)
+        if not date_match:
+            continue
+        month_key = date_match.group(1)[:3].lower()
+        year = int(date_match.group(2))
+        month = _MONTH_LOOKUP.get(month_key)
+        if not month:
+            continue
+        try:
+            end_date = datetime.date(year, month, 1)
+        except ValueError:
+            continue
+        days_until_end = (end_date - datetime.date.today()).days
+        if days_until_end < near_term_days:
+            return True
+    return False
 
 
 def scrape_craigslist_category(category_name, category_url):
@@ -184,8 +248,14 @@ def scrape_craigslist_category(category_name, category_url):
             meta_text = meta_tag.get_text(" ", strip=True) if meta_tag else ""
             hood_text = hood_tag.get_text(strip=True) if hood_tag else title
             listing_type = tag_listing_type(title, meta_text)
+            combined_text = f"{title} {meta_text}"
 
-            sqft = parse_sqft(meta_text)
+            if is_studio(combined_text):
+                continue
+            if is_short_term_or_expiring(combined_text):
+                continue
+
+            sqft = parse_sqft(combined_text)
             # Relaxed (sublet) category: only enforce price/sqft, not bed/bath/
             # parking/neighborhood, since those posts are often loosely tagged
             # and takeover posts are worth seeing regardless of neighborhood.
