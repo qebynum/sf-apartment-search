@@ -1,0 +1,338 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>SF Apartment Watch</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,600;9..144,700&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --fog: #EEF1F1;
+    --paper: #FFFFFF;
+    --ink: #1B2430;
+    --ink-soft: #4B5560;
+    --bay: #2F6E64;
+    --bay-dark: #234F48;
+    --gold: #D9A441;
+    --coral: #C1543A;
+    --line: #DADFE0;
+    --radius: 14px;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: var(--fog);
+    color: var(--ink);
+    font-family: 'Inter', sans-serif;
+    -webkit-font-smoothing: antialiased;
+  }
+  header {
+    background: var(--ink);
+    color: white;
+    padding: 36px 24px 44px;
+    position: relative;
+    overflow: hidden;
+  }
+  .hills {
+    position: absolute;
+    bottom: -1px; left: 0; right: 0;
+    height: 46px;
+    background: var(--fog);
+    clip-path: polygon(0% 100%, 0% 60%, 8% 40%, 16% 55%, 26% 20%, 36% 50%, 48% 30%, 58% 55%, 70% 15%, 82% 48%, 92% 35%, 100% 55%, 100% 100%);
+  }
+  .header-inner {
+    max-width: 1080px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    flex-wrap: wrap;
+    gap: 20px;
+  }
+  h1 {
+    font-family: 'Fraunces', serif;
+    font-weight: 600;
+    font-size: 2.1rem;
+    margin: 0 0 6px;
+    letter-spacing: -0.01em;
+  }
+  .tagline {
+    color: #B8C4C1;
+    font-size: 0.95rem;
+    margin: 0;
+  }
+  .status-row {
+    display: flex;
+    align-items: center;
+    gap: 14px;
+    font-size: 0.85rem;
+    color: #A9B6B2;
+  }
+  .dot {
+    width: 8px; height: 8px; border-radius: 50%;
+    background: var(--gold);
+    display: inline-block;
+  }
+  button.run-now {
+    background: var(--bay);
+    color: white;
+    border: none;
+    padding: 12px 22px;
+    border-radius: 999px;
+    font-family: 'Inter', sans-serif;
+    font-weight: 600;
+    font-size: 0.9rem;
+    cursor: pointer;
+    transition: background 0.15s ease, transform 0.1s ease;
+  }
+  button.run-now:hover { background: var(--bay-dark); }
+  button.run-now:active { transform: scale(0.97); }
+  button.run-now:disabled { background: #57615c; cursor: default; }
+
+  main {
+    max-width: 1080px;
+    margin: 0 auto;
+    padding: 20px 24px 60px;
+  }
+
+  .filters {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin: 8px 0 28px;
+  }
+  .chip {
+    padding: 8px 16px;
+    border-radius: 999px;
+    border: 1px solid var(--line);
+    background: var(--paper);
+    font-size: 0.85rem;
+    font-weight: 500;
+    color: var(--ink-soft);
+    cursor: pointer;
+    transition: all 0.15s ease;
+  }
+  .chip.active {
+    background: var(--ink);
+    color: white;
+    border-color: var(--ink);
+  }
+
+  .summary-line {
+    font-size: 0.9rem;
+    color: var(--ink-soft);
+    margin-bottom: 18px;
+  }
+
+  .grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    gap: 16px;
+  }
+
+  .card {
+    background: var(--paper);
+    border-radius: var(--radius);
+    padding: 20px;
+    border: 1px solid var(--line);
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    position: relative;
+  }
+  .card .badge {
+    position: absolute;
+    top: 16px; right: 16px;
+    font-size: 0.68rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+    padding: 4px 9px;
+    border-radius: 999px;
+    background: #FBEFE4;
+    color: var(--coral);
+  }
+  .card .price {
+    font-family: 'Fraunces', serif;
+    font-size: 1.5rem;
+    font-weight: 600;
+    color: var(--ink);
+  }
+  .card .title {
+    font-size: 0.95rem;
+    color: var(--ink-soft);
+    line-height: 1.4;
+  }
+  .card .meta {
+    display: flex;
+    gap: 12px;
+    font-size: 0.82rem;
+    color: var(--ink-soft);
+    margin-top: 2px;
+  }
+  .card .source {
+    font-size: 0.75rem;
+    color: #8B9490;
+    margin-top: 4px;
+  }
+  .card a.view {
+    margin-top: 8px;
+    align-self: flex-start;
+    font-size: 0.85rem;
+    font-weight: 600;
+    color: var(--bay);
+    text-decoration: none;
+    border-bottom: 1px solid var(--bay);
+    padding-bottom: 1px;
+  }
+  .card a.view:hover { color: var(--bay-dark); border-color: var(--bay-dark); }
+
+  .empty-state {
+    text-align: center;
+    padding: 60px 20px;
+    color: var(--ink-soft);
+  }
+  .empty-state .title {
+    font-family: 'Fraunces', serif;
+    font-size: 1.2rem;
+    color: var(--ink);
+    margin-bottom: 6px;
+  }
+
+  @media (max-width: 520px) {
+    header { padding: 28px 18px 40px; }
+    h1 { font-size: 1.6rem; }
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <div class="header-inner">
+    <div>
+      <h1>SF Apartment Watch</h1>
+      <p class="tagline">Potrero &middot; Noe Valley &middot; Castro &middot; Nob Hill</p>
+      <div class="status-row" style="margin-top:10px;">
+        <span><span class="dot"></span> Last checked: <span id="last-updated">loading…</span></span>
+      </div>
+    </div>
+    <button class="run-now" id="run-now-btn">Run search now</button>
+  </div>
+  <div class="hills"></div>
+</header>
+
+<main>
+  <div class="filters" id="filters">
+    <span class="chip active" data-filter="all">All listings</span>
+    <span class="chip" data-filter="standard rental">Standard rentals</span>
+    <span class="chip" data-filter="lease takeover / sublet">Lease takeovers / sublets</span>
+  </div>
+
+  <p class="summary-line" id="summary-line">Loading listings…</p>
+
+  <div class="grid" id="grid"></div>
+</main>
+
+<script>
+  // ---- CONFIGURE ME ----
+  // URL of the Cloudflare Worker that triggers the GitHub Action.
+  // Leave blank to hide the button's live-trigger behavior (it'll just
+  // link to the Actions tab instead). See SETUP.md for how to deploy this.
+  const RUN_NOW_WORKER_URL = ""; // e.g. "https://sf-apartment-trigger.yourname.workers.dev"
+  const GITHUB_ACTIONS_URL = ""; // e.g. "https://github.com/you/sf-apartment-search/actions"
+  // -----------------------
+
+  let allListings = [];
+  let currentFilter = "all";
+
+  async function loadListings() {
+    try {
+      const res = await fetch("listings.json?t=" + Date.now());
+      const data = await res.json();
+      allListings = data.listings || [];
+      document.getElementById("last-updated").textContent = data.last_updated || "unknown";
+      render();
+    } catch (e) {
+      document.getElementById("summary-line").textContent =
+        "Couldn't load listings.json yet — it appears after the first scraper run.";
+    }
+  }
+
+  function render() {
+    const grid = document.getElementById("grid");
+    const filtered = currentFilter === "all"
+      ? allListings
+      : allListings.filter(l => l.type === currentFilter);
+
+    document.getElementById("summary-line").textContent =
+      `${filtered.length} listing${filtered.length === 1 ? "" : "s"} matching your criteria`;
+
+    if (filtered.length === 0) {
+      grid.innerHTML = `<div class="empty-state" style="grid-column: 1/-1;">
+        <div class="title">Nothing here yet</div>
+        <div>New matches will show up after the next scheduled run.</div>
+      </div>`;
+      return;
+    }
+
+    grid.innerHTML = filtered.map(l => `
+      <div class="card">
+        ${l.type === "lease takeover / sublet" ? '<span class="badge">Takeover</span>' : ''}
+        <div class="price">${escapeHtml(l.price || "Price n/a")}</div>
+        <div class="title">${escapeHtml(l.title)}</div>
+        <div class="meta">
+          <span>${escapeHtml(l.neighborhood || "")}</span>
+          <span>${l.sqft && l.sqft !== "n/a" ? l.sqft + " sqft" : ""}</span>
+        </div>
+        <div class="source">${escapeHtml(l.source || "")}</div>
+        <a class="view" href="${l.url}" target="_blank" rel="noopener">View listing →</a>
+      </div>
+    `).join("");
+  }
+
+  function escapeHtml(str) {
+    const div = document.createElement("div");
+    div.textContent = str || "";
+    return div.innerHTML;
+  }
+
+  document.getElementById("filters").addEventListener("click", (e) => {
+    if (!e.target.classList.contains("chip")) return;
+    document.querySelectorAll(".chip").forEach(c => c.classList.remove("active"));
+    e.target.classList.add("active");
+    currentFilter = e.target.dataset.filter;
+    render();
+  });
+
+  document.getElementById("run-now-btn").addEventListener("click", async () => {
+    const btn = document.getElementById("run-now-btn");
+
+    if (!RUN_NOW_WORKER_URL) {
+      // No worker configured — fall back to opening the Actions tab.
+      if (GITHUB_ACTIONS_URL) window.open(GITHUB_ACTIONS_URL, "_blank");
+      else alert("Set RUN_NOW_WORKER_URL or GITHUB_ACTIONS_URL in index.html — see SETUP.md.");
+      return;
+    }
+
+    btn.disabled = true;
+    btn.textContent = "Starting search…";
+    try {
+      const res = await fetch(RUN_NOW_WORKER_URL, { method: "POST" });
+      if (res.ok) {
+        btn.textContent = "Search started ✓";
+        setTimeout(() => { btn.disabled = false; btn.textContent = "Run search now"; }, 15000);
+      } else {
+        throw new Error("Worker returned " + res.status);
+      }
+    } catch (e) {
+      btn.textContent = "Couldn't start — try again";
+      btn.disabled = false;
+    }
+  });
+
+  loadListings();
+</script>
+
+</body>
+</html>
