@@ -28,6 +28,9 @@ MIN_BATHROOMS = 1
 MIN_SQFT = 700          # listings with NO sqft listed are kept, not eliminated
 REQUIRE_CATS = True
 REQUIRE_PARKING = True
+MAX_LISTING_AGE_DAYS = 14   # Craigslist posts older than this are skipped
+                            # (doesn't apply to rentalsinsf.com — those are
+                            # current-availability listings, not dated posts)
 
 # Only keep listings whose neighborhood text matches one of these
 # (case-insensitive substring match against the "(neighborhood)" Craigslist shows)
@@ -153,9 +156,22 @@ def scrape_craigslist_category(category_name, category_url):
             price_tag = row.select_one(".price, .result-price")
             meta_tag = row.select_one(".meta, .housing")
             hood_tag = row.select_one(".location, .result-hood")
+            time_tag = row.select_one("time")
 
             if not link_tag or not title_tag:
                 continue
+
+            # Skip anything older than MAX_LISTING_AGE_DAYS. Craigslist's
+            # <time datetime="..."> attribute is machine-readable and
+            # reliable even when the rest of the markup shifts around.
+            if time_tag and time_tag.get("datetime"):
+                try:
+                    posted = datetime.datetime.fromisoformat(time_tag["datetime"])
+                    age_days = (datetime.datetime.now(posted.tzinfo) - posted).days
+                    if age_days > MAX_LISTING_AGE_DAYS:
+                        continue
+                except ValueError:
+                    pass  # unparseable date — don't filter it out just for that
 
             url_link = link_tag.get("href", "")
             listing_id = re.search(r"/(\d+)\.html", url_link)
@@ -212,6 +228,11 @@ def append_to_google_sheet(new_listings):
     if not new_listings:
         return
 
+    required = ["GOOGLE_SERVICE_ACCOUNT_JSON_B64", "GOOGLE_SHEET_ID"]
+    if any(os.environ.get(k) is None for k in required):
+        print("Google Sheets secrets not set — skipping sheet update.")
+        return
+
     import gspread
     from google.oauth2.service_account import Credentials
 
@@ -229,11 +250,15 @@ def append_to_google_sheet(new_listings):
         ws.append_row(["Source", "Type", "Title", "Price", "Sqft", "Neighborhood", "URL", "Found"])
 
     now = datetime.datetime.utcnow().strftime("%Y-%m-%d %H:%M UTC")
-    for l in new_listings:
-        ws.append_row([
-            l.get("source", ""), l.get("type", ""), l["title"], l["price"],
-            l["sqft"], l["neighborhood"], l["url"], now,
-        ])
+    rows = [
+        [l.get("source", ""), l.get("type", ""), l["title"], l["price"],
+         l["sqft"], l["neighborhood"], l["url"], now]
+        for l in new_listings
+    ]
+    # One batched API call instead of one call per row — avoids hitting
+    # Google's write-requests-per-minute quota when there are many new
+    # listings at once (e.g. the first run, or a big backlog).
+    ws.append_rows(rows, value_input_option="USER_ENTERED")
 
 
 # ---------------------------------------------------------------------------
@@ -241,6 +266,11 @@ def append_to_google_sheet(new_listings):
 # ---------------------------------------------------------------------------
 def send_text_summary(new_listings):
     if not new_listings:
+        return
+
+    required = ["TWILIO_ACCOUNT_SID", "TWILIO_AUTH_TOKEN", "TWILIO_FROM_NUMBER", "TWILIO_TO_NUMBER"]
+    if any(os.environ.get(k) is None for k in required):
+        print("Twilio secrets not set — skipping text message.")
         return
 
     from twilio.rest import Client
