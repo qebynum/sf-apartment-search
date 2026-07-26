@@ -225,7 +225,7 @@ def append_to_google_sheet(new_listings):
     sh = gc.open_by_key(sheet_id)
     ws = sh.sheet1
 
-    if ws.row_count == 0 or not ws.cell("A1").value:
+    if ws.row_count == 0 or not ws.acell("A1").value:
         ws.append_row(["Source", "Type", "Title", "Price", "Sqft", "Neighborhood", "URL", "Found"])
 
     now = datetime.datetime.utcnow().strftime("%Y-%m-%d %H:%M UTC")
