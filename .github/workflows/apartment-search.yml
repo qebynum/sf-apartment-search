@@ -1,0 +1,38 @@
+name: SF Apartment Search
+on:
+  schedule:
+    # Runs at 14:00 and 23:00 UTC = 7am and 4pm Pacific (adjust for DST as needed)
+    - cron: "0 14 * * *"
+    - cron: "0 23 * * *"
+  workflow_dispatch: {}   # lets you manually trigger a run from the Actions tab
+permissions:
+  contents: write
+jobs:
+  search:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+      - name: Run scraper
+        env:
+          GOOGLE_SERVICE_ACCOUNT_JSON_B64: ${{ secrets.GOOGLE_SERVICE_ACCOUNT_JSON_B64 }}
+          GOOGLE_SHEET_ID: ${{ secrets.GOOGLE_SHEET_ID }}
+          GOOGLE_SHEET_URL: ${{ secrets.GOOGLE_SHEET_URL }}
+          TWILIO_ACCOUNT_SID: ${{ secrets.TWILIO_ACCOUNT_SID }}
+          TWILIO_AUTH_TOKEN: ${{ secrets.TWILIO_AUTH_TOKEN }}
+          TWILIO_FROM_NUMBER: ${{ secrets.TWILIO_FROM_NUMBER }}
+          TWILIO_TO_NUMBER: ${{ secrets.TWILIO_TO_NUMBER }}
+        run: python scraper.py
+      - name: Commit updated data files
+        run: |
+          git config user.name "apartment-search-bot"
+          git config user.email "actions@github.com"
+          git add data/seen_listings.json docs/listings.json
+          git diff --staged --quiet || git commit -m "Update listings"
+          git push
