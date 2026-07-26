@@ -164,12 +164,14 @@ def scrape_craigslist_category(category_name, category_url):
             # Skip anything older than MAX_LISTING_AGE_DAYS. Craigslist's
             # <time datetime="..."> attribute is machine-readable and
             # reliable even when the rest of the markup shifts around.
+            posted_date = "n/a"
             if time_tag and time_tag.get("datetime"):
                 try:
                     posted = datetime.datetime.fromisoformat(time_tag["datetime"])
                     age_days = (datetime.datetime.now(posted.tzinfo) - posted).days
                     if age_days > MAX_LISTING_AGE_DAYS:
                         continue
+                    posted_date = posted.strftime("%Y-%m-%d")
                 except ValueError:
                     pass  # unparseable date — don't filter it out just for that
 
@@ -189,9 +191,16 @@ def scrape_craigslist_category(category_name, category_url):
             # and takeover posts are worth seeing regardless of neighborhood.
             if sqft is not None and sqft < MIN_SQFT:
                 continue
-            if not relaxed:
-                if not matches_neighborhood(hood_text) and not matches_neighborhood(title):
+            # Trust Craigslist's own neighborhood field first — scanning the
+            # title text as an "or" caused false positives (e.g. a post
+            # titled "near Noe Valley" but actually located in the
+            # Excelsior would incorrectly pass). Only fall back to the
+            # title if Craigslist didn't supply a neighborhood tag at all.
+            if hood_text.strip():
+                if not matches_neighborhood(hood_text):
                     continue
+            elif not matches_neighborhood(title):
+                continue
 
             results.append({
                 "id": f"cl-{listing_id}",
@@ -201,6 +210,7 @@ def scrape_craigslist_category(category_name, category_url):
                 "price": price_text,
                 "sqft": sqft if sqft else "n/a",
                 "neighborhood": hood_text,
+                "posted": posted_date,
                 "url": url_link,
             })
 
@@ -229,7 +239,7 @@ def append_to_google_sheet(new_listings):
         return
 
     required = ["GOOGLE_SERVICE_ACCOUNT_JSON_B64", "GOOGLE_SHEET_ID"]
-    if any(os.environ.get(k) is None for k in required):
+    if any(not os.environ.get(k) for k in required):
         print("Google Sheets secrets not set — skipping sheet update.")
         return
 
@@ -247,12 +257,12 @@ def append_to_google_sheet(new_listings):
     ws = sh.sheet1
 
     if ws.row_count == 0 or not ws.acell("A1").value:
-        ws.append_row(["Source", "Type", "Title", "Price", "Sqft", "Neighborhood", "URL", "Found"])
+        ws.append_row(["Source", "Type", "Title", "Price", "Sqft", "Neighborhood", "Posted", "URL", "Found"])
 
     now = datetime.datetime.utcnow().strftime("%Y-%m-%d %H:%M UTC")
     rows = [
         [l.get("source", ""), l.get("type", ""), l["title"], l["price"],
-         l["sqft"], l["neighborhood"], l["url"], now]
+         l["sqft"], l["neighborhood"], l.get("posted", "n/a"), l["url"], now]
         for l in new_listings
     ]
     # One batched API call instead of one call per row — avoids hitting
@@ -269,7 +279,7 @@ def send_text_summary(new_listings):
         return
 
     required = ["TWILIO_ACCOUNT_SID", "TWILIO_AUTH_TOKEN", "TWILIO_FROM_NUMBER", "TWILIO_TO_NUMBER"]
-    if any(os.environ.get(k) is None for k in required):
+    if any(not os.environ.get(k) for k in required):
         print("Twilio secrets not set — skipping text message.")
         return
 
