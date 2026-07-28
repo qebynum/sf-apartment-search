@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-28 08:06 UTC",
-  "count": 160,
+  "last_updated": "2026-07-28 18:55 UTC",
+  "count": 170,
   "listings": [
     {
       "id": "cl-https://www.craigslist.org/view/d/san-francisco-rent-controlled-bed-under/doqt12jFPV2XYAJdcudLwK",
@@ -113,70 +113,26 @@
       "url": "https://www.craigslist.org/view/d/san-francisco-noe-valley-apartment/v2ZGQE5g33XR4QjNM6SseZ"
     },
     {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-bd-1795-new-plank-floor/m6XX4JTLcPhMYYFekg1TEo",
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-fridge-attentive-friendly/t6t9p5GDfjrk45eUqFPU6D",
       "source": "Craigslist",
       "type": "standard rental",
-      "title": "1 BD $1,795-New Plank Floor in Great Location!",
+      "title": "Fridge, Attentive Friendly Staff, Parking - Street, Vinyl/Plank",
       "price": "$2,100",
       "sqft": "n/a",
       "neighborhood": "nob hill",
       "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-bd-1795-new-plank-floor/m6XX4JTLcPhMYYFekg1TEo"
+      "url": "https://www.craigslist.org/view/d/san-francisco-fridge-attentive-friendly/t6t9p5GDfjrk45eUqFPU6D"
     },
     {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-bd-only-1795-in-prime/2wk2y8PbJNVfHeBCxhdM2L",
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-only-1795-for-newly/7358e9fEnQ29brpAHqtU5v",
       "source": "Craigslist",
       "type": "standard rental",
-      "title": "1 BD Only $1,795 in Prime Location",
+      "title": "Only $1,795 for a Newly Renovated 1 BD!",
       "price": "$2,100",
       "sqft": "n/a",
       "neighborhood": "nob hill",
       "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-bd-only-1795-in-prime/2wk2y8PbJNVfHeBCxhdM2L"
-    },
-    {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-bd-1795-new-plank-floor/m6XX4JTLcPhMYYFekg1TEo",
-      "source": "Craigslist",
-      "type": "standard rental",
-      "title": "1 BD $1,795-New Plank Floor in Great Location!",
-      "price": "$2,100",
-      "sqft": "n/a",
-      "neighborhood": "nob hill",
-      "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-bd-1795-new-plank-floor/m6XX4JTLcPhMYYFekg1TEo"
-    },
-    {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-bd-only-1795-in-prime/2wk2y8PbJNVfHeBCxhdM2L",
-      "source": "Craigslist",
-      "type": "standard rental",
-      "title": "1 BD Only $1,795 in Prime Location",
-      "price": "$2,100",
-      "sqft": "n/a",
-      "neighborhood": "nob hill",
-      "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-bd-only-1795-in-prime/2wk2y8PbJNVfHeBCxhdM2L"
-    },
-    {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-bd-1795-new-plank-floor/m6XX4JTLcPhMYYFekg1TEo",
-      "source": "Craigslist",
-      "type": "standard rental",
-      "title": "1 BD $1,795-New Plank Floor in Great Location!",
-      "price": "$2,100",
-      "sqft": "n/a",
-      "neighborhood": "nob hill",
-      "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-bd-1795-new-plank-floor/m6XX4JTLcPhMYYFekg1TEo"
-    },
-    {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-bd-only-1795-in-prime/2wk2y8PbJNVfHeBCxhdM2L",
-      "source": "Craigslist",
-      "type": "standard rental",
-      "title": "1 BD Only $1,795 in Prime Location",
-      "price": "$2,100",
-      "sqft": "n/a",
-      "neighborhood": "nob hill",
-      "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-bd-only-1795-in-prime/2wk2y8PbJNVfHeBCxhdM2L"
+      "url": "https://www.craigslist.org/view/d/san-francisco-only-1795-for-newly/7358e9fEnQ29brpAHqtU5v"
     },
     {
       "id": "cl-https://www.craigslist.org/view/d/san-francisco-bd-1795-new-plank-floor/m6XX4JTLcPhMYYFekg1TEo",
@@ -201,6 +157,28 @@
       "url": "https://www.craigslist.org/view/d/san-francisco-bd-only-1795-in-prime/2wk2y8PbJNVfHeBCxhdM2L"
     },
     {
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-fridge-attentive-friendly/t6t9p5GDfjrk45eUqFPU6D",
+      "source": "Craigslist",
+      "type": "standard rental",
+      "title": "Fridge, Attentive Friendly Staff, Parking - Street, Vinyl/Plank",
+      "price": "$2,100",
+      "sqft": "n/a",
+      "neighborhood": "nob hill",
+      "posted": "n/a",
+      "url": "https://www.craigslist.org/view/d/san-francisco-fridge-attentive-friendly/t6t9p5GDfjrk45eUqFPU6D"
+    },
+    {
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-only-1795-for-newly/7358e9fEnQ29brpAHqtU5v",
+      "source": "Craigslist",
+      "type": "standard rental",
+      "title": "Only $1,795 for a Newly Renovated 1 BD!",
+      "price": "$2,100",
+      "sqft": "n/a",
+      "neighborhood": "nob hill",
+      "posted": "n/a",
+      "url": "https://www.craigslist.org/view/d/san-francisco-only-1795-for-newly/7358e9fEnQ29brpAHqtU5v"
+    },
+    {
       "id": "cl-https://www.craigslist.org/view/d/san-francisco-bd-1795-new-plank-floor/m6XX4JTLcPhMYYFekg1TEo",
       "source": "Craigslist",
       "type": "standard rental",
@@ -223,114 +201,136 @@
       "url": "https://www.craigslist.org/view/d/san-francisco-bd-only-1795-in-prime/2wk2y8PbJNVfHeBCxhdM2L"
     },
     {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-5-months-furnished-1br/mFPJDYtz9TTv6QeZtumTWo",
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-fridge-attentive-friendly/t6t9p5GDfjrk45eUqFPU6D",
       "source": "Craigslist",
       "type": "standard rental",
-      "title": "1-5 months furnished 1BR apt. Jul 18-Dec 21!",
-      "price": "$2,570",
+      "title": "Fridge, Attentive Friendly Staff, Parking - Street, Vinyl/Plank",
+      "price": "$2,100",
       "sqft": "n/a",
-      "neighborhood": "Nob Hill",
+      "neighborhood": "nob hill",
       "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-5-months-furnished-1br/mFPJDYtz9TTv6QeZtumTWo"
+      "url": "https://www.craigslist.org/view/d/san-francisco-fridge-attentive-friendly/t6t9p5GDfjrk45eUqFPU6D"
     },
     {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-5-months-furnished-1br/mFPJDYtz9TTv6QeZtumTWo",
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-only-1795-for-newly/7358e9fEnQ29brpAHqtU5v",
       "source": "Craigslist",
       "type": "standard rental",
-      "title": "1-5 months furnished 1BR apt. Jul 18-Dec 21!",
-      "price": "$2,570",
+      "title": "Only $1,795 for a Newly Renovated 1 BD!",
+      "price": "$2,100",
       "sqft": "n/a",
-      "neighborhood": "Nob Hill",
+      "neighborhood": "nob hill",
       "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-5-months-furnished-1br/mFPJDYtz9TTv6QeZtumTWo"
+      "url": "https://www.craigslist.org/view/d/san-francisco-only-1795-for-newly/7358e9fEnQ29brpAHqtU5v"
     },
     {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-5-months-furnished-1br/mFPJDYtz9TTv6QeZtumTWo",
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-bd-1795-new-plank-floor/m6XX4JTLcPhMYYFekg1TEo",
       "source": "Craigslist",
       "type": "standard rental",
-      "title": "1-5 months furnished 1BR apt. Jul 18-Dec 21!",
-      "price": "$2,570",
+      "title": "1 BD $1,795-New Plank Floor in Great Location!",
+      "price": "$2,100",
       "sqft": "n/a",
-      "neighborhood": "Nob Hill",
+      "neighborhood": "nob hill",
       "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-5-months-furnished-1br/mFPJDYtz9TTv6QeZtumTWo"
+      "url": "https://www.craigslist.org/view/d/san-francisco-bd-1795-new-plank-floor/m6XX4JTLcPhMYYFekg1TEo"
     },
     {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-5-months-furnished-1br/mFPJDYtz9TTv6QeZtumTWo",
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-bd-only-1795-in-prime/2wk2y8PbJNVfHeBCxhdM2L",
       "source": "Craigslist",
       "type": "standard rental",
-      "title": "1-5 months furnished 1BR apt. Jul 18-Dec 21!",
-      "price": "$2,570",
+      "title": "1 BD Only $1,795 in Prime Location",
+      "price": "$2,100",
       "sqft": "n/a",
-      "neighborhood": "Nob Hill",
+      "neighborhood": "nob hill",
       "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-5-months-furnished-1br/mFPJDYtz9TTv6QeZtumTWo"
+      "url": "https://www.craigslist.org/view/d/san-francisco-bd-only-1795-in-prime/2wk2y8PbJNVfHeBCxhdM2L"
     },
     {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-5-months-furnished-1br/mFPJDYtz9TTv6QeZtumTWo",
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-fridge-attentive-friendly/t6t9p5GDfjrk45eUqFPU6D",
       "source": "Craigslist",
       "type": "standard rental",
-      "title": "1-5 months furnished 1BR apt. Jul 18-Dec 21!",
-      "price": "$2,570",
+      "title": "Fridge, Attentive Friendly Staff, Parking - Street, Vinyl/Plank",
+      "price": "$2,100",
       "sqft": "n/a",
-      "neighborhood": "Nob Hill",
+      "neighborhood": "nob hill",
       "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-5-months-furnished-1br/mFPJDYtz9TTv6QeZtumTWo"
+      "url": "https://www.craigslist.org/view/d/san-francisco-fridge-attentive-friendly/t6t9p5GDfjrk45eUqFPU6D"
     },
     {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-live-in-the-heart-of-nob/aytJkfogvGbx82sJi9U2QJ",
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-only-1795-for-newly/7358e9fEnQ29brpAHqtU5v",
       "source": "Craigslist",
       "type": "standard rental",
-      "title": "Live in the Heart of Nob Hill at 701 Taylor Apartments",
-      "price": "$2,780",
+      "title": "Only $1,795 for a Newly Renovated 1 BD!",
+      "price": "$2,100",
       "sqft": "n/a",
-      "neighborhood": "lower nob hill",
+      "neighborhood": "nob hill",
       "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-live-in-the-heart-of-nob/aytJkfogvGbx82sJi9U2QJ"
+      "url": "https://www.craigslist.org/view/d/san-francisco-only-1795-for-newly/7358e9fEnQ29brpAHqtU5v"
     },
     {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-live-in-the-heart-of-nob/aytJkfogvGbx82sJi9U2QJ",
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-bd-1795-new-plank-floor/m6XX4JTLcPhMYYFekg1TEo",
       "source": "Craigslist",
       "type": "standard rental",
-      "title": "Live in the Heart of Nob Hill at 701 Taylor Apartments",
-      "price": "$2,780",
+      "title": "1 BD $1,795-New Plank Floor in Great Location!",
+      "price": "$2,100",
       "sqft": "n/a",
-      "neighborhood": "lower nob hill",
+      "neighborhood": "nob hill",
       "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-live-in-the-heart-of-nob/aytJkfogvGbx82sJi9U2QJ"
+      "url": "https://www.craigslist.org/view/d/san-francisco-bd-1795-new-plank-floor/m6XX4JTLcPhMYYFekg1TEo"
     },
     {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-live-in-the-heart-of-nob/aytJkfogvGbx82sJi9U2QJ",
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-bd-only-1795-in-prime/2wk2y8PbJNVfHeBCxhdM2L",
       "source": "Craigslist",
       "type": "standard rental",
-      "title": "Live in the Heart of Nob Hill at 701 Taylor Apartments",
-      "price": "$2,780",
+      "title": "1 BD Only $1,795 in Prime Location",
+      "price": "$2,100",
       "sqft": "n/a",
-      "neighborhood": "lower nob hill",
+      "neighborhood": "nob hill",
       "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-live-in-the-heart-of-nob/aytJkfogvGbx82sJi9U2QJ"
+      "url": "https://www.craigslist.org/view/d/san-francisco-bd-only-1795-in-prime/2wk2y8PbJNVfHeBCxhdM2L"
     },
     {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-live-in-the-heart-of-nob/aytJkfogvGbx82sJi9U2QJ",
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-fridge-attentive-friendly/t6t9p5GDfjrk45eUqFPU6D",
       "source": "Craigslist",
       "type": "standard rental",
-      "title": "Live in the Heart of Nob Hill at 701 Taylor Apartments",
-      "price": "$2,780",
+      "title": "Fridge, Attentive Friendly Staff, Parking - Street, Vinyl/Plank",
+      "price": "$2,100",
       "sqft": "n/a",
-      "neighborhood": "lower nob hill",
+      "neighborhood": "nob hill",
       "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-live-in-the-heart-of-nob/aytJkfogvGbx82sJi9U2QJ"
+      "url": "https://www.craigslist.org/view/d/san-francisco-fridge-attentive-friendly/t6t9p5GDfjrk45eUqFPU6D"
     },
     {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-live-in-the-heart-of-nob/aytJkfogvGbx82sJi9U2QJ",
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-only-1795-for-newly/7358e9fEnQ29brpAHqtU5v",
       "source": "Craigslist",
       "type": "standard rental",
-      "title": "Live in the Heart of Nob Hill at 701 Taylor Apartments",
-      "price": "$2,780",
+      "title": "Only $1,795 for a Newly Renovated 1 BD!",
+      "price": "$2,100",
       "sqft": "n/a",
-      "neighborhood": "lower nob hill",
+      "neighborhood": "nob hill",
       "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-live-in-the-heart-of-nob/aytJkfogvGbx82sJi9U2QJ"
+      "url": "https://www.craigslist.org/view/d/san-francisco-only-1795-for-newly/7358e9fEnQ29brpAHqtU5v"
+    },
+    {
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-bd-1795-new-plank-floor/m6XX4JTLcPhMYYFekg1TEo",
+      "source": "Craigslist",
+      "type": "standard rental",
+      "title": "1 BD $1,795-New Plank Floor in Great Location!",
+      "price": "$2,100",
+      "sqft": "n/a",
+      "neighborhood": "nob hill",
+      "posted": "n/a",
+      "url": "https://www.craigslist.org/view/d/san-francisco-bd-1795-new-plank-floor/m6XX4JTLcPhMYYFekg1TEo"
+    },
+    {
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-bd-only-1795-in-prime/2wk2y8PbJNVfHeBCxhdM2L",
+      "source": "Craigslist",
+      "type": "standard rental",
+      "title": "1 BD Only $1,795 in Prime Location",
+      "price": "$2,100",
+      "sqft": "n/a",
+      "neighborhood": "nob hill",
+      "posted": "n/a",
+      "url": "https://www.craigslist.org/view/d/san-francisco-bd-only-1795-in-prime/2wk2y8PbJNVfHeBCxhdM2L"
     },
     {
       "id": "cl-https://www.craigslist.org/view/d/san-francisco-luxury-private-suite-deck/bFqU2H2qMc9kdEoqHmRuLU",
@@ -388,59 +388,59 @@
       "url": "https://www.craigslist.org/view/d/san-francisco-luxury-private-suite-deck/bFqU2H2qMc9kdEoqHmRuLU"
     },
     {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-charming-bright-remodeled/mugydrzy4XgPAsTDaWDwRt",
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-elegant-nob-hill-living/vgQzfNs6CcNdDkrCt4ztVk",
       "source": "Craigslist",
       "type": "standard rental",
-      "title": "***Charming Bright Remodeled *TOP Floor Unit / Unbelievable VIEWS***",
-      "price": "$3,400",
+      "title": "Elegant Nob Hill Living at 845 California Apartments",
+      "price": "$3,290",
       "sqft": "n/a",
-      "neighborhood": "Potrero Hill",
+      "neighborhood": "nob hill",
       "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-charming-bright-remodeled/mugydrzy4XgPAsTDaWDwRt"
+      "url": "https://www.craigslist.org/view/d/san-francisco-elegant-nob-hill-living/vgQzfNs6CcNdDkrCt4ztVk"
     },
     {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-charming-bright-remodeled/mugydrzy4XgPAsTDaWDwRt",
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-elegant-nob-hill-living/vgQzfNs6CcNdDkrCt4ztVk",
       "source": "Craigslist",
       "type": "standard rental",
-      "title": "***Charming Bright Remodeled *TOP Floor Unit / Unbelievable VIEWS***",
-      "price": "$3,400",
+      "title": "Elegant Nob Hill Living at 845 California Apartments",
+      "price": "$3,290",
       "sqft": "n/a",
-      "neighborhood": "Potrero Hill",
+      "neighborhood": "nob hill",
       "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-charming-bright-remodeled/mugydrzy4XgPAsTDaWDwRt"
+      "url": "https://www.craigslist.org/view/d/san-francisco-elegant-nob-hill-living/vgQzfNs6CcNdDkrCt4ztVk"
     },
     {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-charming-bright-remodeled/mugydrzy4XgPAsTDaWDwRt",
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-elegant-nob-hill-living/vgQzfNs6CcNdDkrCt4ztVk",
       "source": "Craigslist",
       "type": "standard rental",
-      "title": "***Charming Bright Remodeled *TOP Floor Unit / Unbelievable VIEWS***",
-      "price": "$3,400",
+      "title": "Elegant Nob Hill Living at 845 California Apartments",
+      "price": "$3,290",
       "sqft": "n/a",
-      "neighborhood": "Potrero Hill",
+      "neighborhood": "nob hill",
       "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-charming-bright-remodeled/mugydrzy4XgPAsTDaWDwRt"
+      "url": "https://www.craigslist.org/view/d/san-francisco-elegant-nob-hill-living/vgQzfNs6CcNdDkrCt4ztVk"
     },
     {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-charming-bright-remodeled/mugydrzy4XgPAsTDaWDwRt",
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-elegant-nob-hill-living/vgQzfNs6CcNdDkrCt4ztVk",
       "source": "Craigslist",
       "type": "standard rental",
-      "title": "***Charming Bright Remodeled *TOP Floor Unit / Unbelievable VIEWS***",
-      "price": "$3,400",
+      "title": "Elegant Nob Hill Living at 845 California Apartments",
+      "price": "$3,290",
       "sqft": "n/a",
-      "neighborhood": "Potrero Hill",
+      "neighborhood": "nob hill",
       "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-charming-bright-remodeled/mugydrzy4XgPAsTDaWDwRt"
+      "url": "https://www.craigslist.org/view/d/san-francisco-elegant-nob-hill-living/vgQzfNs6CcNdDkrCt4ztVk"
     },
     {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-charming-bright-remodeled/mugydrzy4XgPAsTDaWDwRt",
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-elegant-nob-hill-living/vgQzfNs6CcNdDkrCt4ztVk",
       "source": "Craigslist",
       "type": "standard rental",
-      "title": "***Charming Bright Remodeled *TOP Floor Unit / Unbelievable VIEWS***",
-      "price": "$3,400",
+      "title": "Elegant Nob Hill Living at 845 California Apartments",
+      "price": "$3,290",
       "sqft": "n/a",
-      "neighborhood": "Potrero Hill",
+      "neighborhood": "nob hill",
       "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-charming-bright-remodeled/mugydrzy4XgPAsTDaWDwRt"
+      "url": "https://www.craigslist.org/view/d/san-francisco-elegant-nob-hill-living/vgQzfNs6CcNdDkrCt4ztVk"
     },
     {
       "id": "cl-https://www.craigslist.org/view/d/san-francisco-renovated-nob-hill-bedroom/kVVWkNwrGvV7wyfnnDvtDZ",
@@ -938,48 +938,15 @@
       "url": "https://www.craigslist.org/view/d/san-francisco-amazing-1bed-1ba-floor/a78Raa16fbEgmRBz2vVXUn"
     },
     {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-nob-hill-655powellpine-d/s5CjAedQroGsRxE7vChknD",
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-nob-hill-737-pinepowell/2G7C2rsct3jTVUmjrhYPWC",
       "source": "Craigslist",
       "type": "standard rental",
-      "title": "Nob Hill/655Powell&Pine/W/D in unit/Coming Soon!!",
+      "title": "Nob Hill/737 Pine&Powell/Remodeled/W/D in unit/COMING SOON!!",
       "price": "$4,395",
       "sqft": "n/a",
       "neighborhood": "nob hill",
       "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-nob-hill-655powellpine-d/s5CjAedQroGsRxE7vChknD"
-    },
-    {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-nob-hill-655powellpine-d/s5CjAedQroGsRxE7vChknD",
-      "source": "Craigslist",
-      "type": "standard rental",
-      "title": "Nob Hill/655Powell&Pine/W/D in unit/Coming Soon!!",
-      "price": "$4,395",
-      "sqft": "n/a",
-      "neighborhood": "nob hill",
-      "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-nob-hill-655powellpine-d/s5CjAedQroGsRxE7vChknD"
-    },
-    {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-nob-hill-655powellpine-d/s5CjAedQroGsRxE7vChknD",
-      "source": "Craigslist",
-      "type": "standard rental",
-      "title": "Nob Hill/655Powell&Pine/W/D in unit/Coming Soon!!",
-      "price": "$4,395",
-      "sqft": "n/a",
-      "neighborhood": "nob hill",
-      "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-nob-hill-655powellpine-d/s5CjAedQroGsRxE7vChknD"
-    },
-    {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-nob-hill-655powellpine-d/s5CjAedQroGsRxE7vChknD",
-      "source": "Craigslist",
-      "type": "standard rental",
-      "title": "Nob Hill/655Powell&Pine/W/D in unit/Coming Soon!!",
-      "price": "$4,395",
-      "sqft": "n/a",
-      "neighborhood": "nob hill",
-      "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-nob-hill-655powellpine-d/s5CjAedQroGsRxE7vChknD"
+      "url": "https://www.craigslist.org/view/d/san-francisco-nob-hill-737-pinepowell/2G7C2rsct3jTVUmjrhYPWC"
     },
     {
       "id": "cl-https://www.craigslist.org/view/d/san-francisco-nob-hill-655powellpine-d/s5CjAedQroGsRxE7vChknD",
@@ -997,11 +964,99 @@
       "source": "Craigslist",
       "type": "standard rental",
       "title": "Nob Hill/737 Pine&Powell/Remodeled/W/D in unit/COMING SOON!!",
-      "price": "$4,495",
+      "price": "$4,395",
       "sqft": "n/a",
       "neighborhood": "nob hill",
       "posted": "n/a",
       "url": "https://www.craigslist.org/view/d/san-francisco-nob-hill-737-pinepowell/2G7C2rsct3jTVUmjrhYPWC"
+    },
+    {
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-nob-hill-655powellpine-d/s5CjAedQroGsRxE7vChknD",
+      "source": "Craigslist",
+      "type": "standard rental",
+      "title": "Nob Hill/655Powell&Pine/W/D in unit/Coming Soon!!",
+      "price": "$4,395",
+      "sqft": "n/a",
+      "neighborhood": "nob hill",
+      "posted": "n/a",
+      "url": "https://www.craigslist.org/view/d/san-francisco-nob-hill-655powellpine-d/s5CjAedQroGsRxE7vChknD"
+    },
+    {
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-nob-hill-737-pinepowell/2G7C2rsct3jTVUmjrhYPWC",
+      "source": "Craigslist",
+      "type": "standard rental",
+      "title": "Nob Hill/737 Pine&Powell/Remodeled/W/D in unit/COMING SOON!!",
+      "price": "$4,395",
+      "sqft": "n/a",
+      "neighborhood": "nob hill",
+      "posted": "n/a",
+      "url": "https://www.craigslist.org/view/d/san-francisco-nob-hill-737-pinepowell/2G7C2rsct3jTVUmjrhYPWC"
+    },
+    {
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-nob-hill-655powellpine-d/s5CjAedQroGsRxE7vChknD",
+      "source": "Craigslist",
+      "type": "standard rental",
+      "title": "Nob Hill/655Powell&Pine/W/D in unit/Coming Soon!!",
+      "price": "$4,395",
+      "sqft": "n/a",
+      "neighborhood": "nob hill",
+      "posted": "n/a",
+      "url": "https://www.craigslist.org/view/d/san-francisco-nob-hill-655powellpine-d/s5CjAedQroGsRxE7vChknD"
+    },
+    {
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-nob-hill-737-pinepowell/2G7C2rsct3jTVUmjrhYPWC",
+      "source": "Craigslist",
+      "type": "standard rental",
+      "title": "Nob Hill/737 Pine&Powell/Remodeled/W/D in unit/COMING SOON!!",
+      "price": "$4,395",
+      "sqft": "n/a",
+      "neighborhood": "nob hill",
+      "posted": "n/a",
+      "url": "https://www.craigslist.org/view/d/san-francisco-nob-hill-737-pinepowell/2G7C2rsct3jTVUmjrhYPWC"
+    },
+    {
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-nob-hill-655powellpine-d/s5CjAedQroGsRxE7vChknD",
+      "source": "Craigslist",
+      "type": "standard rental",
+      "title": "Nob Hill/655Powell&Pine/W/D in unit/Coming Soon!!",
+      "price": "$4,395",
+      "sqft": "n/a",
+      "neighborhood": "nob hill",
+      "posted": "n/a",
+      "url": "https://www.craigslist.org/view/d/san-francisco-nob-hill-655powellpine-d/s5CjAedQroGsRxE7vChknD"
+    },
+    {
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-nob-hill-737-pinepowell/2G7C2rsct3jTVUmjrhYPWC",
+      "source": "Craigslist",
+      "type": "standard rental",
+      "title": "Nob Hill/737 Pine&Powell/Remodeled/W/D in unit/COMING SOON!!",
+      "price": "$4,395",
+      "sqft": "n/a",
+      "neighborhood": "nob hill",
+      "posted": "n/a",
+      "url": "https://www.craigslist.org/view/d/san-francisco-nob-hill-737-pinepowell/2G7C2rsct3jTVUmjrhYPWC"
+    },
+    {
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-nob-hill-655powellpine-d/s5CjAedQroGsRxE7vChknD",
+      "source": "Craigslist",
+      "type": "standard rental",
+      "title": "Nob Hill/655Powell&Pine/W/D in unit/Coming Soon!!",
+      "price": "$4,395",
+      "sqft": "n/a",
+      "neighborhood": "nob hill",
+      "posted": "n/a",
+      "url": "https://www.craigslist.org/view/d/san-francisco-nob-hill-655powellpine-d/s5CjAedQroGsRxE7vChknD"
+    },
+    {
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-nob-hill-655powellpine-d/sYy4AUVEFMkodVQLjGySbL",
+      "source": "Craigslist",
+      "type": "standard rental",
+      "title": "Nob Hill/655Powell&Pine/W/D in unit/Coming Soon!!",
+      "price": "$4,495",
+      "sqft": "n/a",
+      "neighborhood": "nob hill",
+      "posted": "n/a",
+      "url": "https://www.craigslist.org/view/d/san-francisco-nob-hill-655powellpine-d/sYy4AUVEFMkodVQLjGySbL"
     },
     {
       "id": "cl-https://www.craigslist.org/view/d/san-francisco-remodeled-2br-with-in/hZUS1RC3X8KGiKb8Cf2p3e",
@@ -1037,15 +1092,15 @@
       "url": "https://www.craigslist.org/view/d/san-francisco-1br-with-private-patio-d/2NnK4MJATPvwArZxz3ocmm"
     },
     {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-nob-hill-737-pinepowell/2G7C2rsct3jTVUmjrhYPWC",
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-nob-hill-655powellpine-d/sYy4AUVEFMkodVQLjGySbL",
       "source": "Craigslist",
       "type": "standard rental",
-      "title": "Nob Hill/737 Pine&Powell/Remodeled/W/D in unit/COMING SOON!!",
+      "title": "Nob Hill/655Powell&Pine/W/D in unit/Coming Soon!!",
       "price": "$4,495",
       "sqft": "n/a",
       "neighborhood": "nob hill",
       "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-nob-hill-737-pinepowell/2G7C2rsct3jTVUmjrhYPWC"
+      "url": "https://www.craigslist.org/view/d/san-francisco-nob-hill-655powellpine-d/sYy4AUVEFMkodVQLjGySbL"
     },
     {
       "id": "cl-https://www.craigslist.org/view/d/san-francisco-remodeled-2br-with-in/hZUS1RC3X8KGiKb8Cf2p3e",
@@ -1081,15 +1136,15 @@
       "url": "https://www.craigslist.org/view/d/san-francisco-1br-with-private-patio-d/2NnK4MJATPvwArZxz3ocmm"
     },
     {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-nob-hill-737-pinepowell/2G7C2rsct3jTVUmjrhYPWC",
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-nob-hill-655powellpine-d/sYy4AUVEFMkodVQLjGySbL",
       "source": "Craigslist",
       "type": "standard rental",
-      "title": "Nob Hill/737 Pine&Powell/Remodeled/W/D in unit/COMING SOON!!",
+      "title": "Nob Hill/655Powell&Pine/W/D in unit/Coming Soon!!",
       "price": "$4,495",
       "sqft": "n/a",
       "neighborhood": "nob hill",
       "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-nob-hill-737-pinepowell/2G7C2rsct3jTVUmjrhYPWC"
+      "url": "https://www.craigslist.org/view/d/san-francisco-nob-hill-655powellpine-d/sYy4AUVEFMkodVQLjGySbL"
     },
     {
       "id": "cl-https://www.craigslist.org/view/d/san-francisco-remodeled-2br-with-in/hZUS1RC3X8KGiKb8Cf2p3e",
@@ -1125,15 +1180,15 @@
       "url": "https://www.craigslist.org/view/d/san-francisco-1br-with-private-patio-d/2NnK4MJATPvwArZxz3ocmm"
     },
     {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-nob-hill-737-pinepowell/2G7C2rsct3jTVUmjrhYPWC",
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-nob-hill-655powellpine-d/sYy4AUVEFMkodVQLjGySbL",
       "source": "Craigslist",
       "type": "standard rental",
-      "title": "Nob Hill/737 Pine&Powell/Remodeled/W/D in unit/COMING SOON!!",
+      "title": "Nob Hill/655Powell&Pine/W/D in unit/Coming Soon!!",
       "price": "$4,495",
       "sqft": "n/a",
       "neighborhood": "nob hill",
       "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-nob-hill-737-pinepowell/2G7C2rsct3jTVUmjrhYPWC"
+      "url": "https://www.craigslist.org/view/d/san-francisco-nob-hill-655powellpine-d/sYy4AUVEFMkodVQLjGySbL"
     },
     {
       "id": "cl-https://www.craigslist.org/view/d/san-francisco-remodeled-2br-with-in/hZUS1RC3X8KGiKb8Cf2p3e",
@@ -1169,15 +1224,15 @@
       "url": "https://www.craigslist.org/view/d/san-francisco-1br-with-private-patio-d/2NnK4MJATPvwArZxz3ocmm"
     },
     {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-nob-hill-737-pinepowell/2G7C2rsct3jTVUmjrhYPWC",
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-nob-hill-655powellpine-d/sYy4AUVEFMkodVQLjGySbL",
       "source": "Craigslist",
       "type": "standard rental",
-      "title": "Nob Hill/737 Pine&Powell/Remodeled/W/D in unit/COMING SOON!!",
+      "title": "Nob Hill/655Powell&Pine/W/D in unit/Coming Soon!!",
       "price": "$4,495",
       "sqft": "n/a",
       "neighborhood": "nob hill",
       "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-nob-hill-737-pinepowell/2G7C2rsct3jTVUmjrhYPWC"
+      "url": "https://www.craigslist.org/view/d/san-francisco-nob-hill-655powellpine-d/sYy4AUVEFMkodVQLjGySbL"
     },
     {
       "id": "cl-https://www.craigslist.org/view/d/san-francisco-remodeled-2br-with-in/hZUS1RC3X8KGiKb8Cf2p3e",
@@ -1541,6 +1596,17 @@
       "neighborhood": "nob hill",
       "posted": "n/a",
       "url": "https://www.craigslist.org/view/d/san-francisco-1425-taylor-stunning-1x1/gpJvWeraUj41J2wqnTqqGn"
+    },
+    {
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-nob-hill-825-pinepowell-d/6AaaQ4aKpbrULGo2ndD1bR",
+      "source": "Craigslist",
+      "type": "standard rental",
+      "title": "Nob Hill/825 Pine&Powell/W/D in unit/Shared Rooftop/Coming Soon!!",
+      "price": "$4,795",
+      "sqft": "n/a",
+      "neighborhood": "nob hill",
+      "posted": "n/a",
+      "url": "https://www.craigslist.org/view/d/san-francisco-nob-hill-825-pinepowell-d/6AaaQ4aKpbrULGo2ndD1bR"
     },
     {
       "id": "cl-https://www.craigslist.org/view/d/san-francisco-ready-now-2br-top-floor/6xFwjA6kKzqmE2cTFiK7ee",
@@ -1576,6 +1642,17 @@
       "url": "https://www.craigslist.org/view/d/san-francisco-jr-bedroom-in-unit/u5iLBUrAhQoCmPapBbX7SE"
     },
     {
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-nob-hill-825-pinepowell-d/6AaaQ4aKpbrULGo2ndD1bR",
+      "source": "Craigslist",
+      "type": "standard rental",
+      "title": "Nob Hill/825 Pine&Powell/W/D in unit/Shared Rooftop/Coming Soon!!",
+      "price": "$4,795",
+      "sqft": "n/a",
+      "neighborhood": "nob hill",
+      "posted": "n/a",
+      "url": "https://www.craigslist.org/view/d/san-francisco-nob-hill-825-pinepowell-d/6AaaQ4aKpbrULGo2ndD1bR"
+    },
+    {
       "id": "cl-https://www.craigslist.org/view/d/san-francisco-ready-now-2br-top-floor/6xFwjA6kKzqmE2cTFiK7ee",
       "source": "Craigslist",
       "type": "standard rental",
@@ -1609,6 +1686,17 @@
       "url": "https://www.craigslist.org/view/d/san-francisco-jr-bedroom-in-unit/u5iLBUrAhQoCmPapBbX7SE"
     },
     {
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-nob-hill-825-pinepowell-d/6AaaQ4aKpbrULGo2ndD1bR",
+      "source": "Craigslist",
+      "type": "standard rental",
+      "title": "Nob Hill/825 Pine&Powell/W/D in unit/Shared Rooftop/Coming Soon!!",
+      "price": "$4,795",
+      "sqft": "n/a",
+      "neighborhood": "nob hill",
+      "posted": "n/a",
+      "url": "https://www.craigslist.org/view/d/san-francisco-nob-hill-825-pinepowell-d/6AaaQ4aKpbrULGo2ndD1bR"
+    },
+    {
       "id": "cl-https://www.craigslist.org/view/d/san-francisco-ready-now-2br-top-floor/6xFwjA6kKzqmE2cTFiK7ee",
       "source": "Craigslist",
       "type": "standard rental",
@@ -1642,6 +1730,17 @@
       "url": "https://www.craigslist.org/view/d/san-francisco-jr-bedroom-in-unit/u5iLBUrAhQoCmPapBbX7SE"
     },
     {
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-nob-hill-825-pinepowell-d/6AaaQ4aKpbrULGo2ndD1bR",
+      "source": "Craigslist",
+      "type": "standard rental",
+      "title": "Nob Hill/825 Pine&Powell/W/D in unit/Shared Rooftop/Coming Soon!!",
+      "price": "$4,795",
+      "sqft": "n/a",
+      "neighborhood": "nob hill",
+      "posted": "n/a",
+      "url": "https://www.craigslist.org/view/d/san-francisco-nob-hill-825-pinepowell-d/6AaaQ4aKpbrULGo2ndD1bR"
+    },
+    {
       "id": "cl-https://www.craigslist.org/view/d/san-francisco-ready-now-2br-top-floor/6xFwjA6kKzqmE2cTFiK7ee",
       "source": "Craigslist",
       "type": "standard rental",
@@ -1673,6 +1772,17 @@
       "neighborhood": "nob hill",
       "posted": "n/a",
       "url": "https://www.craigslist.org/view/d/san-francisco-jr-bedroom-in-unit/u5iLBUrAhQoCmPapBbX7SE"
+    },
+    {
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-nob-hill-825-pinepowell-d/6AaaQ4aKpbrULGo2ndD1bR",
+      "source": "Craigslist",
+      "type": "standard rental",
+      "title": "Nob Hill/825 Pine&Powell/W/D in unit/Shared Rooftop/Coming Soon!!",
+      "price": "$4,795",
+      "sqft": "n/a",
+      "neighborhood": "nob hill",
+      "posted": "n/a",
+      "url": "https://www.craigslist.org/view/d/san-francisco-nob-hill-825-pinepowell-d/6AaaQ4aKpbrULGo2ndD1bR"
     },
     {
       "id": "cl-https://www.craigslist.org/view/d/san-francisco-ready-now-2br-top-floor/6xFwjA6kKzqmE2cTFiK7ee",
