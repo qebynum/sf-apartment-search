@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-30 07:56 UTC",
-  "count": 165,
+  "last_updated": "2026-07-30 18:59 UTC",
+  "count": 160,
   "listings": [
     {
       "id": "cl-https://www.craigslist.org/view/d/san-francisco-noe-valley-apartment/v2ZGQE5g33XR4QjNM6SseZ",
@@ -102,15 +102,48 @@
       "url": "https://www.craigslist.org/view/d/san-francisco-fridge-attentive-friendly/t6t9p5GDfjrk45eUqFPU6D"
     },
     {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-only-1795-for-newly/7358e9fEnQ29brpAHqtU5v",
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-carpet-stove-oven-24/cr7BpmvY3bihLZGzoZgjCf",
       "source": "Craigslist",
       "type": "standard rental",
-      "title": "Only $1,795 for a Newly Renovated 1 BD!",
+      "title": "Carpet, Stove/Oven, 24/7 Emergency Maintenance, Elevators",
       "price": "$2,100",
       "sqft": "n/a",
       "neighborhood": "nob hill",
       "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-only-1795-for-newly/7358e9fEnQ29brpAHqtU5v"
+      "url": "https://www.craigslist.org/view/d/san-francisco-carpet-stove-oven-24/cr7BpmvY3bihLZGzoZgjCf"
+    },
+    {
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-courtesy-patrol-24/krtUvMCCNNteuBy1fq4WSx",
+      "source": "Craigslist",
+      "type": "standard rental",
+      "title": "Courtesy Patrol, 24/7 Emergency Maintenance, Attentive Friendly Staff",
+      "price": "$2,100",
+      "sqft": "n/a",
+      "neighborhood": "nob hill",
+      "posted": "n/a",
+      "url": "https://www.craigslist.org/view/d/san-francisco-courtesy-patrol-24/krtUvMCCNNteuBy1fq4WSx"
+    },
+    {
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-attentive-friendly-staff/i1V9CAt7LKL2KU8uwxqBpi",
+      "source": "Craigslist",
+      "type": "standard rental",
+      "title": "Attentive Friendly Staff, Heating, Stove/Oven, Vertical Blinds",
+      "price": "$2,100",
+      "sqft": "n/a",
+      "neighborhood": "nob hill",
+      "posted": "n/a",
+      "url": "https://www.craigslist.org/view/d/san-francisco-attentive-friendly-staff/i1V9CAt7LKL2KU8uwxqBpi"
+    },
+    {
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-fridge-attentive-friendly/t6t9p5GDfjrk45eUqFPU6D",
+      "source": "Craigslist",
+      "type": "standard rental",
+      "title": "Fridge, Attentive Friendly Staff, Parking - Street, Vinyl/Plank",
+      "price": "$2,100",
+      "sqft": "n/a",
+      "neighborhood": "nob hill",
+      "posted": "n/a",
+      "url": "https://www.craigslist.org/view/d/san-francisco-fridge-attentive-friendly/t6t9p5GDfjrk45eUqFPU6D"
     },
     {
       "id": "cl-https://www.craigslist.org/view/d/san-francisco-carpet-stove-oven-24/cr7BpmvY3bihLZGzoZgjCf",
@@ -157,17 +190,6 @@
       "url": "https://www.craigslist.org/view/d/san-francisco-fridge-attentive-friendly/t6t9p5GDfjrk45eUqFPU6D"
     },
     {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-only-1795-for-newly/7358e9fEnQ29brpAHqtU5v",
-      "source": "Craigslist",
-      "type": "standard rental",
-      "title": "Only $1,795 for a Newly Renovated 1 BD!",
-      "price": "$2,100",
-      "sqft": "n/a",
-      "neighborhood": "nob hill",
-      "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-only-1795-for-newly/7358e9fEnQ29brpAHqtU5v"
-    },
-    {
       "id": "cl-https://www.craigslist.org/view/d/san-francisco-carpet-stove-oven-24/cr7BpmvY3bihLZGzoZgjCf",
       "source": "Craigslist",
       "type": "standard rental",
@@ -212,17 +234,6 @@
       "url": "https://www.craigslist.org/view/d/san-francisco-fridge-attentive-friendly/t6t9p5GDfjrk45eUqFPU6D"
     },
     {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-only-1795-for-newly/7358e9fEnQ29brpAHqtU5v",
-      "source": "Craigslist",
-      "type": "standard rental",
-      "title": "Only $1,795 for a Newly Renovated 1 BD!",
-      "price": "$2,100",
-      "sqft": "n/a",
-      "neighborhood": "nob hill",
-      "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-only-1795-for-newly/7358e9fEnQ29brpAHqtU5v"
-    },
-    {
       "id": "cl-https://www.craigslist.org/view/d/san-francisco-carpet-stove-oven-24/cr7BpmvY3bihLZGzoZgjCf",
       "source": "Craigslist",
       "type": "standard rental",
@@ -265,72 +276,6 @@
       "neighborhood": "nob hill",
       "posted": "n/a",
       "url": "https://www.craigslist.org/view/d/san-francisco-fridge-attentive-friendly/t6t9p5GDfjrk45eUqFPU6D"
-    },
-    {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-only-1795-for-newly/7358e9fEnQ29brpAHqtU5v",
-      "source": "Craigslist",
-      "type": "standard rental",
-      "title": "Only $1,795 for a Newly Renovated 1 BD!",
-      "price": "$2,100",
-      "sqft": "n/a",
-      "neighborhood": "nob hill",
-      "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-only-1795-for-newly/7358e9fEnQ29brpAHqtU5v"
-    },
-    {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-carpet-stove-oven-24/cr7BpmvY3bihLZGzoZgjCf",
-      "source": "Craigslist",
-      "type": "standard rental",
-      "title": "Carpet, Stove/Oven, 24/7 Emergency Maintenance, Elevators",
-      "price": "$2,100",
-      "sqft": "n/a",
-      "neighborhood": "nob hill",
-      "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-carpet-stove-oven-24/cr7BpmvY3bihLZGzoZgjCf"
-    },
-    {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-courtesy-patrol-24/krtUvMCCNNteuBy1fq4WSx",
-      "source": "Craigslist",
-      "type": "standard rental",
-      "title": "Courtesy Patrol, 24/7 Emergency Maintenance, Attentive Friendly Staff",
-      "price": "$2,100",
-      "sqft": "n/a",
-      "neighborhood": "nob hill",
-      "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-courtesy-patrol-24/krtUvMCCNNteuBy1fq4WSx"
-    },
-    {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-attentive-friendly-staff/i1V9CAt7LKL2KU8uwxqBpi",
-      "source": "Craigslist",
-      "type": "standard rental",
-      "title": "Attentive Friendly Staff, Heating, Stove/Oven, Vertical Blinds",
-      "price": "$2,100",
-      "sqft": "n/a",
-      "neighborhood": "nob hill",
-      "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-attentive-friendly-staff/i1V9CAt7LKL2KU8uwxqBpi"
-    },
-    {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-fridge-attentive-friendly/t6t9p5GDfjrk45eUqFPU6D",
-      "source": "Craigslist",
-      "type": "standard rental",
-      "title": "Fridge, Attentive Friendly Staff, Parking - Street, Vinyl/Plank",
-      "price": "$2,100",
-      "sqft": "n/a",
-      "neighborhood": "nob hill",
-      "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-fridge-attentive-friendly/t6t9p5GDfjrk45eUqFPU6D"
-    },
-    {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-only-1795-for-newly/7358e9fEnQ29brpAHqtU5v",
-      "source": "Craigslist",
-      "type": "standard rental",
-      "title": "Only $1,795 for a Newly Renovated 1 BD!",
-      "price": "$2,100",
-      "sqft": "n/a",
-      "neighborhood": "nob hill",
-      "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-only-1795-for-newly/7358e9fEnQ29brpAHqtU5v"
     },
     {
       "id": "cl-https://www.craigslist.org/view/d/san-francisco-luxury-private-suite-deck/bFqU2H2qMc9kdEoqHmRuLU",
