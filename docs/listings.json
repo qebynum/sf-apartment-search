@@ -1,63 +1,8 @@
 {
-  "last_updated": "2026-07-31 09:35 UTC",
-  "count": 165,
+  "last_updated": "2026-07-31 18:56 UTC",
+  "count": 155,
   "listings": [
     {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-lower-nob-hill-one/xAVwWz2M48JWyNiV8h1ZSV",
-      "source": "Craigslist",
-      "type": "standard rental",
-      "title": "Lower Nob Hill One-Bedroom\\One-Bath Apartment",
-      "price": "$1,574",
-      "sqft": "n/a",
-      "neighborhood": "nob hill",
-      "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-lower-nob-hill-one/xAVwWz2M48JWyNiV8h1ZSV"
-    },
-    {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-lower-nob-hill-one/xAVwWz2M48JWyNiV8h1ZSV",
-      "source": "Craigslist",
-      "type": "standard rental",
-      "title": "Lower Nob Hill One-Bedroom\\One-Bath Apartment",
-      "price": "$1,574",
-      "sqft": "n/a",
-      "neighborhood": "nob hill",
-      "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-lower-nob-hill-one/xAVwWz2M48JWyNiV8h1ZSV"
-    },
-    {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-lower-nob-hill-one/xAVwWz2M48JWyNiV8h1ZSV",
-      "source": "Craigslist",
-      "type": "standard rental",
-      "title": "Lower Nob Hill One-Bedroom\\One-Bath Apartment",
-      "price": "$1,574",
-      "sqft": "n/a",
-      "neighborhood": "nob hill",
-      "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-lower-nob-hill-one/xAVwWz2M48JWyNiV8h1ZSV"
-    },
-    {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-lower-nob-hill-one/xAVwWz2M48JWyNiV8h1ZSV",
-      "source": "Craigslist",
-      "type": "standard rental",
-      "title": "Lower Nob Hill One-Bedroom\\One-Bath Apartment",
-      "price": "$1,574",
-      "sqft": "n/a",
-      "neighborhood": "nob hill",
-      "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-lower-nob-hill-one/xAVwWz2M48JWyNiV8h1ZSV"
-    },
-    {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-lower-nob-hill-one/xAVwWz2M48JWyNiV8h1ZSV",
-      "source": "Craigslist",
-      "type": "standard rental",
-      "title": "Lower Nob Hill One-Bedroom\\One-Bath Apartment",
-      "price": "$1,574",
-      "sqft": "n/a",
-      "neighborhood": "nob hill",
-      "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-lower-nob-hill-one/xAVwWz2M48JWyNiV8h1ZSV"
-    },
-    {
       "id": "cl-https://www.craigslist.org/view/d/san-francisco-noe-valley-apartment/v2ZGQE5g33XR4QjNM6SseZ",
       "source": "Craigslist",
       "type": "lease takeover / sublet",
@@ -113,59 +58,15 @@
       "url": "https://www.craigslist.org/view/d/san-francisco-noe-valley-apartment/v2ZGQE5g33XR4QjNM6SseZ"
     },
     {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-bd-only-1795-in-prime/jABMdqAxyW9AsPtxkGD3MC",
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-only-1795-for-newly/oc9D136JetpW8UXHRTqaVt",
       "source": "Craigslist",
       "type": "standard rental",
-      "title": "1 BD Only $1,795 in Prime Location",
+      "title": "Only $1,795 for a Newly Renovated 1 BD!",
       "price": "$2,100",
       "sqft": "n/a",
       "neighborhood": "nob hill",
       "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-bd-only-1795-in-prime/jABMdqAxyW9AsPtxkGD3MC"
-    },
-    {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-bd-1795-new-plank-floor/8dKK8Y9PoEyW7Mg7mh8au7",
-      "source": "Craigslist",
-      "type": "standard rental",
-      "title": "1 BD $1,795-New Plank Floor in Great Location!",
-      "price": "$2,100",
-      "sqft": "n/a",
-      "neighborhood": "nob hill",
-      "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-bd-1795-new-plank-floor/8dKK8Y9PoEyW7Mg7mh8au7"
-    },
-    {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-carpet-stove-oven-24/cr7BpmvY3bihLZGzoZgjCf",
-      "source": "Craigslist",
-      "type": "standard rental",
-      "title": "Carpet, Stove/Oven, 24/7 Emergency Maintenance, Elevators",
-      "price": "$2,100",
-      "sqft": "n/a",
-      "neighborhood": "nob hill",
-      "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-carpet-stove-oven-24/cr7BpmvY3bihLZGzoZgjCf"
-    },
-    {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-courtesy-patrol-24/krtUvMCCNNteuBy1fq4WSx",
-      "source": "Craigslist",
-      "type": "standard rental",
-      "title": "Courtesy Patrol, 24/7 Emergency Maintenance, Attentive Friendly Staff",
-      "price": "$2,100",
-      "sqft": "n/a",
-      "neighborhood": "nob hill",
-      "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-courtesy-patrol-24/krtUvMCCNNteuBy1fq4WSx"
-    },
-    {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-attentive-friendly-staff/i1V9CAt7LKL2KU8uwxqBpi",
-      "source": "Craigslist",
-      "type": "standard rental",
-      "title": "Attentive Friendly Staff, Heating, Stove/Oven, Vertical Blinds",
-      "price": "$2,100",
-      "sqft": "n/a",
-      "neighborhood": "nob hill",
-      "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-attentive-friendly-staff/i1V9CAt7LKL2KU8uwxqBpi"
+      "url": "https://www.craigslist.org/view/d/san-francisco-only-1795-for-newly/oc9D136JetpW8UXHRTqaVt"
     },
     {
       "id": "cl-https://www.craigslist.org/view/d/san-francisco-bd-only-1795-in-prime/jABMdqAxyW9AsPtxkGD3MC",
@@ -201,26 +102,15 @@
       "url": "https://www.craigslist.org/view/d/san-francisco-carpet-stove-oven-24/cr7BpmvY3bihLZGzoZgjCf"
     },
     {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-courtesy-patrol-24/krtUvMCCNNteuBy1fq4WSx",
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-only-1795-for-newly/oc9D136JetpW8UXHRTqaVt",
       "source": "Craigslist",
       "type": "standard rental",
-      "title": "Courtesy Patrol, 24/7 Emergency Maintenance, Attentive Friendly Staff",
+      "title": "Only $1,795 for a Newly Renovated 1 BD!",
       "price": "$2,100",
       "sqft": "n/a",
       "neighborhood": "nob hill",
       "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-courtesy-patrol-24/krtUvMCCNNteuBy1fq4WSx"
-    },
-    {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-attentive-friendly-staff/i1V9CAt7LKL2KU8uwxqBpi",
-      "source": "Craigslist",
-      "type": "standard rental",
-      "title": "Attentive Friendly Staff, Heating, Stove/Oven, Vertical Blinds",
-      "price": "$2,100",
-      "sqft": "n/a",
-      "neighborhood": "nob hill",
-      "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-attentive-friendly-staff/i1V9CAt7LKL2KU8uwxqBpi"
+      "url": "https://www.craigslist.org/view/d/san-francisco-only-1795-for-newly/oc9D136JetpW8UXHRTqaVt"
     },
     {
       "id": "cl-https://www.craigslist.org/view/d/san-francisco-bd-only-1795-in-prime/jABMdqAxyW9AsPtxkGD3MC",
@@ -256,26 +146,15 @@
       "url": "https://www.craigslist.org/view/d/san-francisco-carpet-stove-oven-24/cr7BpmvY3bihLZGzoZgjCf"
     },
     {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-courtesy-patrol-24/krtUvMCCNNteuBy1fq4WSx",
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-only-1795-for-newly/oc9D136JetpW8UXHRTqaVt",
       "source": "Craigslist",
       "type": "standard rental",
-      "title": "Courtesy Patrol, 24/7 Emergency Maintenance, Attentive Friendly Staff",
+      "title": "Only $1,795 for a Newly Renovated 1 BD!",
       "price": "$2,100",
       "sqft": "n/a",
       "neighborhood": "nob hill",
       "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-courtesy-patrol-24/krtUvMCCNNteuBy1fq4WSx"
-    },
-    {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-attentive-friendly-staff/i1V9CAt7LKL2KU8uwxqBpi",
-      "source": "Craigslist",
-      "type": "standard rental",
-      "title": "Attentive Friendly Staff, Heating, Stove/Oven, Vertical Blinds",
-      "price": "$2,100",
-      "sqft": "n/a",
-      "neighborhood": "nob hill",
-      "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-attentive-friendly-staff/i1V9CAt7LKL2KU8uwxqBpi"
+      "url": "https://www.craigslist.org/view/d/san-francisco-only-1795-for-newly/oc9D136JetpW8UXHRTqaVt"
     },
     {
       "id": "cl-https://www.craigslist.org/view/d/san-francisco-bd-only-1795-in-prime/jABMdqAxyW9AsPtxkGD3MC",
@@ -311,26 +190,15 @@
       "url": "https://www.craigslist.org/view/d/san-francisco-carpet-stove-oven-24/cr7BpmvY3bihLZGzoZgjCf"
     },
     {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-courtesy-patrol-24/krtUvMCCNNteuBy1fq4WSx",
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-only-1795-for-newly/oc9D136JetpW8UXHRTqaVt",
       "source": "Craigslist",
       "type": "standard rental",
-      "title": "Courtesy Patrol, 24/7 Emergency Maintenance, Attentive Friendly Staff",
+      "title": "Only $1,795 for a Newly Renovated 1 BD!",
       "price": "$2,100",
       "sqft": "n/a",
       "neighborhood": "nob hill",
       "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-courtesy-patrol-24/krtUvMCCNNteuBy1fq4WSx"
-    },
-    {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-attentive-friendly-staff/i1V9CAt7LKL2KU8uwxqBpi",
-      "source": "Craigslist",
-      "type": "standard rental",
-      "title": "Attentive Friendly Staff, Heating, Stove/Oven, Vertical Blinds",
-      "price": "$2,100",
-      "sqft": "n/a",
-      "neighborhood": "nob hill",
-      "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-attentive-friendly-staff/i1V9CAt7LKL2KU8uwxqBpi"
+      "url": "https://www.craigslist.org/view/d/san-francisco-only-1795-for-newly/oc9D136JetpW8UXHRTqaVt"
     },
     {
       "id": "cl-https://www.craigslist.org/view/d/san-francisco-bd-only-1795-in-prime/jABMdqAxyW9AsPtxkGD3MC",
@@ -366,26 +234,48 @@
       "url": "https://www.craigslist.org/view/d/san-francisco-carpet-stove-oven-24/cr7BpmvY3bihLZGzoZgjCf"
     },
     {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-courtesy-patrol-24/krtUvMCCNNteuBy1fq4WSx",
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-only-1795-for-newly/oc9D136JetpW8UXHRTqaVt",
       "source": "Craigslist",
       "type": "standard rental",
-      "title": "Courtesy Patrol, 24/7 Emergency Maintenance, Attentive Friendly Staff",
+      "title": "Only $1,795 for a Newly Renovated 1 BD!",
       "price": "$2,100",
       "sqft": "n/a",
       "neighborhood": "nob hill",
       "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-courtesy-patrol-24/krtUvMCCNNteuBy1fq4WSx"
+      "url": "https://www.craigslist.org/view/d/san-francisco-only-1795-for-newly/oc9D136JetpW8UXHRTqaVt"
     },
     {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-attentive-friendly-staff/i1V9CAt7LKL2KU8uwxqBpi",
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-bd-only-1795-in-prime/jABMdqAxyW9AsPtxkGD3MC",
       "source": "Craigslist",
       "type": "standard rental",
-      "title": "Attentive Friendly Staff, Heating, Stove/Oven, Vertical Blinds",
+      "title": "1 BD Only $1,795 in Prime Location",
       "price": "$2,100",
       "sqft": "n/a",
       "neighborhood": "nob hill",
       "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-attentive-friendly-staff/i1V9CAt7LKL2KU8uwxqBpi"
+      "url": "https://www.craigslist.org/view/d/san-francisco-bd-only-1795-in-prime/jABMdqAxyW9AsPtxkGD3MC"
+    },
+    {
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-bd-1795-new-plank-floor/8dKK8Y9PoEyW7Mg7mh8au7",
+      "source": "Craigslist",
+      "type": "standard rental",
+      "title": "1 BD $1,795-New Plank Floor in Great Location!",
+      "price": "$2,100",
+      "sqft": "n/a",
+      "neighborhood": "nob hill",
+      "posted": "n/a",
+      "url": "https://www.craigslist.org/view/d/san-francisco-bd-1795-new-plank-floor/8dKK8Y9PoEyW7Mg7mh8au7"
+    },
+    {
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-carpet-stove-oven-24/cr7BpmvY3bihLZGzoZgjCf",
+      "source": "Craigslist",
+      "type": "standard rental",
+      "title": "Carpet, Stove/Oven, 24/7 Emergency Maintenance, Elevators",
+      "price": "$2,100",
+      "sqft": "n/a",
+      "neighborhood": "nob hill",
+      "posted": "n/a",
+      "url": "https://www.craigslist.org/view/d/san-francisco-carpet-stove-oven-24/cr7BpmvY3bihLZGzoZgjCf"
     },
     {
       "id": "cl-https://www.craigslist.org/view/d/san-francisco-luxury-private-suite-deck/bFqU2H2qMc9kdEoqHmRuLU",
@@ -1653,7 +1543,7 @@
       "url": "https://www.craigslist.org/view/d/san-francisco-1br-lower-nob-hill/ujyMZTCjJfsewCYQG6ZMTd"
     },
     {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-sunny-bedroom-noe-sublet/mQW1VbaygFUHg7jbs4CKdR",
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-sunny-bedroom-noe-sublet/iFatDg3pHKycpUc958fAVk",
       "source": "Craigslist",
       "type": "lease takeover / sublet",
       "title": "Sunny 3-Bedroom Noe Sublet, Available September",
@@ -1661,10 +1551,10 @@
       "sqft": "n/a",
       "neighborhood": "noe valley",
       "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-sunny-bedroom-noe-sublet/mQW1VbaygFUHg7jbs4CKdR"
+      "url": "https://www.craigslist.org/view/d/san-francisco-sunny-bedroom-noe-sublet/iFatDg3pHKycpUc958fAVk"
     },
     {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-sunny-bedroom-noe-sublet/mQW1VbaygFUHg7jbs4CKdR",
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-sunny-bedroom-noe-sublet/iFatDg3pHKycpUc958fAVk",
       "source": "Craigslist",
       "type": "lease takeover / sublet",
       "title": "Sunny 3-Bedroom Noe Sublet, Available September",
@@ -1672,10 +1562,10 @@
       "sqft": "n/a",
       "neighborhood": "noe valley",
       "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-sunny-bedroom-noe-sublet/mQW1VbaygFUHg7jbs4CKdR"
+      "url": "https://www.craigslist.org/view/d/san-francisco-sunny-bedroom-noe-sublet/iFatDg3pHKycpUc958fAVk"
     },
     {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-sunny-bedroom-noe-sublet/mQW1VbaygFUHg7jbs4CKdR",
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-sunny-bedroom-noe-sublet/iFatDg3pHKycpUc958fAVk",
       "source": "Craigslist",
       "type": "lease takeover / sublet",
       "title": "Sunny 3-Bedroom Noe Sublet, Available September",
@@ -1683,10 +1573,10 @@
       "sqft": "n/a",
       "neighborhood": "noe valley",
       "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-sunny-bedroom-noe-sublet/mQW1VbaygFUHg7jbs4CKdR"
+      "url": "https://www.craigslist.org/view/d/san-francisco-sunny-bedroom-noe-sublet/iFatDg3pHKycpUc958fAVk"
     },
     {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-sunny-bedroom-noe-sublet/mQW1VbaygFUHg7jbs4CKdR",
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-sunny-bedroom-noe-sublet/iFatDg3pHKycpUc958fAVk",
       "source": "Craigslist",
       "type": "lease takeover / sublet",
       "title": "Sunny 3-Bedroom Noe Sublet, Available September",
@@ -1694,10 +1584,10 @@
       "sqft": "n/a",
       "neighborhood": "noe valley",
       "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-sunny-bedroom-noe-sublet/mQW1VbaygFUHg7jbs4CKdR"
+      "url": "https://www.craigslist.org/view/d/san-francisco-sunny-bedroom-noe-sublet/iFatDg3pHKycpUc958fAVk"
     },
     {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-sunny-bedroom-noe-sublet/mQW1VbaygFUHg7jbs4CKdR",
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-sunny-bedroom-noe-sublet/iFatDg3pHKycpUc958fAVk",
       "source": "Craigslist",
       "type": "lease takeover / sublet",
       "title": "Sunny 3-Bedroom Noe Sublet, Available September",
@@ -1705,7 +1595,7 @@
       "sqft": "n/a",
       "neighborhood": "noe valley",
       "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-sunny-bedroom-noe-sublet/mQW1VbaygFUHg7jbs4CKdR"
+      "url": "https://www.craigslist.org/view/d/san-francisco-sunny-bedroom-noe-sublet/iFatDg3pHKycpUc958fAVk"
     },
     {
       "id": "cl-https://www.craigslist.org/view/d/san-francisco-nob-hill-825-pinepowell-d/jX8bd1LK4wDRvrZuEuyy94",
