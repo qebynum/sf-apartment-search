@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-14 05:17 UTC",
-  "count": 180,
+  "last_updated": "2026-08-14 16:36 UTC",
+  "count": 185,
   "listings": [
     {
       "id": "cl-https://www.craigslist.org/view/d/san-francisco-rent-controlled-bed-under/ktaxdSp2TM8Tbd4mgdxpkA",
@@ -1981,6 +1981,61 @@
       "neighborhood": "lower nob hill",
       "posted": "n/a",
       "url": "https://www.craigslist.org/view/d/san-francisco-1br-lower-nob-hill/ujyMZTCjJfsewCYQG6ZMTd"
+    },
+    {
+      "id": "cl-https://www.craigslist.org/view/d/san-leandro-charming-bedroom-bath-home/1NAAaAC8bktXyrwhyjFm5W",
+      "source": "Craigslist",
+      "type": "standard rental",
+      "title": "Charming 1 bedroom, 1 bath home",
+      "price": "$850",
+      "sqft": "n/a",
+      "neighborhood": "Castro Valley, CA",
+      "posted": "n/a",
+      "url": "https://www.craigslist.org/view/d/san-leandro-charming-bedroom-bath-home/1NAAaAC8bktXyrwhyjFm5W"
+    },
+    {
+      "id": "cl-https://www.craigslist.org/view/d/san-leandro-charming-bedroom-bath-home/1NAAaAC8bktXyrwhyjFm5W",
+      "source": "Craigslist",
+      "type": "standard rental",
+      "title": "Charming 1 bedroom, 1 bath home",
+      "price": "$850",
+      "sqft": "n/a",
+      "neighborhood": "Castro Valley, CA",
+      "posted": "n/a",
+      "url": "https://www.craigslist.org/view/d/san-leandro-charming-bedroom-bath-home/1NAAaAC8bktXyrwhyjFm5W"
+    },
+    {
+      "id": "cl-https://www.craigslist.org/view/d/san-leandro-charming-bedroom-bath-home/1NAAaAC8bktXyrwhyjFm5W",
+      "source": "Craigslist",
+      "type": "standard rental",
+      "title": "Charming 1 bedroom, 1 bath home",
+      "price": "$850",
+      "sqft": "n/a",
+      "neighborhood": "Castro Valley, CA",
+      "posted": "n/a",
+      "url": "https://www.craigslist.org/view/d/san-leandro-charming-bedroom-bath-home/1NAAaAC8bktXyrwhyjFm5W"
+    },
+    {
+      "id": "cl-https://www.craigslist.org/view/d/san-leandro-charming-bedroom-bath-home/1NAAaAC8bktXyrwhyjFm5W",
+      "source": "Craigslist",
+      "type": "standard rental",
+      "title": "Charming 1 bedroom, 1 bath home",
+      "price": "$850",
+      "sqft": "n/a",
+      "neighborhood": "Castro Valley, CA",
+      "posted": "n/a",
+      "url": "https://www.craigslist.org/view/d/san-leandro-charming-bedroom-bath-home/1NAAaAC8bktXyrwhyjFm5W"
+    },
+    {
+      "id": "cl-https://www.craigslist.org/view/d/san-leandro-charming-bedroom-bath-home/1NAAaAC8bktXyrwhyjFm5W",
+      "source": "Craigslist",
+      "type": "standard rental",
+      "title": "Charming 1 bedroom, 1 bath home",
+      "price": "$850",
+      "sqft": "n/a",
+      "neighborhood": "Castro Valley, CA",
+      "posted": "n/a",
+      "url": "https://www.craigslist.org/view/d/san-leandro-charming-bedroom-bath-home/1NAAaAC8bktXyrwhyjFm5W"
     }
   ]
 }
