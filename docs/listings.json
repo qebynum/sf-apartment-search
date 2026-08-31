@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-31 01:15 UTC",
-  "count": 165,
+  "last_updated": "2026-08-31 19:52 UTC",
+  "count": 160,
   "listings": [
     {
       "id": "cl-https://www.craigslist.org/view/d/san-francisco-fully-furnished-room-to/fJATV5DCWmZbiC9ft12VJe",
@@ -113,70 +113,26 @@
       "url": "https://www.craigslist.org/view/d/san-francisco-peaceful-room-in/fdKofcgkSpByRtYLgcDCTi"
     },
     {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-bd-1795-new-plank-floor/axbXLzi8FRCZS34rRDy8RM",
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-attentive-friendly-staff/aSyqhD2mu9DKe2nSMPekgP",
       "source": "Craigslist",
       "type": "standard rental",
-      "title": "1 BD $1,795-New Plank Floor in Great Location!",
+      "title": "Attentive Friendly Staff, Fridge, Shower/Tub Combo, Carpet",
       "price": "$2,100",
       "sqft": "n/a",
       "neighborhood": "nob hill",
       "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-bd-1795-new-plank-floor/axbXLzi8FRCZS34rRDy8RM"
+      "url": "https://www.craigslist.org/view/d/san-francisco-attentive-friendly-staff/aSyqhD2mu9DKe2nSMPekgP"
     },
     {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-bd-only-1795-in-prime/dsTSedotqPUeMgTxW1A4tg",
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-section-accepted/hyGnAWDh8FGNyCfwCzrVec",
       "source": "Craigslist",
       "type": "standard rental",
-      "title": "1 BD Only $1,795 in Prime Location",
+      "title": "Section 8 Accepted!",
       "price": "$2,100",
       "sqft": "n/a",
       "neighborhood": "nob hill",
       "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-bd-only-1795-in-prime/dsTSedotqPUeMgTxW1A4tg"
-    },
-    {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-only-1795-for-newly/dVQ8ojBEVTrcansgfvRy7X",
-      "source": "Craigslist",
-      "type": "standard rental",
-      "title": "Only $1,795 for a Newly Renovated 1 BD!",
-      "price": "$2,100",
-      "sqft": "n/a",
-      "neighborhood": "nob hill",
-      "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-only-1795-for-newly/dVQ8ojBEVTrcansgfvRy7X"
-    },
-    {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-shower-tub-combo/4m6HKzVe6Hwb6z8fcRyVoP",
-      "source": "Craigslist",
-      "type": "standard rental",
-      "title": "Shower/Tub Combo, Attentive Friendly Staff, Elevators, Fridge",
-      "price": "$2,100",
-      "sqft": "n/a",
-      "neighborhood": "nob hill",
-      "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-shower-tub-combo/4m6HKzVe6Hwb6z8fcRyVoP"
-    },
-    {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-courtesy-patrol-heating/emcamteL2qnaNugE9gaeMY",
-      "source": "Craigslist",
-      "type": "standard rental",
-      "title": "Courtesy Patrol, Heating, Attentive Friendly Staff, Stove/Oven",
-      "price": "$2,100",
-      "sqft": "n/a",
-      "neighborhood": "nob hill",
-      "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-courtesy-patrol-heating/emcamteL2qnaNugE9gaeMY"
-    },
-    {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-24-emergency-maintenance/kMa2qtRc99xsSxjYFKefP1",
-      "source": "Craigslist",
-      "type": "standard rental",
-      "title": "24/7 Emergency Maintenance, Shower/Tub Combo, Parking - Street",
-      "price": "$2,100",
-      "sqft": "n/a",
-      "neighborhood": "nob hill",
-      "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-24-emergency-maintenance/kMa2qtRc99xsSxjYFKefP1"
+      "url": "https://www.craigslist.org/view/d/san-francisco-section-accepted/hyGnAWDh8FGNyCfwCzrVec"
     },
     {
       "id": "cl-https://www.craigslist.org/view/d/san-francisco-bd-1795-new-plank-floor/axbXLzi8FRCZS34rRDy8RM",
@@ -223,92 +179,26 @@
       "url": "https://www.craigslist.org/view/d/san-francisco-shower-tub-combo/4m6HKzVe6Hwb6z8fcRyVoP"
     },
     {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-courtesy-patrol-heating/emcamteL2qnaNugE9gaeMY",
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-attentive-friendly-staff/aSyqhD2mu9DKe2nSMPekgP",
       "source": "Craigslist",
       "type": "standard rental",
-      "title": "Courtesy Patrol, Heating, Attentive Friendly Staff, Stove/Oven",
+      "title": "Attentive Friendly Staff, Fridge, Shower/Tub Combo, Carpet",
       "price": "$2,100",
       "sqft": "n/a",
       "neighborhood": "nob hill",
       "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-courtesy-patrol-heating/emcamteL2qnaNugE9gaeMY"
+      "url": "https://www.craigslist.org/view/d/san-francisco-attentive-friendly-staff/aSyqhD2mu9DKe2nSMPekgP"
     },
     {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-24-emergency-maintenance/kMa2qtRc99xsSxjYFKefP1",
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-section-accepted/hyGnAWDh8FGNyCfwCzrVec",
       "source": "Craigslist",
       "type": "standard rental",
-      "title": "24/7 Emergency Maintenance, Shower/Tub Combo, Parking - Street",
+      "title": "Section 8 Accepted!",
       "price": "$2,100",
       "sqft": "n/a",
       "neighborhood": "nob hill",
       "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-24-emergency-maintenance/kMa2qtRc99xsSxjYFKefP1"
-    },
-    {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-bd-1795-new-plank-floor/axbXLzi8FRCZS34rRDy8RM",
-      "source": "Craigslist",
-      "type": "standard rental",
-      "title": "1 BD $1,795-New Plank Floor in Great Location!",
-      "price": "$2,100",
-      "sqft": "n/a",
-      "neighborhood": "nob hill",
-      "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-bd-1795-new-plank-floor/axbXLzi8FRCZS34rRDy8RM"
-    },
-    {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-bd-only-1795-in-prime/dsTSedotqPUeMgTxW1A4tg",
-      "source": "Craigslist",
-      "type": "standard rental",
-      "title": "1 BD Only $1,795 in Prime Location",
-      "price": "$2,100",
-      "sqft": "n/a",
-      "neighborhood": "nob hill",
-      "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-bd-only-1795-in-prime/dsTSedotqPUeMgTxW1A4tg"
-    },
-    {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-only-1795-for-newly/dVQ8ojBEVTrcansgfvRy7X",
-      "source": "Craigslist",
-      "type": "standard rental",
-      "title": "Only $1,795 for a Newly Renovated 1 BD!",
-      "price": "$2,100",
-      "sqft": "n/a",
-      "neighborhood": "nob hill",
-      "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-only-1795-for-newly/dVQ8ojBEVTrcansgfvRy7X"
-    },
-    {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-shower-tub-combo/4m6HKzVe6Hwb6z8fcRyVoP",
-      "source": "Craigslist",
-      "type": "standard rental",
-      "title": "Shower/Tub Combo, Attentive Friendly Staff, Elevators, Fridge",
-      "price": "$2,100",
-      "sqft": "n/a",
-      "neighborhood": "nob hill",
-      "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-shower-tub-combo/4m6HKzVe6Hwb6z8fcRyVoP"
-    },
-    {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-courtesy-patrol-heating/emcamteL2qnaNugE9gaeMY",
-      "source": "Craigslist",
-      "type": "standard rental",
-      "title": "Courtesy Patrol, Heating, Attentive Friendly Staff, Stove/Oven",
-      "price": "$2,100",
-      "sqft": "n/a",
-      "neighborhood": "nob hill",
-      "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-courtesy-patrol-heating/emcamteL2qnaNugE9gaeMY"
-    },
-    {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-24-emergency-maintenance/kMa2qtRc99xsSxjYFKefP1",
-      "source": "Craigslist",
-      "type": "standard rental",
-      "title": "24/7 Emergency Maintenance, Shower/Tub Combo, Parking - Street",
-      "price": "$2,100",
-      "sqft": "n/a",
-      "neighborhood": "nob hill",
-      "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-24-emergency-maintenance/kMa2qtRc99xsSxjYFKefP1"
+      "url": "https://www.craigslist.org/view/d/san-francisco-section-accepted/hyGnAWDh8FGNyCfwCzrVec"
     },
     {
       "id": "cl-https://www.craigslist.org/view/d/san-francisco-bd-1795-new-plank-floor/axbXLzi8FRCZS34rRDy8RM",
@@ -355,26 +245,26 @@
       "url": "https://www.craigslist.org/view/d/san-francisco-shower-tub-combo/4m6HKzVe6Hwb6z8fcRyVoP"
     },
     {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-courtesy-patrol-heating/emcamteL2qnaNugE9gaeMY",
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-attentive-friendly-staff/aSyqhD2mu9DKe2nSMPekgP",
       "source": "Craigslist",
       "type": "standard rental",
-      "title": "Courtesy Patrol, Heating, Attentive Friendly Staff, Stove/Oven",
+      "title": "Attentive Friendly Staff, Fridge, Shower/Tub Combo, Carpet",
       "price": "$2,100",
       "sqft": "n/a",
       "neighborhood": "nob hill",
       "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-courtesy-patrol-heating/emcamteL2qnaNugE9gaeMY"
+      "url": "https://www.craigslist.org/view/d/san-francisco-attentive-friendly-staff/aSyqhD2mu9DKe2nSMPekgP"
     },
     {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-24-emergency-maintenance/kMa2qtRc99xsSxjYFKefP1",
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-section-accepted/hyGnAWDh8FGNyCfwCzrVec",
       "source": "Craigslist",
       "type": "standard rental",
-      "title": "24/7 Emergency Maintenance, Shower/Tub Combo, Parking - Street",
+      "title": "Section 8 Accepted!",
       "price": "$2,100",
       "sqft": "n/a",
       "neighborhood": "nob hill",
       "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-24-emergency-maintenance/kMa2qtRc99xsSxjYFKefP1"
+      "url": "https://www.craigslist.org/view/d/san-francisco-section-accepted/hyGnAWDh8FGNyCfwCzrVec"
     },
     {
       "id": "cl-https://www.craigslist.org/view/d/san-francisco-bd-1795-new-plank-floor/axbXLzi8FRCZS34rRDy8RM",
@@ -421,26 +311,136 @@
       "url": "https://www.craigslist.org/view/d/san-francisco-shower-tub-combo/4m6HKzVe6Hwb6z8fcRyVoP"
     },
     {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-courtesy-patrol-heating/emcamteL2qnaNugE9gaeMY",
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-attentive-friendly-staff/aSyqhD2mu9DKe2nSMPekgP",
       "source": "Craigslist",
       "type": "standard rental",
-      "title": "Courtesy Patrol, Heating, Attentive Friendly Staff, Stove/Oven",
+      "title": "Attentive Friendly Staff, Fridge, Shower/Tub Combo, Carpet",
       "price": "$2,100",
       "sqft": "n/a",
       "neighborhood": "nob hill",
       "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-courtesy-patrol-heating/emcamteL2qnaNugE9gaeMY"
+      "url": "https://www.craigslist.org/view/d/san-francisco-attentive-friendly-staff/aSyqhD2mu9DKe2nSMPekgP"
     },
     {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-24-emergency-maintenance/kMa2qtRc99xsSxjYFKefP1",
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-section-accepted/hyGnAWDh8FGNyCfwCzrVec",
       "source": "Craigslist",
       "type": "standard rental",
-      "title": "24/7 Emergency Maintenance, Shower/Tub Combo, Parking - Street",
+      "title": "Section 8 Accepted!",
       "price": "$2,100",
       "sqft": "n/a",
       "neighborhood": "nob hill",
       "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-24-emergency-maintenance/kMa2qtRc99xsSxjYFKefP1"
+      "url": "https://www.craigslist.org/view/d/san-francisco-section-accepted/hyGnAWDh8FGNyCfwCzrVec"
+    },
+    {
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-bd-1795-new-plank-floor/axbXLzi8FRCZS34rRDy8RM",
+      "source": "Craigslist",
+      "type": "standard rental",
+      "title": "1 BD $1,795-New Plank Floor in Great Location!",
+      "price": "$2,100",
+      "sqft": "n/a",
+      "neighborhood": "nob hill",
+      "posted": "n/a",
+      "url": "https://www.craigslist.org/view/d/san-francisco-bd-1795-new-plank-floor/axbXLzi8FRCZS34rRDy8RM"
+    },
+    {
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-bd-only-1795-in-prime/dsTSedotqPUeMgTxW1A4tg",
+      "source": "Craigslist",
+      "type": "standard rental",
+      "title": "1 BD Only $1,795 in Prime Location",
+      "price": "$2,100",
+      "sqft": "n/a",
+      "neighborhood": "nob hill",
+      "posted": "n/a",
+      "url": "https://www.craigslist.org/view/d/san-francisco-bd-only-1795-in-prime/dsTSedotqPUeMgTxW1A4tg"
+    },
+    {
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-only-1795-for-newly/dVQ8ojBEVTrcansgfvRy7X",
+      "source": "Craigslist",
+      "type": "standard rental",
+      "title": "Only $1,795 for a Newly Renovated 1 BD!",
+      "price": "$2,100",
+      "sqft": "n/a",
+      "neighborhood": "nob hill",
+      "posted": "n/a",
+      "url": "https://www.craigslist.org/view/d/san-francisco-only-1795-for-newly/dVQ8ojBEVTrcansgfvRy7X"
+    },
+    {
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-shower-tub-combo/4m6HKzVe6Hwb6z8fcRyVoP",
+      "source": "Craigslist",
+      "type": "standard rental",
+      "title": "Shower/Tub Combo, Attentive Friendly Staff, Elevators, Fridge",
+      "price": "$2,100",
+      "sqft": "n/a",
+      "neighborhood": "nob hill",
+      "posted": "n/a",
+      "url": "https://www.craigslist.org/view/d/san-francisco-shower-tub-combo/4m6HKzVe6Hwb6z8fcRyVoP"
+    },
+    {
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-attentive-friendly-staff/aSyqhD2mu9DKe2nSMPekgP",
+      "source": "Craigslist",
+      "type": "standard rental",
+      "title": "Attentive Friendly Staff, Fridge, Shower/Tub Combo, Carpet",
+      "price": "$2,100",
+      "sqft": "n/a",
+      "neighborhood": "nob hill",
+      "posted": "n/a",
+      "url": "https://www.craigslist.org/view/d/san-francisco-attentive-friendly-staff/aSyqhD2mu9DKe2nSMPekgP"
+    },
+    {
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-section-accepted/hyGnAWDh8FGNyCfwCzrVec",
+      "source": "Craigslist",
+      "type": "standard rental",
+      "title": "Section 8 Accepted!",
+      "price": "$2,100",
+      "sqft": "n/a",
+      "neighborhood": "nob hill",
+      "posted": "n/a",
+      "url": "https://www.craigslist.org/view/d/san-francisco-section-accepted/hyGnAWDh8FGNyCfwCzrVec"
+    },
+    {
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-bd-1795-new-plank-floor/axbXLzi8FRCZS34rRDy8RM",
+      "source": "Craigslist",
+      "type": "standard rental",
+      "title": "1 BD $1,795-New Plank Floor in Great Location!",
+      "price": "$2,100",
+      "sqft": "n/a",
+      "neighborhood": "nob hill",
+      "posted": "n/a",
+      "url": "https://www.craigslist.org/view/d/san-francisco-bd-1795-new-plank-floor/axbXLzi8FRCZS34rRDy8RM"
+    },
+    {
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-bd-only-1795-in-prime/dsTSedotqPUeMgTxW1A4tg",
+      "source": "Craigslist",
+      "type": "standard rental",
+      "title": "1 BD Only $1,795 in Prime Location",
+      "price": "$2,100",
+      "sqft": "n/a",
+      "neighborhood": "nob hill",
+      "posted": "n/a",
+      "url": "https://www.craigslist.org/view/d/san-francisco-bd-only-1795-in-prime/dsTSedotqPUeMgTxW1A4tg"
+    },
+    {
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-only-1795-for-newly/dVQ8ojBEVTrcansgfvRy7X",
+      "source": "Craigslist",
+      "type": "standard rental",
+      "title": "Only $1,795 for a Newly Renovated 1 BD!",
+      "price": "$2,100",
+      "sqft": "n/a",
+      "neighborhood": "nob hill",
+      "posted": "n/a",
+      "url": "https://www.craigslist.org/view/d/san-francisco-only-1795-for-newly/dVQ8ojBEVTrcansgfvRy7X"
+    },
+    {
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-shower-tub-combo/4m6HKzVe6Hwb6z8fcRyVoP",
+      "source": "Craigslist",
+      "type": "standard rental",
+      "title": "Shower/Tub Combo, Attentive Friendly Staff, Elevators, Fridge",
+      "price": "$2,100",
+      "sqft": "n/a",
+      "neighborhood": "nob hill",
+      "posted": "n/a",
+      "url": "https://www.craigslist.org/view/d/san-francisco-shower-tub-combo/4m6HKzVe6Hwb6z8fcRyVoP"
     },
     {
       "id": "cl-https://www.craigslist.org/view/d/san-francisco-nob-hill-sublet/iYiVFPyzo8NXpU92C4LApC",
@@ -1046,17 +1046,6 @@
       "neighborhood": "nob hill",
       "posted": "n/a",
       "url": "https://www.craigslist.org/view/d/san-francisco-nob-hill-655powellpine-d/r84kpWYWFunQrf8Zx9YNJc"
-    },
-    {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-jr-one-bedroom-nob-hill/gFWpqqndUacqX1Fgeiv9Sg",
-      "source": "Craigslist",
-      "type": "standard rental",
-      "title": "\ud83c\udfe0\u2764\ufe0fJR. ONE BEDROOM NOB HILL!",
-      "price": "$3,995",
-      "sqft": "n/a",
-      "neighborhood": "nob hill",
-      "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-jr-one-bedroom-nob-hill/gFWpqqndUacqX1Fgeiv9Sg"
     },
     {
       "id": "cl-https://www.craigslist.org/view/d/san-francisco-junior-bed-nob-hill/jM7H9rhzDyWS97swyTT1Ui",
@@ -1070,15 +1059,15 @@
       "url": "https://www.craigslist.org/view/d/san-francisco-junior-bed-nob-hill/jM7H9rhzDyWS97swyTT1Ui"
     },
     {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-jr-one-bedroom-nob-hill/gFWpqqndUacqX1Fgeiv9Sg",
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-junior-bed-nob-hill/jM7H9rhzDyWS97swyTT1Ui",
       "source": "Craigslist",
       "type": "standard rental",
-      "title": "\ud83c\udfe0\u2764\ufe0fJR. ONE BEDROOM NOB HILL!",
+      "title": "Junior. 1 Bed/ Nob Hill/655Powell&Pine/W/D in unit/Coming Soon!!",
       "price": "$3,995",
       "sqft": "n/a",
       "neighborhood": "nob hill",
       "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-jr-one-bedroom-nob-hill/gFWpqqndUacqX1Fgeiv9Sg"
+      "url": "https://www.craigslist.org/view/d/san-francisco-junior-bed-nob-hill/jM7H9rhzDyWS97swyTT1Ui"
     },
     {
       "id": "cl-https://www.craigslist.org/view/d/san-francisco-junior-bed-nob-hill/jM7H9rhzDyWS97swyTT1Ui",
@@ -1092,17 +1081,6 @@
       "url": "https://www.craigslist.org/view/d/san-francisco-junior-bed-nob-hill/jM7H9rhzDyWS97swyTT1Ui"
     },
     {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-jr-one-bedroom-nob-hill/gFWpqqndUacqX1Fgeiv9Sg",
-      "source": "Craigslist",
-      "type": "standard rental",
-      "title": "\ud83c\udfe0\u2764\ufe0fJR. ONE BEDROOM NOB HILL!",
-      "price": "$3,995",
-      "sqft": "n/a",
-      "neighborhood": "nob hill",
-      "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-jr-one-bedroom-nob-hill/gFWpqqndUacqX1Fgeiv9Sg"
-    },
-    {
       "id": "cl-https://www.craigslist.org/view/d/san-francisco-junior-bed-nob-hill/jM7H9rhzDyWS97swyTT1Ui",
       "source": "Craigslist",
       "type": "standard rental",
@@ -1112,39 +1090,6 @@
       "neighborhood": "nob hill",
       "posted": "n/a",
       "url": "https://www.craigslist.org/view/d/san-francisco-junior-bed-nob-hill/jM7H9rhzDyWS97swyTT1Ui"
-    },
-    {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-jr-one-bedroom-nob-hill/gFWpqqndUacqX1Fgeiv9Sg",
-      "source": "Craigslist",
-      "type": "standard rental",
-      "title": "\ud83c\udfe0\u2764\ufe0fJR. ONE BEDROOM NOB HILL!",
-      "price": "$3,995",
-      "sqft": "n/a",
-      "neighborhood": "nob hill",
-      "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-jr-one-bedroom-nob-hill/gFWpqqndUacqX1Fgeiv9Sg"
-    },
-    {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-junior-bed-nob-hill/jM7H9rhzDyWS97swyTT1Ui",
-      "source": "Craigslist",
-      "type": "standard rental",
-      "title": "Junior. 1 Bed/ Nob Hill/655Powell&Pine/W/D in unit/Coming Soon!!",
-      "price": "$3,995",
-      "sqft": "n/a",
-      "neighborhood": "nob hill",
-      "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-junior-bed-nob-hill/jM7H9rhzDyWS97swyTT1Ui"
-    },
-    {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-jr-one-bedroom-nob-hill/gFWpqqndUacqX1Fgeiv9Sg",
-      "source": "Craigslist",
-      "type": "standard rental",
-      "title": "\ud83c\udfe0\u2764\ufe0fJR. ONE BEDROOM NOB HILL!",
-      "price": "$3,995",
-      "sqft": "n/a",
-      "neighborhood": "nob hill",
-      "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-jr-one-bedroom-nob-hill/gFWpqqndUacqX1Fgeiv9Sg"
     },
     {
       "id": "cl-https://www.craigslist.org/view/d/san-francisco-junior-bed-nob-hill/jM7H9rhzDyWS97swyTT1Ui",
