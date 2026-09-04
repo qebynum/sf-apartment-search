@@ -1,63 +1,8 @@
 {
-  "last_updated": "2026-09-04 00:52 UTC",
+  "last_updated": "2026-09-04 17:27 UTC",
   "count": 150,
   "listings": [
     {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-what-works-here-what/piTueFunQcbeZC9T5zNgAV",
-      "source": "Craigslist",
-      "type": "standard rental",
-      "title": "What Works Here. What Doesn't",
-      "price": "$1,300",
-      "sqft": "n/a",
-      "neighborhood": "nob hill",
-      "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-what-works-here-what/piTueFunQcbeZC9T5zNgAV"
-    },
-    {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-what-works-here-what/piTueFunQcbeZC9T5zNgAV",
-      "source": "Craigslist",
-      "type": "standard rental",
-      "title": "What Works Here. What Doesn't",
-      "price": "$1,300",
-      "sqft": "n/a",
-      "neighborhood": "nob hill",
-      "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-what-works-here-what/piTueFunQcbeZC9T5zNgAV"
-    },
-    {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-what-works-here-what/piTueFunQcbeZC9T5zNgAV",
-      "source": "Craigslist",
-      "type": "standard rental",
-      "title": "What Works Here. What Doesn't",
-      "price": "$1,300",
-      "sqft": "n/a",
-      "neighborhood": "nob hill",
-      "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-what-works-here-what/piTueFunQcbeZC9T5zNgAV"
-    },
-    {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-what-works-here-what/piTueFunQcbeZC9T5zNgAV",
-      "source": "Craigslist",
-      "type": "standard rental",
-      "title": "What Works Here. What Doesn't",
-      "price": "$1,300",
-      "sqft": "n/a",
-      "neighborhood": "nob hill",
-      "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-what-works-here-what/piTueFunQcbeZC9T5zNgAV"
-    },
-    {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-what-works-here-what/piTueFunQcbeZC9T5zNgAV",
-      "source": "Craigslist",
-      "type": "standard rental",
-      "title": "What Works Here. What Doesn't",
-      "price": "$1,300",
-      "sqft": "n/a",
-      "neighborhood": "nob hill",
-      "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-what-works-here-what/piTueFunQcbeZC9T5zNgAV"
-    },
-    {
       "id": "cl-https://www.craigslist.org/view/d/san-francisco-fully-furnished-room-to/fJATV5DCWmZbiC9ft12VJe",
       "source": "Craigslist",
       "type": "standard rental",
@@ -826,6 +771,61 @@
       "neighborhood": "lower nob hill",
       "posted": "n/a",
       "url": "https://www.craigslist.org/view/d/san-francisco-1br-near-huntington-park/ikPw8AkfoaLAurrnQj1MA9"
+    },
+    {
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-1br-in-unit-washer-dryer/2re9jzdYEVtA1T51BLyyVg",
+      "source": "Craigslist",
+      "type": "standard rental",
+      "title": "1br/In-Unit Washer/Dryer /Easy Commute w/Cable Car Just Outside!",
+      "price": "$3,695",
+      "sqft": "n/a",
+      "neighborhood": "nob hill",
+      "posted": "n/a",
+      "url": "https://www.craigslist.org/view/d/san-francisco-1br-in-unit-washer-dryer/2re9jzdYEVtA1T51BLyyVg"
+    },
+    {
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-1br-in-unit-washer-dryer/2re9jzdYEVtA1T51BLyyVg",
+      "source": "Craigslist",
+      "type": "standard rental",
+      "title": "1br/In-Unit Washer/Dryer /Easy Commute w/Cable Car Just Outside!",
+      "price": "$3,695",
+      "sqft": "n/a",
+      "neighborhood": "nob hill",
+      "posted": "n/a",
+      "url": "https://www.craigslist.org/view/d/san-francisco-1br-in-unit-washer-dryer/2re9jzdYEVtA1T51BLyyVg"
+    },
+    {
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-1br-in-unit-washer-dryer/2re9jzdYEVtA1T51BLyyVg",
+      "source": "Craigslist",
+      "type": "standard rental",
+      "title": "1br/In-Unit Washer/Dryer /Easy Commute w/Cable Car Just Outside!",
+      "price": "$3,695",
+      "sqft": "n/a",
+      "neighborhood": "nob hill",
+      "posted": "n/a",
+      "url": "https://www.craigslist.org/view/d/san-francisco-1br-in-unit-washer-dryer/2re9jzdYEVtA1T51BLyyVg"
+    },
+    {
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-1br-in-unit-washer-dryer/2re9jzdYEVtA1T51BLyyVg",
+      "source": "Craigslist",
+      "type": "standard rental",
+      "title": "1br/In-Unit Washer/Dryer /Easy Commute w/Cable Car Just Outside!",
+      "price": "$3,695",
+      "sqft": "n/a",
+      "neighborhood": "nob hill",
+      "posted": "n/a",
+      "url": "https://www.craigslist.org/view/d/san-francisco-1br-in-unit-washer-dryer/2re9jzdYEVtA1T51BLyyVg"
+    },
+    {
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-1br-in-unit-washer-dryer/2re9jzdYEVtA1T51BLyyVg",
+      "source": "Craigslist",
+      "type": "standard rental",
+      "title": "1br/In-Unit Washer/Dryer /Easy Commute w/Cable Car Just Outside!",
+      "price": "$3,695",
+      "sqft": "n/a",
+      "neighborhood": "nob hill",
+      "posted": "n/a",
+      "url": "https://www.craigslist.org/view/d/san-francisco-1br-in-unit-washer-dryer/2re9jzdYEVtA1T51BLyyVg"
     },
     {
       "id": "cl-https://www.craigslist.org/view/d/san-francisco-nob-hill-655powellpine-d/r84kpWYWFunQrf8Zx9YNJc",
