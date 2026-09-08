@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-08 01:02 UTC",
-  "count": 155,
+  "last_updated": "2026-09-08 17:49 UTC",
+  "count": 145,
   "listings": [
     {
       "id": "cl-https://www.craigslist.org/view/d/san-francisco-fully-furnished-room-to/fJATV5DCWmZbiC9ft12VJe",
@@ -113,18 +113,62 @@
       "url": "https://www.craigslist.org/view/d/san-francisco-peaceful-room-in/fdKofcgkSpByRtYLgcDCTi"
     },
     {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-garbage-disposal-stove/3cnYpBRhCfmwMGU1o9N8yU",
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-room-with-private-bath/sGMsEaAKp1ZQvbcE1Fv8Lc",
       "source": "Craigslist",
       "type": "standard rental",
-      "title": "Garbage Disposal, Stove/Oven, Attentive Friendly Staff, Fridge",
-      "price": "$2,100",
+      "title": "Room with private bath, wifi,laundry in Buena Vista Area",
+      "price": "$1,650",
       "sqft": "n/a",
-      "neighborhood": "nob hill",
+      "neighborhood": "castro / upper market",
       "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-garbage-disposal-stove/3cnYpBRhCfmwMGU1o9N8yU"
+      "url": "https://www.craigslist.org/view/d/san-francisco-room-with-private-bath/sGMsEaAKp1ZQvbcE1Fv8Lc"
     },
     {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-bd-only-1795-in-prime/hZvyzwcPRJb3rt3SNdeARq",
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-room-with-private-bath/sGMsEaAKp1ZQvbcE1Fv8Lc",
+      "source": "Craigslist",
+      "type": "standard rental",
+      "title": "Room with private bath, wifi,laundry in Buena Vista Area",
+      "price": "$1,650",
+      "sqft": "n/a",
+      "neighborhood": "castro / upper market",
+      "posted": "n/a",
+      "url": "https://www.craigslist.org/view/d/san-francisco-room-with-private-bath/sGMsEaAKp1ZQvbcE1Fv8Lc"
+    },
+    {
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-room-with-private-bath/sGMsEaAKp1ZQvbcE1Fv8Lc",
+      "source": "Craigslist",
+      "type": "standard rental",
+      "title": "Room with private bath, wifi,laundry in Buena Vista Area",
+      "price": "$1,650",
+      "sqft": "n/a",
+      "neighborhood": "castro / upper market",
+      "posted": "n/a",
+      "url": "https://www.craigslist.org/view/d/san-francisco-room-with-private-bath/sGMsEaAKp1ZQvbcE1Fv8Lc"
+    },
+    {
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-room-with-private-bath/sGMsEaAKp1ZQvbcE1Fv8Lc",
+      "source": "Craigslist",
+      "type": "standard rental",
+      "title": "Room with private bath, wifi,laundry in Buena Vista Area",
+      "price": "$1,650",
+      "sqft": "n/a",
+      "neighborhood": "castro / upper market",
+      "posted": "n/a",
+      "url": "https://www.craigslist.org/view/d/san-francisco-room-with-private-bath/sGMsEaAKp1ZQvbcE1Fv8Lc"
+    },
+    {
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-room-with-private-bath/sGMsEaAKp1ZQvbcE1Fv8Lc",
+      "source": "Craigslist",
+      "type": "standard rental",
+      "title": "Room with private bath, wifi,laundry in Buena Vista Area",
+      "price": "$1,650",
+      "sqft": "n/a",
+      "neighborhood": "castro / upper market",
+      "posted": "n/a",
+      "url": "https://www.craigslist.org/view/d/san-francisco-room-with-private-bath/sGMsEaAKp1ZQvbcE1Fv8Lc"
+    },
+    {
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-bd-only-1795-in-prime/5GSXnGCEiPjpXyUzfRKmzo",
       "source": "Craigslist",
       "type": "standard rental",
       "title": "1 BD Only $1,795 in Prime Location",
@@ -132,43 +176,10 @@
       "sqft": "n/a",
       "neighborhood": "nob hill",
       "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-bd-only-1795-in-prime/hZvyzwcPRJb3rt3SNdeARq"
+      "url": "https://www.craigslist.org/view/d/san-francisco-bd-only-1795-in-prime/5GSXnGCEiPjpXyUzfRKmzo"
     },
     {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-bd-1795-new-plank-floor/oCACkfgK6ww6XEpUVYRCZ4",
-      "source": "Craigslist",
-      "type": "standard rental",
-      "title": "1 BD $1,795-New Plank Floor in Great Location!",
-      "price": "$2,100",
-      "sqft": "n/a",
-      "neighborhood": "nob hill",
-      "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-bd-1795-new-plank-floor/oCACkfgK6ww6XEpUVYRCZ4"
-    },
-    {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-only-1795-for-newly/8naBdoHa56rh1QpmapLLTf",
-      "source": "Craigslist",
-      "type": "standard rental",
-      "title": "Only $1,795 for a Newly Renovated 1 BD!",
-      "price": "$2,100",
-      "sqft": "n/a",
-      "neighborhood": "nob hill",
-      "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-only-1795-for-newly/8naBdoHa56rh1QpmapLLTf"
-    },
-    {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-garbage-disposal-stove/3cnYpBRhCfmwMGU1o9N8yU",
-      "source": "Craigslist",
-      "type": "standard rental",
-      "title": "Garbage Disposal, Stove/Oven, Attentive Friendly Staff, Fridge",
-      "price": "$2,100",
-      "sqft": "n/a",
-      "neighborhood": "nob hill",
-      "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-garbage-disposal-stove/3cnYpBRhCfmwMGU1o9N8yU"
-    },
-    {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-bd-only-1795-in-prime/hZvyzwcPRJb3rt3SNdeARq",
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-bd-only-1795-in-prime/5GSXnGCEiPjpXyUzfRKmzo",
       "source": "Craigslist",
       "type": "standard rental",
       "title": "1 BD Only $1,795 in Prime Location",
@@ -176,43 +187,10 @@
       "sqft": "n/a",
       "neighborhood": "nob hill",
       "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-bd-only-1795-in-prime/hZvyzwcPRJb3rt3SNdeARq"
+      "url": "https://www.craigslist.org/view/d/san-francisco-bd-only-1795-in-prime/5GSXnGCEiPjpXyUzfRKmzo"
     },
     {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-bd-1795-new-plank-floor/oCACkfgK6ww6XEpUVYRCZ4",
-      "source": "Craigslist",
-      "type": "standard rental",
-      "title": "1 BD $1,795-New Plank Floor in Great Location!",
-      "price": "$2,100",
-      "sqft": "n/a",
-      "neighborhood": "nob hill",
-      "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-bd-1795-new-plank-floor/oCACkfgK6ww6XEpUVYRCZ4"
-    },
-    {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-only-1795-for-newly/8naBdoHa56rh1QpmapLLTf",
-      "source": "Craigslist",
-      "type": "standard rental",
-      "title": "Only $1,795 for a Newly Renovated 1 BD!",
-      "price": "$2,100",
-      "sqft": "n/a",
-      "neighborhood": "nob hill",
-      "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-only-1795-for-newly/8naBdoHa56rh1QpmapLLTf"
-    },
-    {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-garbage-disposal-stove/3cnYpBRhCfmwMGU1o9N8yU",
-      "source": "Craigslist",
-      "type": "standard rental",
-      "title": "Garbage Disposal, Stove/Oven, Attentive Friendly Staff, Fridge",
-      "price": "$2,100",
-      "sqft": "n/a",
-      "neighborhood": "nob hill",
-      "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-garbage-disposal-stove/3cnYpBRhCfmwMGU1o9N8yU"
-    },
-    {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-bd-only-1795-in-prime/hZvyzwcPRJb3rt3SNdeARq",
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-bd-only-1795-in-prime/5GSXnGCEiPjpXyUzfRKmzo",
       "source": "Craigslist",
       "type": "standard rental",
       "title": "1 BD Only $1,795 in Prime Location",
@@ -220,43 +198,10 @@
       "sqft": "n/a",
       "neighborhood": "nob hill",
       "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-bd-only-1795-in-prime/hZvyzwcPRJb3rt3SNdeARq"
+      "url": "https://www.craigslist.org/view/d/san-francisco-bd-only-1795-in-prime/5GSXnGCEiPjpXyUzfRKmzo"
     },
     {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-bd-1795-new-plank-floor/oCACkfgK6ww6XEpUVYRCZ4",
-      "source": "Craigslist",
-      "type": "standard rental",
-      "title": "1 BD $1,795-New Plank Floor in Great Location!",
-      "price": "$2,100",
-      "sqft": "n/a",
-      "neighborhood": "nob hill",
-      "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-bd-1795-new-plank-floor/oCACkfgK6ww6XEpUVYRCZ4"
-    },
-    {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-only-1795-for-newly/8naBdoHa56rh1QpmapLLTf",
-      "source": "Craigslist",
-      "type": "standard rental",
-      "title": "Only $1,795 for a Newly Renovated 1 BD!",
-      "price": "$2,100",
-      "sqft": "n/a",
-      "neighborhood": "nob hill",
-      "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-only-1795-for-newly/8naBdoHa56rh1QpmapLLTf"
-    },
-    {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-garbage-disposal-stove/3cnYpBRhCfmwMGU1o9N8yU",
-      "source": "Craigslist",
-      "type": "standard rental",
-      "title": "Garbage Disposal, Stove/Oven, Attentive Friendly Staff, Fridge",
-      "price": "$2,100",
-      "sqft": "n/a",
-      "neighborhood": "nob hill",
-      "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-garbage-disposal-stove/3cnYpBRhCfmwMGU1o9N8yU"
-    },
-    {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-bd-only-1795-in-prime/hZvyzwcPRJb3rt3SNdeARq",
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-bd-only-1795-in-prime/5GSXnGCEiPjpXyUzfRKmzo",
       "source": "Craigslist",
       "type": "standard rental",
       "title": "1 BD Only $1,795 in Prime Location",
@@ -264,43 +209,10 @@
       "sqft": "n/a",
       "neighborhood": "nob hill",
       "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-bd-only-1795-in-prime/hZvyzwcPRJb3rt3SNdeARq"
+      "url": "https://www.craigslist.org/view/d/san-francisco-bd-only-1795-in-prime/5GSXnGCEiPjpXyUzfRKmzo"
     },
     {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-bd-1795-new-plank-floor/oCACkfgK6ww6XEpUVYRCZ4",
-      "source": "Craigslist",
-      "type": "standard rental",
-      "title": "1 BD $1,795-New Plank Floor in Great Location!",
-      "price": "$2,100",
-      "sqft": "n/a",
-      "neighborhood": "nob hill",
-      "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-bd-1795-new-plank-floor/oCACkfgK6ww6XEpUVYRCZ4"
-    },
-    {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-only-1795-for-newly/8naBdoHa56rh1QpmapLLTf",
-      "source": "Craigslist",
-      "type": "standard rental",
-      "title": "Only $1,795 for a Newly Renovated 1 BD!",
-      "price": "$2,100",
-      "sqft": "n/a",
-      "neighborhood": "nob hill",
-      "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-only-1795-for-newly/8naBdoHa56rh1QpmapLLTf"
-    },
-    {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-garbage-disposal-stove/3cnYpBRhCfmwMGU1o9N8yU",
-      "source": "Craigslist",
-      "type": "standard rental",
-      "title": "Garbage Disposal, Stove/Oven, Attentive Friendly Staff, Fridge",
-      "price": "$2,100",
-      "sqft": "n/a",
-      "neighborhood": "nob hill",
-      "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-garbage-disposal-stove/3cnYpBRhCfmwMGU1o9N8yU"
-    },
-    {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-bd-only-1795-in-prime/hZvyzwcPRJb3rt3SNdeARq",
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-bd-only-1795-in-prime/5GSXnGCEiPjpXyUzfRKmzo",
       "source": "Craigslist",
       "type": "standard rental",
       "title": "1 BD Only $1,795 in Prime Location",
@@ -308,29 +220,7 @@
       "sqft": "n/a",
       "neighborhood": "nob hill",
       "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-bd-only-1795-in-prime/hZvyzwcPRJb3rt3SNdeARq"
-    },
-    {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-bd-1795-new-plank-floor/oCACkfgK6ww6XEpUVYRCZ4",
-      "source": "Craigslist",
-      "type": "standard rental",
-      "title": "1 BD $1,795-New Plank Floor in Great Location!",
-      "price": "$2,100",
-      "sqft": "n/a",
-      "neighborhood": "nob hill",
-      "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-bd-1795-new-plank-floor/oCACkfgK6ww6XEpUVYRCZ4"
-    },
-    {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-only-1795-for-newly/8naBdoHa56rh1QpmapLLTf",
-      "source": "Craigslist",
-      "type": "standard rental",
-      "title": "Only $1,795 for a Newly Renovated 1 BD!",
-      "price": "$2,100",
-      "sqft": "n/a",
-      "neighborhood": "nob hill",
-      "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-only-1795-for-newly/8naBdoHa56rh1QpmapLLTf"
+      "url": "https://www.craigslist.org/view/d/san-francisco-bd-only-1795-in-prime/5GSXnGCEiPjpXyUzfRKmzo"
     },
     {
       "id": "cl-https://www.craigslist.org/view/d/san-francisco-noe-valley-2bd-1br-sublet/vRLHcG7uf1TvEmijrakmqU",
@@ -663,61 +553,6 @@
       "url": "https://www.craigslist.org/view/d/san-francisco-bedroom-bath-street-near/pG4hRpZ2WErzTxCqkfqCMa"
     },
     {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-fresh-1bd-1ba-in/5LD11cP1D3vnsbyg1D6uLT",
-      "source": "Craigslist",
-      "type": "standard rental",
-      "title": "Fresh 1bd/1ba in convenient Nob Hill location-prk available",
-      "price": "$3,350",
-      "sqft": "n/a",
-      "neighborhood": "nob hill",
-      "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-fresh-1bd-1ba-in/5LD11cP1D3vnsbyg1D6uLT"
-    },
-    {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-fresh-1bd-1ba-in/5LD11cP1D3vnsbyg1D6uLT",
-      "source": "Craigslist",
-      "type": "standard rental",
-      "title": "Fresh 1bd/1ba in convenient Nob Hill location-prk available",
-      "price": "$3,350",
-      "sqft": "n/a",
-      "neighborhood": "nob hill",
-      "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-fresh-1bd-1ba-in/5LD11cP1D3vnsbyg1D6uLT"
-    },
-    {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-fresh-1bd-1ba-in/5LD11cP1D3vnsbyg1D6uLT",
-      "source": "Craigslist",
-      "type": "standard rental",
-      "title": "Fresh 1bd/1ba in convenient Nob Hill location-prk available",
-      "price": "$3,350",
-      "sqft": "n/a",
-      "neighborhood": "nob hill",
-      "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-fresh-1bd-1ba-in/5LD11cP1D3vnsbyg1D6uLT"
-    },
-    {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-fresh-1bd-1ba-in/5LD11cP1D3vnsbyg1D6uLT",
-      "source": "Craigslist",
-      "type": "standard rental",
-      "title": "Fresh 1bd/1ba in convenient Nob Hill location-prk available",
-      "price": "$3,350",
-      "sqft": "n/a",
-      "neighborhood": "nob hill",
-      "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-fresh-1bd-1ba-in/5LD11cP1D3vnsbyg1D6uLT"
-    },
-    {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-fresh-1bd-1ba-in/5LD11cP1D3vnsbyg1D6uLT",
-      "source": "Craigslist",
-      "type": "standard rental",
-      "title": "Fresh 1bd/1ba in convenient Nob Hill location-prk available",
-      "price": "$3,350",
-      "sqft": "n/a",
-      "neighborhood": "nob hill",
-      "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-fresh-1bd-1ba-in/5LD11cP1D3vnsbyg1D6uLT"
-    },
-    {
       "id": "cl-https://www.craigslist.org/view/d/san-francisco-bright-remodel-in-stellar/aqSDNwqWhfkfJKVTLnLTNx",
       "source": "Craigslist",
       "type": "standard rental",
@@ -991,6 +826,61 @@
       "neighborhood": "nob hill",
       "posted": "n/a",
       "url": "https://www.craigslist.org/view/d/san-francisco-nob-hill-655powellpine-d/7a4sTNcBK1qk8nvvNRXQJY"
+    },
+    {
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-sun-filled-furnished-1bed/tpg5asUA9s5oryYtBtbNfC",
+      "source": "Craigslist",
+      "type": "standard rental",
+      "title": "Sun-Filled Furnished 1Bed/Bath aprtment in the heart of duboce/castro",
+      "price": "$3,945",
+      "sqft": "n/a",
+      "neighborhood": "castro / upper market",
+      "posted": "n/a",
+      "url": "https://www.craigslist.org/view/d/san-francisco-sun-filled-furnished-1bed/tpg5asUA9s5oryYtBtbNfC"
+    },
+    {
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-sun-filled-furnished-1bed/tpg5asUA9s5oryYtBtbNfC",
+      "source": "Craigslist",
+      "type": "standard rental",
+      "title": "Sun-Filled Furnished 1Bed/Bath aprtment in the heart of duboce/castro",
+      "price": "$3,945",
+      "sqft": "n/a",
+      "neighborhood": "castro / upper market",
+      "posted": "n/a",
+      "url": "https://www.craigslist.org/view/d/san-francisco-sun-filled-furnished-1bed/tpg5asUA9s5oryYtBtbNfC"
+    },
+    {
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-sun-filled-furnished-1bed/tpg5asUA9s5oryYtBtbNfC",
+      "source": "Craigslist",
+      "type": "standard rental",
+      "title": "Sun-Filled Furnished 1Bed/Bath aprtment in the heart of duboce/castro",
+      "price": "$3,945",
+      "sqft": "n/a",
+      "neighborhood": "castro / upper market",
+      "posted": "n/a",
+      "url": "https://www.craigslist.org/view/d/san-francisco-sun-filled-furnished-1bed/tpg5asUA9s5oryYtBtbNfC"
+    },
+    {
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-sun-filled-furnished-1bed/tpg5asUA9s5oryYtBtbNfC",
+      "source": "Craigslist",
+      "type": "standard rental",
+      "title": "Sun-Filled Furnished 1Bed/Bath aprtment in the heart of duboce/castro",
+      "price": "$3,945",
+      "sqft": "n/a",
+      "neighborhood": "castro / upper market",
+      "posted": "n/a",
+      "url": "https://www.craigslist.org/view/d/san-francisco-sun-filled-furnished-1bed/tpg5asUA9s5oryYtBtbNfC"
+    },
+    {
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-sun-filled-furnished-1bed/tpg5asUA9s5oryYtBtbNfC",
+      "source": "Craigslist",
+      "type": "standard rental",
+      "title": "Sun-Filled Furnished 1Bed/Bath aprtment in the heart of duboce/castro",
+      "price": "$3,945",
+      "sqft": "n/a",
+      "neighborhood": "castro / upper market",
+      "posted": "n/a",
+      "url": "https://www.craigslist.org/view/d/san-francisco-sun-filled-furnished-1bed/tpg5asUA9s5oryYtBtbNfC"
     },
     {
       "id": "cl-https://www.craigslist.org/view/d/san-francisco-charming-apartment-in-the/o5a3Z6NspNG59y8e3iYybA",
