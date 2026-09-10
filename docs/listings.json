@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-10 00:56 UTC",
-  "count": 165,
+  "last_updated": "2026-09-10 17:33 UTC",
+  "count": 155,
   "listings": [
     {
       "id": "cl-https://www.craigslist.org/view/d/san-francisco-fully-furnished-room-to/fJATV5DCWmZbiC9ft12VJe",
@@ -388,15 +388,15 @@
       "url": "https://www.craigslist.org/view/d/san-francisco-noe-valley-2bd-1br-sublet/vRLHcG7uf1TvEmijrakmqU"
     },
     {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-clay-st-1bdrm-aptmnt/tjYmxWxyH3qUVNFDY8csVL",
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-furnished-1bd-1ba-aug/2A16DheNwbabVGsuUUTjR3",
       "source": "Craigslist",
-      "type": "lease takeover / sublet",
-      "title": "Clay St 1Bdrm Aptmnt Sublet Aug 30 - May 10",
+      "type": "standard rental",
+      "title": "Furnished 1bd/1ba - Aug 12th to Jan 20th - $2500",
       "price": "$2,500",
       "sqft": "n/a",
       "neighborhood": "Nob Hill, San Francisco",
       "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-clay-st-1bdrm-aptmnt/tjYmxWxyH3qUVNFDY8csVL"
+      "url": "https://www.craigslist.org/view/d/san-francisco-furnished-1bd-1ba-aug/2A16DheNwbabVGsuUUTjR3"
     },
     {
       "id": "cl-https://www.craigslist.org/view/d/san-francisco-furnished-1bd-1ba-aug/2A16DheNwbabVGsuUUTjR3",
@@ -410,17 +410,6 @@
       "url": "https://www.craigslist.org/view/d/san-francisco-furnished-1bd-1ba-aug/2A16DheNwbabVGsuUUTjR3"
     },
     {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-clay-st-1bdrm-aptmnt/tjYmxWxyH3qUVNFDY8csVL",
-      "source": "Craigslist",
-      "type": "lease takeover / sublet",
-      "title": "Clay St 1Bdrm Aptmnt Sublet Aug 30 - May 10",
-      "price": "$2,500",
-      "sqft": "n/a",
-      "neighborhood": "Nob Hill, San Francisco",
-      "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-clay-st-1bdrm-aptmnt/tjYmxWxyH3qUVNFDY8csVL"
-    },
-    {
       "id": "cl-https://www.craigslist.org/view/d/san-francisco-furnished-1bd-1ba-aug/2A16DheNwbabVGsuUUTjR3",
       "source": "Craigslist",
       "type": "standard rental",
@@ -432,17 +421,6 @@
       "url": "https://www.craigslist.org/view/d/san-francisco-furnished-1bd-1ba-aug/2A16DheNwbabVGsuUUTjR3"
     },
     {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-clay-st-1bdrm-aptmnt/tjYmxWxyH3qUVNFDY8csVL",
-      "source": "Craigslist",
-      "type": "lease takeover / sublet",
-      "title": "Clay St 1Bdrm Aptmnt Sublet Aug 30 - May 10",
-      "price": "$2,500",
-      "sqft": "n/a",
-      "neighborhood": "Nob Hill, San Francisco",
-      "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-clay-st-1bdrm-aptmnt/tjYmxWxyH3qUVNFDY8csVL"
-    },
-    {
       "id": "cl-https://www.craigslist.org/view/d/san-francisco-furnished-1bd-1ba-aug/2A16DheNwbabVGsuUUTjR3",
       "source": "Craigslist",
       "type": "standard rental",
@@ -452,39 +430,6 @@
       "neighborhood": "Nob Hill, San Francisco",
       "posted": "n/a",
       "url": "https://www.craigslist.org/view/d/san-francisco-furnished-1bd-1ba-aug/2A16DheNwbabVGsuUUTjR3"
-    },
-    {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-clay-st-1bdrm-aptmnt/tjYmxWxyH3qUVNFDY8csVL",
-      "source": "Craigslist",
-      "type": "lease takeover / sublet",
-      "title": "Clay St 1Bdrm Aptmnt Sublet Aug 30 - May 10",
-      "price": "$2,500",
-      "sqft": "n/a",
-      "neighborhood": "Nob Hill, San Francisco",
-      "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-clay-st-1bdrm-aptmnt/tjYmxWxyH3qUVNFDY8csVL"
-    },
-    {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-furnished-1bd-1ba-aug/2A16DheNwbabVGsuUUTjR3",
-      "source": "Craigslist",
-      "type": "standard rental",
-      "title": "Furnished 1bd/1ba - Aug 12th to Jan 20th - $2500",
-      "price": "$2,500",
-      "sqft": "n/a",
-      "neighborhood": "Nob Hill, San Francisco",
-      "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-furnished-1bd-1ba-aug/2A16DheNwbabVGsuUUTjR3"
-    },
-    {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-clay-st-1bdrm-aptmnt/tjYmxWxyH3qUVNFDY8csVL",
-      "source": "Craigslist",
-      "type": "lease takeover / sublet",
-      "title": "Clay St 1Bdrm Aptmnt Sublet Aug 30 - May 10",
-      "price": "$2,500",
-      "sqft": "n/a",
-      "neighborhood": "Nob Hill, San Francisco",
-      "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-clay-st-1bdrm-aptmnt/tjYmxWxyH3qUVNFDY8csVL"
     },
     {
       "id": "cl-https://www.craigslist.org/view/d/san-francisco-furnished-1bd-1ba-aug/2A16DheNwbabVGsuUUTjR3",
@@ -771,61 +716,6 @@
       "neighborhood": "nob hill",
       "posted": "n/a",
       "url": "https://www.craigslist.org/view/d/san-francisco-bright-remodel-in-stellar/aqSDNwqWhfkfJKVTLnLTNx"
-    },
-    {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-br-shared-laundry-and-pet/aqyrqaF1WT3XMLXUSSoaEU",
-      "source": "Craigslist",
-      "type": "standard rental",
-      "title": "1 Br w/ shared laundry and pet ok!",
-      "price": "$3,495",
-      "sqft": "n/a",
-      "neighborhood": "castro / upper market",
-      "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-br-shared-laundry-and-pet/aqyrqaF1WT3XMLXUSSoaEU"
-    },
-    {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-br-shared-laundry-and-pet/aqyrqaF1WT3XMLXUSSoaEU",
-      "source": "Craigslist",
-      "type": "standard rental",
-      "title": "1 Br w/ shared laundry and pet ok!",
-      "price": "$3,495",
-      "sqft": "n/a",
-      "neighborhood": "castro / upper market",
-      "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-br-shared-laundry-and-pet/aqyrqaF1WT3XMLXUSSoaEU"
-    },
-    {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-br-shared-laundry-and-pet/aqyrqaF1WT3XMLXUSSoaEU",
-      "source": "Craigslist",
-      "type": "standard rental",
-      "title": "1 Br w/ shared laundry and pet ok!",
-      "price": "$3,495",
-      "sqft": "n/a",
-      "neighborhood": "castro / upper market",
-      "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-br-shared-laundry-and-pet/aqyrqaF1WT3XMLXUSSoaEU"
-    },
-    {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-br-shared-laundry-and-pet/aqyrqaF1WT3XMLXUSSoaEU",
-      "source": "Craigslist",
-      "type": "standard rental",
-      "title": "1 Br w/ shared laundry and pet ok!",
-      "price": "$3,495",
-      "sqft": "n/a",
-      "neighborhood": "castro / upper market",
-      "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-br-shared-laundry-and-pet/aqyrqaF1WT3XMLXUSSoaEU"
-    },
-    {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-br-shared-laundry-and-pet/aqyrqaF1WT3XMLXUSSoaEU",
-      "source": "Craigslist",
-      "type": "standard rental",
-      "title": "1 Br w/ shared laundry and pet ok!",
-      "price": "$3,495",
-      "sqft": "n/a",
-      "neighborhood": "castro / upper market",
-      "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-br-shared-laundry-and-pet/aqyrqaF1WT3XMLXUSSoaEU"
     },
     {
       "id": "cl-https://www.craigslist.org/view/d/san-francisco-rent-controlled-corner/nJV69nG6mmmycRm7QbH7kA",
