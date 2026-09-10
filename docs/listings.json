@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-09 17:40 UTC",
-  "count": 170,
+  "last_updated": "2026-09-10 00:56 UTC",
+  "count": 165,
   "listings": [
     {
       "id": "cl-https://www.craigslist.org/view/d/san-francisco-fully-furnished-room-to/fJATV5DCWmZbiC9ft12VJe",
@@ -388,61 +388,6 @@
       "url": "https://www.craigslist.org/view/d/san-francisco-noe-valley-2bd-1br-sublet/vRLHcG7uf1TvEmijrakmqU"
     },
     {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-pine-st-spacious-newly/cvsc8DRwfhjdCiW15i2e1R",
-      "source": "Craigslist",
-      "type": "standard rental",
-      "title": "Pine St. Spacious, Newly-Renovated 1BR/1BA Unit",
-      "price": "$2,450",
-      "sqft": "n/a",
-      "neighborhood": "nob hill",
-      "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-pine-st-spacious-newly/cvsc8DRwfhjdCiW15i2e1R"
-    },
-    {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-pine-st-spacious-newly/cvsc8DRwfhjdCiW15i2e1R",
-      "source": "Craigslist",
-      "type": "standard rental",
-      "title": "Pine St. Spacious, Newly-Renovated 1BR/1BA Unit",
-      "price": "$2,450",
-      "sqft": "n/a",
-      "neighborhood": "nob hill",
-      "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-pine-st-spacious-newly/cvsc8DRwfhjdCiW15i2e1R"
-    },
-    {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-pine-st-spacious-newly/cvsc8DRwfhjdCiW15i2e1R",
-      "source": "Craigslist",
-      "type": "standard rental",
-      "title": "Pine St. Spacious, Newly-Renovated 1BR/1BA Unit",
-      "price": "$2,450",
-      "sqft": "n/a",
-      "neighborhood": "nob hill",
-      "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-pine-st-spacious-newly/cvsc8DRwfhjdCiW15i2e1R"
-    },
-    {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-pine-st-spacious-newly/cvsc8DRwfhjdCiW15i2e1R",
-      "source": "Craigslist",
-      "type": "standard rental",
-      "title": "Pine St. Spacious, Newly-Renovated 1BR/1BA Unit",
-      "price": "$2,450",
-      "sqft": "n/a",
-      "neighborhood": "nob hill",
-      "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-pine-st-spacious-newly/cvsc8DRwfhjdCiW15i2e1R"
-    },
-    {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-pine-st-spacious-newly/cvsc8DRwfhjdCiW15i2e1R",
-      "source": "Craigslist",
-      "type": "standard rental",
-      "title": "Pine St. Spacious, Newly-Renovated 1BR/1BA Unit",
-      "price": "$2,450",
-      "sqft": "n/a",
-      "neighborhood": "nob hill",
-      "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-pine-st-spacious-newly/cvsc8DRwfhjdCiW15i2e1R"
-    },
-    {
       "id": "cl-https://www.craigslist.org/view/d/san-francisco-clay-st-1bdrm-aptmnt/tjYmxWxyH3qUVNFDY8csVL",
       "source": "Craigslist",
       "type": "lease takeover / sublet",
@@ -663,15 +608,59 @@
       "url": "https://www.craigslist.org/view/d/san-francisco-private-spacious-suite/mJNwV1irLMJqajzVtvZwyj"
     },
     {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-bedroom-bath-street-near/goQtruXawRoWbJgBTXYzxd",
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-big-remodeled-one-bedroom/m9nfYZYrYikxZ6EPi21jcV",
       "source": "Craigslist",
       "type": "standard rental",
-      "title": "2 bedroom 1 bath Street near Nob hill, San Francisco, -",
-      "price": "$3,300",
+      "title": "Big Remodeled One Bedroom Available For Rent",
+      "price": "$3,000",
       "sqft": "n/a",
       "neighborhood": "nob hill",
       "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-bedroom-bath-street-near/goQtruXawRoWbJgBTXYzxd"
+      "url": "https://www.craigslist.org/view/d/san-francisco-big-remodeled-one-bedroom/m9nfYZYrYikxZ6EPi21jcV"
+    },
+    {
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-big-remodeled-one-bedroom/m9nfYZYrYikxZ6EPi21jcV",
+      "source": "Craigslist",
+      "type": "standard rental",
+      "title": "Big Remodeled One Bedroom Available For Rent",
+      "price": "$3,000",
+      "sqft": "n/a",
+      "neighborhood": "nob hill",
+      "posted": "n/a",
+      "url": "https://www.craigslist.org/view/d/san-francisco-big-remodeled-one-bedroom/m9nfYZYrYikxZ6EPi21jcV"
+    },
+    {
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-big-remodeled-one-bedroom/m9nfYZYrYikxZ6EPi21jcV",
+      "source": "Craigslist",
+      "type": "standard rental",
+      "title": "Big Remodeled One Bedroom Available For Rent",
+      "price": "$3,000",
+      "sqft": "n/a",
+      "neighborhood": "nob hill",
+      "posted": "n/a",
+      "url": "https://www.craigslist.org/view/d/san-francisco-big-remodeled-one-bedroom/m9nfYZYrYikxZ6EPi21jcV"
+    },
+    {
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-big-remodeled-one-bedroom/m9nfYZYrYikxZ6EPi21jcV",
+      "source": "Craigslist",
+      "type": "standard rental",
+      "title": "Big Remodeled One Bedroom Available For Rent",
+      "price": "$3,000",
+      "sqft": "n/a",
+      "neighborhood": "nob hill",
+      "posted": "n/a",
+      "url": "https://www.craigslist.org/view/d/san-francisco-big-remodeled-one-bedroom/m9nfYZYrYikxZ6EPi21jcV"
+    },
+    {
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-big-remodeled-one-bedroom/m9nfYZYrYikxZ6EPi21jcV",
+      "source": "Craigslist",
+      "type": "standard rental",
+      "title": "Big Remodeled One Bedroom Available For Rent",
+      "price": "$3,000",
+      "sqft": "n/a",
+      "neighborhood": "nob hill",
+      "posted": "n/a",
+      "url": "https://www.craigslist.org/view/d/san-francisco-big-remodeled-one-bedroom/m9nfYZYrYikxZ6EPi21jcV"
     },
     {
       "id": "cl-https://www.craigslist.org/view/d/san-francisco-bedroom-bath-street-near/pG4hRpZ2WErzTxCqkfqCMa",
@@ -685,7 +674,7 @@
       "url": "https://www.craigslist.org/view/d/san-francisco-bedroom-bath-street-near/pG4hRpZ2WErzTxCqkfqCMa"
     },
     {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-bedroom-bath-street-near/goQtruXawRoWbJgBTXYzxd",
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-bedroom-bath-street-near/pG4hRpZ2WErzTxCqkfqCMa",
       "source": "Craigslist",
       "type": "standard rental",
       "title": "2 bedroom 1 bath Street near Nob hill, San Francisco, -",
@@ -693,7 +682,7 @@
       "sqft": "n/a",
       "neighborhood": "nob hill",
       "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-bedroom-bath-street-near/goQtruXawRoWbJgBTXYzxd"
+      "url": "https://www.craigslist.org/view/d/san-francisco-bedroom-bath-street-near/pG4hRpZ2WErzTxCqkfqCMa"
     },
     {
       "id": "cl-https://www.craigslist.org/view/d/san-francisco-bedroom-bath-street-near/pG4hRpZ2WErzTxCqkfqCMa",
@@ -707,17 +696,6 @@
       "url": "https://www.craigslist.org/view/d/san-francisco-bedroom-bath-street-near/pG4hRpZ2WErzTxCqkfqCMa"
     },
     {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-bedroom-bath-street-near/goQtruXawRoWbJgBTXYzxd",
-      "source": "Craigslist",
-      "type": "standard rental",
-      "title": "2 bedroom 1 bath Street near Nob hill, San Francisco, -",
-      "price": "$3,300",
-      "sqft": "n/a",
-      "neighborhood": "nob hill",
-      "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-bedroom-bath-street-near/goQtruXawRoWbJgBTXYzxd"
-    },
-    {
       "id": "cl-https://www.craigslist.org/view/d/san-francisco-bedroom-bath-street-near/pG4hRpZ2WErzTxCqkfqCMa",
       "source": "Craigslist",
       "type": "standard rental",
@@ -727,39 +705,6 @@
       "neighborhood": "nob hill",
       "posted": "n/a",
       "url": "https://www.craigslist.org/view/d/san-francisco-bedroom-bath-street-near/pG4hRpZ2WErzTxCqkfqCMa"
-    },
-    {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-bedroom-bath-street-near/goQtruXawRoWbJgBTXYzxd",
-      "source": "Craigslist",
-      "type": "standard rental",
-      "title": "2 bedroom 1 bath Street near Nob hill, San Francisco, -",
-      "price": "$3,300",
-      "sqft": "n/a",
-      "neighborhood": "nob hill",
-      "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-bedroom-bath-street-near/goQtruXawRoWbJgBTXYzxd"
-    },
-    {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-bedroom-bath-street-near/pG4hRpZ2WErzTxCqkfqCMa",
-      "source": "Craigslist",
-      "type": "standard rental",
-      "title": "2 bedroom 1 bath Street near Nob hill, San Francisco, -",
-      "price": "$3,300",
-      "sqft": "n/a",
-      "neighborhood": "nob hill",
-      "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-bedroom-bath-street-near/pG4hRpZ2WErzTxCqkfqCMa"
-    },
-    {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-bedroom-bath-street-near/goQtruXawRoWbJgBTXYzxd",
-      "source": "Craigslist",
-      "type": "standard rental",
-      "title": "2 bedroom 1 bath Street near Nob hill, San Francisco, -",
-      "price": "$3,300",
-      "sqft": "n/a",
-      "neighborhood": "nob hill",
-      "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-bedroom-bath-street-near/goQtruXawRoWbJgBTXYzxd"
     },
     {
       "id": "cl-https://www.craigslist.org/view/d/san-francisco-bedroom-bath-street-near/pG4hRpZ2WErzTxCqkfqCMa",
