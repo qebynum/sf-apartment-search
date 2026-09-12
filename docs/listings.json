@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-12 00:58 UTC",
-  "count": 160,
+  "last_updated": "2026-09-12 16:50 UTC",
+  "count": 165,
   "listings": [
     {
       "id": "cl-https://www.craigslist.org/view/d/san-francisco-fully-furnished-room-to/fJATV5DCWmZbiC9ft12VJe",
@@ -168,59 +168,15 @@
       "url": "https://www.craigslist.org/view/d/san-francisco-room-with-private-bath/sGMsEaAKp1ZQvbcE1Fv8Lc"
     },
     {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-bd-only-1795-in-prime/mcgxfnCaekGH5BJPixXwzV",
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-fridge-large-windows-24/hN77GnDLzLUKu8nv7wnCHk",
       "source": "Craigslist",
       "type": "standard rental",
-      "title": "1 BD Only $1,795 in Prime Location",
+      "title": "Fridge, Large Windows, 24/7 Emergency Maintenance, Carpet",
       "price": "$2,100",
       "sqft": "n/a",
       "neighborhood": "nob hill",
       "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-bd-only-1795-in-prime/mcgxfnCaekGH5BJPixXwzV"
-    },
-    {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-only-1795-for-newly/tiN1WLEbrpgoSPmLyB6sBn",
-      "source": "Craigslist",
-      "type": "standard rental",
-      "title": "Only $1,795 for a Newly Renovated 1 BD!",
-      "price": "$2,100",
-      "sqft": "n/a",
-      "neighborhood": "nob hill",
-      "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-only-1795-for-newly/tiN1WLEbrpgoSPmLyB6sBn"
-    },
-    {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-bd-1795-new-plank-floor/nmbN3dRD34Tbp7SVgGxSnj",
-      "source": "Craigslist",
-      "type": "standard rental",
-      "title": "1 BD $1,795-New Plank Floor in Great Location!",
-      "price": "$2,100",
-      "sqft": "n/a",
-      "neighborhood": "nob hill",
-      "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-bd-1795-new-plank-floor/nmbN3dRD34Tbp7SVgGxSnj"
-    },
-    {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-24-emergency-maintenance/sBn1CPZViSkA45dTkq8Aem",
-      "source": "Craigslist",
-      "type": "standard rental",
-      "title": "24/7 Emergency Maintenance, Carpet, Vertical Blinds, Parking - Street",
-      "price": "$2,100",
-      "sqft": "n/a",
-      "neighborhood": "nob hill",
-      "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-24-emergency-maintenance/sBn1CPZViSkA45dTkq8Aem"
-    },
-    {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-section-accepted/gxPZWwv74Hz8ELFzENzQqD",
-      "source": "Craigslist",
-      "type": "standard rental",
-      "title": "Section 8 Accepted!",
-      "price": "$2,100",
-      "sqft": "n/a",
-      "neighborhood": "nob hill",
-      "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-section-accepted/gxPZWwv74Hz8ELFzENzQqD"
+      "url": "https://www.craigslist.org/view/d/san-francisco-fridge-large-windows-24/hN77GnDLzLUKu8nv7wnCHk"
     },
     {
       "id": "cl-https://www.craigslist.org/view/d/san-francisco-bd-only-1795-in-prime/mcgxfnCaekGH5BJPixXwzV",
@@ -278,59 +234,15 @@
       "url": "https://www.craigslist.org/view/d/san-francisco-section-accepted/gxPZWwv74Hz8ELFzENzQqD"
     },
     {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-bd-only-1795-in-prime/mcgxfnCaekGH5BJPixXwzV",
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-fridge-large-windows-24/hN77GnDLzLUKu8nv7wnCHk",
       "source": "Craigslist",
       "type": "standard rental",
-      "title": "1 BD Only $1,795 in Prime Location",
+      "title": "Fridge, Large Windows, 24/7 Emergency Maintenance, Carpet",
       "price": "$2,100",
       "sqft": "n/a",
       "neighborhood": "nob hill",
       "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-bd-only-1795-in-prime/mcgxfnCaekGH5BJPixXwzV"
-    },
-    {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-only-1795-for-newly/tiN1WLEbrpgoSPmLyB6sBn",
-      "source": "Craigslist",
-      "type": "standard rental",
-      "title": "Only $1,795 for a Newly Renovated 1 BD!",
-      "price": "$2,100",
-      "sqft": "n/a",
-      "neighborhood": "nob hill",
-      "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-only-1795-for-newly/tiN1WLEbrpgoSPmLyB6sBn"
-    },
-    {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-bd-1795-new-plank-floor/nmbN3dRD34Tbp7SVgGxSnj",
-      "source": "Craigslist",
-      "type": "standard rental",
-      "title": "1 BD $1,795-New Plank Floor in Great Location!",
-      "price": "$2,100",
-      "sqft": "n/a",
-      "neighborhood": "nob hill",
-      "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-bd-1795-new-plank-floor/nmbN3dRD34Tbp7SVgGxSnj"
-    },
-    {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-24-emergency-maintenance/sBn1CPZViSkA45dTkq8Aem",
-      "source": "Craigslist",
-      "type": "standard rental",
-      "title": "24/7 Emergency Maintenance, Carpet, Vertical Blinds, Parking - Street",
-      "price": "$2,100",
-      "sqft": "n/a",
-      "neighborhood": "nob hill",
-      "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-24-emergency-maintenance/sBn1CPZViSkA45dTkq8Aem"
-    },
-    {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-section-accepted/gxPZWwv74Hz8ELFzENzQqD",
-      "source": "Craigslist",
-      "type": "standard rental",
-      "title": "Section 8 Accepted!",
-      "price": "$2,100",
-      "sqft": "n/a",
-      "neighborhood": "nob hill",
-      "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-section-accepted/gxPZWwv74Hz8ELFzENzQqD"
+      "url": "https://www.craigslist.org/view/d/san-francisco-fridge-large-windows-24/hN77GnDLzLUKu8nv7wnCHk"
     },
     {
       "id": "cl-https://www.craigslist.org/view/d/san-francisco-bd-only-1795-in-prime/mcgxfnCaekGH5BJPixXwzV",
@@ -386,6 +298,149 @@
       "neighborhood": "nob hill",
       "posted": "n/a",
       "url": "https://www.craigslist.org/view/d/san-francisco-section-accepted/gxPZWwv74Hz8ELFzENzQqD"
+    },
+    {
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-fridge-large-windows-24/hN77GnDLzLUKu8nv7wnCHk",
+      "source": "Craigslist",
+      "type": "standard rental",
+      "title": "Fridge, Large Windows, 24/7 Emergency Maintenance, Carpet",
+      "price": "$2,100",
+      "sqft": "n/a",
+      "neighborhood": "nob hill",
+      "posted": "n/a",
+      "url": "https://www.craigslist.org/view/d/san-francisco-fridge-large-windows-24/hN77GnDLzLUKu8nv7wnCHk"
+    },
+    {
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-bd-only-1795-in-prime/mcgxfnCaekGH5BJPixXwzV",
+      "source": "Craigslist",
+      "type": "standard rental",
+      "title": "1 BD Only $1,795 in Prime Location",
+      "price": "$2,100",
+      "sqft": "n/a",
+      "neighborhood": "nob hill",
+      "posted": "n/a",
+      "url": "https://www.craigslist.org/view/d/san-francisco-bd-only-1795-in-prime/mcgxfnCaekGH5BJPixXwzV"
+    },
+    {
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-only-1795-for-newly/tiN1WLEbrpgoSPmLyB6sBn",
+      "source": "Craigslist",
+      "type": "standard rental",
+      "title": "Only $1,795 for a Newly Renovated 1 BD!",
+      "price": "$2,100",
+      "sqft": "n/a",
+      "neighborhood": "nob hill",
+      "posted": "n/a",
+      "url": "https://www.craigslist.org/view/d/san-francisco-only-1795-for-newly/tiN1WLEbrpgoSPmLyB6sBn"
+    },
+    {
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-bd-1795-new-plank-floor/nmbN3dRD34Tbp7SVgGxSnj",
+      "source": "Craigslist",
+      "type": "standard rental",
+      "title": "1 BD $1,795-New Plank Floor in Great Location!",
+      "price": "$2,100",
+      "sqft": "n/a",
+      "neighborhood": "nob hill",
+      "posted": "n/a",
+      "url": "https://www.craigslist.org/view/d/san-francisco-bd-1795-new-plank-floor/nmbN3dRD34Tbp7SVgGxSnj"
+    },
+    {
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-24-emergency-maintenance/sBn1CPZViSkA45dTkq8Aem",
+      "source": "Craigslist",
+      "type": "standard rental",
+      "title": "24/7 Emergency Maintenance, Carpet, Vertical Blinds, Parking - Street",
+      "price": "$2,100",
+      "sqft": "n/a",
+      "neighborhood": "nob hill",
+      "posted": "n/a",
+      "url": "https://www.craigslist.org/view/d/san-francisco-24-emergency-maintenance/sBn1CPZViSkA45dTkq8Aem"
+    },
+    {
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-section-accepted/gxPZWwv74Hz8ELFzENzQqD",
+      "source": "Craigslist",
+      "type": "standard rental",
+      "title": "Section 8 Accepted!",
+      "price": "$2,100",
+      "sqft": "n/a",
+      "neighborhood": "nob hill",
+      "posted": "n/a",
+      "url": "https://www.craigslist.org/view/d/san-francisco-section-accepted/gxPZWwv74Hz8ELFzENzQqD"
+    },
+    {
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-fridge-large-windows-24/hN77GnDLzLUKu8nv7wnCHk",
+      "source": "Craigslist",
+      "type": "standard rental",
+      "title": "Fridge, Large Windows, 24/7 Emergency Maintenance, Carpet",
+      "price": "$2,100",
+      "sqft": "n/a",
+      "neighborhood": "nob hill",
+      "posted": "n/a",
+      "url": "https://www.craigslist.org/view/d/san-francisco-fridge-large-windows-24/hN77GnDLzLUKu8nv7wnCHk"
+    },
+    {
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-bd-only-1795-in-prime/mcgxfnCaekGH5BJPixXwzV",
+      "source": "Craigslist",
+      "type": "standard rental",
+      "title": "1 BD Only $1,795 in Prime Location",
+      "price": "$2,100",
+      "sqft": "n/a",
+      "neighborhood": "nob hill",
+      "posted": "n/a",
+      "url": "https://www.craigslist.org/view/d/san-francisco-bd-only-1795-in-prime/mcgxfnCaekGH5BJPixXwzV"
+    },
+    {
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-only-1795-for-newly/tiN1WLEbrpgoSPmLyB6sBn",
+      "source": "Craigslist",
+      "type": "standard rental",
+      "title": "Only $1,795 for a Newly Renovated 1 BD!",
+      "price": "$2,100",
+      "sqft": "n/a",
+      "neighborhood": "nob hill",
+      "posted": "n/a",
+      "url": "https://www.craigslist.org/view/d/san-francisco-only-1795-for-newly/tiN1WLEbrpgoSPmLyB6sBn"
+    },
+    {
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-bd-1795-new-plank-floor/nmbN3dRD34Tbp7SVgGxSnj",
+      "source": "Craigslist",
+      "type": "standard rental",
+      "title": "1 BD $1,795-New Plank Floor in Great Location!",
+      "price": "$2,100",
+      "sqft": "n/a",
+      "neighborhood": "nob hill",
+      "posted": "n/a",
+      "url": "https://www.craigslist.org/view/d/san-francisco-bd-1795-new-plank-floor/nmbN3dRD34Tbp7SVgGxSnj"
+    },
+    {
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-24-emergency-maintenance/sBn1CPZViSkA45dTkq8Aem",
+      "source": "Craigslist",
+      "type": "standard rental",
+      "title": "24/7 Emergency Maintenance, Carpet, Vertical Blinds, Parking - Street",
+      "price": "$2,100",
+      "sqft": "n/a",
+      "neighborhood": "nob hill",
+      "posted": "n/a",
+      "url": "https://www.craigslist.org/view/d/san-francisco-24-emergency-maintenance/sBn1CPZViSkA45dTkq8Aem"
+    },
+    {
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-section-accepted/gxPZWwv74Hz8ELFzENzQqD",
+      "source": "Craigslist",
+      "type": "standard rental",
+      "title": "Section 8 Accepted!",
+      "price": "$2,100",
+      "sqft": "n/a",
+      "neighborhood": "nob hill",
+      "posted": "n/a",
+      "url": "https://www.craigslist.org/view/d/san-francisco-section-accepted/gxPZWwv74Hz8ELFzENzQqD"
+    },
+    {
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-fridge-large-windows-24/hN77GnDLzLUKu8nv7wnCHk",
+      "source": "Craigslist",
+      "type": "standard rental",
+      "title": "Fridge, Large Windows, 24/7 Emergency Maintenance, Carpet",
+      "price": "$2,100",
+      "sqft": "n/a",
+      "neighborhood": "nob hill",
+      "posted": "n/a",
+      "url": "https://www.craigslist.org/view/d/san-francisco-fridge-large-windows-24/hN77GnDLzLUKu8nv7wnCHk"
     },
     {
       "id": "cl-https://www.craigslist.org/view/d/san-francisco-bd-only-1795-in-prime/mcgxfnCaekGH5BJPixXwzV",
