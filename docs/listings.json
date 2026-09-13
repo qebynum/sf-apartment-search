@@ -1,63 +1,8 @@
 {
-  "last_updated": "2026-09-13 00:43 UTC",
-  "count": 190,
+  "last_updated": "2026-09-13 17:20 UTC",
+  "count": 170,
   "listings": [
     {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-425-1st-st-1804-is/6wW9j61iwPqvQ8Bkp5WfVG",
-      "source": "Craigslist",
-      "type": "standard rental",
-      "title": "425 1st St #1804. is a stunning English Country Style Townhouse.",
-      "price": "$1,479",
-      "sqft": "n/a",
-      "neighborhood": "Potrero Hill",
-      "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-425-1st-st-1804-is/6wW9j61iwPqvQ8Bkp5WfVG"
-    },
-    {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-425-1st-st-1804-is/6wW9j61iwPqvQ8Bkp5WfVG",
-      "source": "Craigslist",
-      "type": "standard rental",
-      "title": "425 1st St #1804. is a stunning English Country Style Townhouse.",
-      "price": "$1,479",
-      "sqft": "n/a",
-      "neighborhood": "Potrero Hill",
-      "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-425-1st-st-1804-is/6wW9j61iwPqvQ8Bkp5WfVG"
-    },
-    {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-425-1st-st-1804-is/6wW9j61iwPqvQ8Bkp5WfVG",
-      "source": "Craigslist",
-      "type": "standard rental",
-      "title": "425 1st St #1804. is a stunning English Country Style Townhouse.",
-      "price": "$1,479",
-      "sqft": "n/a",
-      "neighborhood": "Potrero Hill",
-      "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-425-1st-st-1804-is/6wW9j61iwPqvQ8Bkp5WfVG"
-    },
-    {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-425-1st-st-1804-is/6wW9j61iwPqvQ8Bkp5WfVG",
-      "source": "Craigslist",
-      "type": "standard rental",
-      "title": "425 1st St #1804. is a stunning English Country Style Townhouse.",
-      "price": "$1,479",
-      "sqft": "n/a",
-      "neighborhood": "Potrero Hill",
-      "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-425-1st-st-1804-is/6wW9j61iwPqvQ8Bkp5WfVG"
-    },
-    {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-425-1st-st-1804-is/6wW9j61iwPqvQ8Bkp5WfVG",
-      "source": "Craigslist",
-      "type": "standard rental",
-      "title": "425 1st St #1804. is a stunning English Country Style Townhouse.",
-      "price": "$1,479",
-      "sqft": "n/a",
-      "neighborhood": "Potrero Hill",
-      "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-425-1st-st-1804-is/6wW9j61iwPqvQ8Bkp5WfVG"
-    },
-    {
       "id": "cl-https://www.craigslist.org/view/d/san-francisco-fully-furnished-room-to/fJATV5DCWmZbiC9ft12VJe",
       "source": "Craigslist",
       "type": "standard rental",
@@ -168,59 +113,15 @@
       "url": "https://www.craigslist.org/view/d/san-francisco-peaceful-room-in/fdKofcgkSpByRtYLgcDCTi"
     },
     {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-room-with-private-bath/sGMsEaAKp1ZQvbcE1Fv8Lc",
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-section-accepted/7XeyZf6kAED2QhzBrHwzAi",
       "source": "Craigslist",
       "type": "standard rental",
-      "title": "Room with private bath, wifi,laundry in Buena Vista Area",
-      "price": "$1,650",
+      "title": "Section 8 Accepted!",
+      "price": "$2,100",
       "sqft": "n/a",
-      "neighborhood": "castro / upper market",
+      "neighborhood": "nob hill",
       "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-room-with-private-bath/sGMsEaAKp1ZQvbcE1Fv8Lc"
-    },
-    {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-room-with-private-bath/sGMsEaAKp1ZQvbcE1Fv8Lc",
-      "source": "Craigslist",
-      "type": "standard rental",
-      "title": "Room with private bath, wifi,laundry in Buena Vista Area",
-      "price": "$1,650",
-      "sqft": "n/a",
-      "neighborhood": "castro / upper market",
-      "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-room-with-private-bath/sGMsEaAKp1ZQvbcE1Fv8Lc"
-    },
-    {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-room-with-private-bath/sGMsEaAKp1ZQvbcE1Fv8Lc",
-      "source": "Craigslist",
-      "type": "standard rental",
-      "title": "Room with private bath, wifi,laundry in Buena Vista Area",
-      "price": "$1,650",
-      "sqft": "n/a",
-      "neighborhood": "castro / upper market",
-      "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-room-with-private-bath/sGMsEaAKp1ZQvbcE1Fv8Lc"
-    },
-    {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-room-with-private-bath/sGMsEaAKp1ZQvbcE1Fv8Lc",
-      "source": "Craigslist",
-      "type": "standard rental",
-      "title": "Room with private bath, wifi,laundry in Buena Vista Area",
-      "price": "$1,650",
-      "sqft": "n/a",
-      "neighborhood": "castro / upper market",
-      "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-room-with-private-bath/sGMsEaAKp1ZQvbcE1Fv8Lc"
-    },
-    {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-room-with-private-bath/sGMsEaAKp1ZQvbcE1Fv8Lc",
-      "source": "Craigslist",
-      "type": "standard rental",
-      "title": "Room with private bath, wifi,laundry in Buena Vista Area",
-      "price": "$1,650",
-      "sqft": "n/a",
-      "neighborhood": "castro / upper market",
-      "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-room-with-private-bath/sGMsEaAKp1ZQvbcE1Fv8Lc"
+      "url": "https://www.craigslist.org/view/d/san-francisco-section-accepted/7XeyZf6kAED2QhzBrHwzAi"
     },
     {
       "id": "cl-https://www.craigslist.org/view/d/san-francisco-elevators-vertical-blinds/jb4KgHkDzZ4DtJr3nSaYWr",
@@ -278,26 +179,15 @@
       "url": "https://www.craigslist.org/view/d/san-francisco-only-1795-for-newly/tiN1WLEbrpgoSPmLyB6sBn"
     },
     {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-bd-1795-new-plank-floor/nmbN3dRD34Tbp7SVgGxSnj",
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-section-accepted/7XeyZf6kAED2QhzBrHwzAi",
       "source": "Craigslist",
       "type": "standard rental",
-      "title": "1 BD $1,795-New Plank Floor in Great Location!",
+      "title": "Section 8 Accepted!",
       "price": "$2,100",
       "sqft": "n/a",
       "neighborhood": "nob hill",
       "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-bd-1795-new-plank-floor/nmbN3dRD34Tbp7SVgGxSnj"
-    },
-    {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-24-emergency-maintenance/sBn1CPZViSkA45dTkq8Aem",
-      "source": "Craigslist",
-      "type": "standard rental",
-      "title": "24/7 Emergency Maintenance, Carpet, Vertical Blinds, Parking - Street",
-      "price": "$2,100",
-      "sqft": "n/a",
-      "neighborhood": "nob hill",
-      "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-24-emergency-maintenance/sBn1CPZViSkA45dTkq8Aem"
+      "url": "https://www.craigslist.org/view/d/san-francisco-section-accepted/7XeyZf6kAED2QhzBrHwzAi"
     },
     {
       "id": "cl-https://www.craigslist.org/view/d/san-francisco-elevators-vertical-blinds/jb4KgHkDzZ4DtJr3nSaYWr",
@@ -355,26 +245,15 @@
       "url": "https://www.craigslist.org/view/d/san-francisco-only-1795-for-newly/tiN1WLEbrpgoSPmLyB6sBn"
     },
     {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-bd-1795-new-plank-floor/nmbN3dRD34Tbp7SVgGxSnj",
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-section-accepted/7XeyZf6kAED2QhzBrHwzAi",
       "source": "Craigslist",
       "type": "standard rental",
-      "title": "1 BD $1,795-New Plank Floor in Great Location!",
+      "title": "Section 8 Accepted!",
       "price": "$2,100",
       "sqft": "n/a",
       "neighborhood": "nob hill",
       "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-bd-1795-new-plank-floor/nmbN3dRD34Tbp7SVgGxSnj"
-    },
-    {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-24-emergency-maintenance/sBn1CPZViSkA45dTkq8Aem",
-      "source": "Craigslist",
-      "type": "standard rental",
-      "title": "24/7 Emergency Maintenance, Carpet, Vertical Blinds, Parking - Street",
-      "price": "$2,100",
-      "sqft": "n/a",
-      "neighborhood": "nob hill",
-      "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-24-emergency-maintenance/sBn1CPZViSkA45dTkq8Aem"
+      "url": "https://www.craigslist.org/view/d/san-francisco-section-accepted/7XeyZf6kAED2QhzBrHwzAi"
     },
     {
       "id": "cl-https://www.craigslist.org/view/d/san-francisco-elevators-vertical-blinds/jb4KgHkDzZ4DtJr3nSaYWr",
@@ -432,26 +311,15 @@
       "url": "https://www.craigslist.org/view/d/san-francisco-only-1795-for-newly/tiN1WLEbrpgoSPmLyB6sBn"
     },
     {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-bd-1795-new-plank-floor/nmbN3dRD34Tbp7SVgGxSnj",
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-section-accepted/7XeyZf6kAED2QhzBrHwzAi",
       "source": "Craigslist",
       "type": "standard rental",
-      "title": "1 BD $1,795-New Plank Floor in Great Location!",
+      "title": "Section 8 Accepted!",
       "price": "$2,100",
       "sqft": "n/a",
       "neighborhood": "nob hill",
       "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-bd-1795-new-plank-floor/nmbN3dRD34Tbp7SVgGxSnj"
-    },
-    {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-24-emergency-maintenance/sBn1CPZViSkA45dTkq8Aem",
-      "source": "Craigslist",
-      "type": "standard rental",
-      "title": "24/7 Emergency Maintenance, Carpet, Vertical Blinds, Parking - Street",
-      "price": "$2,100",
-      "sqft": "n/a",
-      "neighborhood": "nob hill",
-      "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-24-emergency-maintenance/sBn1CPZViSkA45dTkq8Aem"
+      "url": "https://www.craigslist.org/view/d/san-francisco-section-accepted/7XeyZf6kAED2QhzBrHwzAi"
     },
     {
       "id": "cl-https://www.craigslist.org/view/d/san-francisco-elevators-vertical-blinds/jb4KgHkDzZ4DtJr3nSaYWr",
@@ -509,26 +377,15 @@
       "url": "https://www.craigslist.org/view/d/san-francisco-only-1795-for-newly/tiN1WLEbrpgoSPmLyB6sBn"
     },
     {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-bd-1795-new-plank-floor/nmbN3dRD34Tbp7SVgGxSnj",
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-section-accepted/7XeyZf6kAED2QhzBrHwzAi",
       "source": "Craigslist",
       "type": "standard rental",
-      "title": "1 BD $1,795-New Plank Floor in Great Location!",
+      "title": "Section 8 Accepted!",
       "price": "$2,100",
       "sqft": "n/a",
       "neighborhood": "nob hill",
       "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-bd-1795-new-plank-floor/nmbN3dRD34Tbp7SVgGxSnj"
-    },
-    {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-24-emergency-maintenance/sBn1CPZViSkA45dTkq8Aem",
-      "source": "Craigslist",
-      "type": "standard rental",
-      "title": "24/7 Emergency Maintenance, Carpet, Vertical Blinds, Parking - Street",
-      "price": "$2,100",
-      "sqft": "n/a",
-      "neighborhood": "nob hill",
-      "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-24-emergency-maintenance/sBn1CPZViSkA45dTkq8Aem"
+      "url": "https://www.craigslist.org/view/d/san-francisco-section-accepted/7XeyZf6kAED2QhzBrHwzAi"
     },
     {
       "id": "cl-https://www.craigslist.org/view/d/san-francisco-elevators-vertical-blinds/jb4KgHkDzZ4DtJr3nSaYWr",
@@ -584,28 +441,6 @@
       "neighborhood": "nob hill",
       "posted": "n/a",
       "url": "https://www.craigslist.org/view/d/san-francisco-only-1795-for-newly/tiN1WLEbrpgoSPmLyB6sBn"
-    },
-    {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-bd-1795-new-plank-floor/nmbN3dRD34Tbp7SVgGxSnj",
-      "source": "Craigslist",
-      "type": "standard rental",
-      "title": "1 BD $1,795-New Plank Floor in Great Location!",
-      "price": "$2,100",
-      "sqft": "n/a",
-      "neighborhood": "nob hill",
-      "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-bd-1795-new-plank-floor/nmbN3dRD34Tbp7SVgGxSnj"
-    },
-    {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-24-emergency-maintenance/sBn1CPZViSkA45dTkq8Aem",
-      "source": "Craigslist",
-      "type": "standard rental",
-      "title": "24/7 Emergency Maintenance, Carpet, Vertical Blinds, Parking - Street",
-      "price": "$2,100",
-      "sqft": "n/a",
-      "neighborhood": "nob hill",
-      "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-24-emergency-maintenance/sBn1CPZViSkA45dTkq8Aem"
     },
     {
       "id": "cl-https://www.craigslist.org/view/d/san-francisco-noe-valley-2bd-1br-sublet/vRLHcG7uf1TvEmijrakmqU",
@@ -1761,61 +1596,6 @@
       "neighborhood": "lower nob hill",
       "posted": "n/a",
       "url": "https://www.craigslist.org/view/d/san-francisco-lower-nob-hill-bedroom/rd7bMd34KWojkdLEFhG9HX"
-    },
-    {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-top-floor-updated-1br-1ba/dD7FdET2dpwPng34RL6kTQ",
-      "source": "Craigslist",
-      "type": "standard rental",
-      "title": "Top Floor Updated 1BR/1BA Laundry In Unit Pets OK",
-      "price": "$4,540",
-      "sqft": "n/a",
-      "neighborhood": "nob hill",
-      "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-top-floor-updated-1br-1ba/dD7FdET2dpwPng34RL6kTQ"
-    },
-    {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-top-floor-updated-1br-1ba/dD7FdET2dpwPng34RL6kTQ",
-      "source": "Craigslist",
-      "type": "standard rental",
-      "title": "Top Floor Updated 1BR/1BA Laundry In Unit Pets OK",
-      "price": "$4,540",
-      "sqft": "n/a",
-      "neighborhood": "nob hill",
-      "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-top-floor-updated-1br-1ba/dD7FdET2dpwPng34RL6kTQ"
-    },
-    {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-top-floor-updated-1br-1ba/dD7FdET2dpwPng34RL6kTQ",
-      "source": "Craigslist",
-      "type": "standard rental",
-      "title": "Top Floor Updated 1BR/1BA Laundry In Unit Pets OK",
-      "price": "$4,540",
-      "sqft": "n/a",
-      "neighborhood": "nob hill",
-      "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-top-floor-updated-1br-1ba/dD7FdET2dpwPng34RL6kTQ"
-    },
-    {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-top-floor-updated-1br-1ba/dD7FdET2dpwPng34RL6kTQ",
-      "source": "Craigslist",
-      "type": "standard rental",
-      "title": "Top Floor Updated 1BR/1BA Laundry In Unit Pets OK",
-      "price": "$4,540",
-      "sqft": "n/a",
-      "neighborhood": "nob hill",
-      "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-top-floor-updated-1br-1ba/dD7FdET2dpwPng34RL6kTQ"
-    },
-    {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-top-floor-updated-1br-1ba/dD7FdET2dpwPng34RL6kTQ",
-      "source": "Craigslist",
-      "type": "standard rental",
-      "title": "Top Floor Updated 1BR/1BA Laundry In Unit Pets OK",
-      "price": "$4,540",
-      "sqft": "n/a",
-      "neighborhood": "nob hill",
-      "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-top-floor-updated-1br-1ba/dD7FdET2dpwPng34RL6kTQ"
     },
     {
       "id": "cl-https://www.craigslist.org/view/d/san-francisco-coming-soon-walk-to-fidi/qz6Evnm8eJP8MAoTDJ5zJB",
