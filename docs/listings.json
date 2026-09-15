@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-15 01:17 UTC",
-  "count": 165,
+  "last_updated": "2026-09-15 18:02 UTC",
+  "count": 170,
   "listings": [
     {
       "id": "cl-https://www.craigslist.org/view/d/san-francisco-fully-furnished-room-to/fJATV5DCWmZbiC9ft12VJe",
@@ -498,61 +498,6 @@
       "url": "https://www.craigslist.org/view/d/san-francisco-noe-valley-2bd-1br-sublet/vRLHcG7uf1TvEmijrakmqU"
     },
     {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-coming-soon-walk-to-fidi/uZ3nu5pqtxp9JJjbsNtHyZ",
-      "source": "Craigslist",
-      "type": "standard rental",
-      "title": "COMING SOON ~ WALK TO FIDI FROM LOWER NOB HILL 1BD 1BA",
-      "price": "$2,895",
-      "sqft": "n/a",
-      "neighborhood": "Lower Nob Hill / 825 Post",
-      "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-coming-soon-walk-to-fidi/uZ3nu5pqtxp9JJjbsNtHyZ"
-    },
-    {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-coming-soon-walk-to-fidi/uZ3nu5pqtxp9JJjbsNtHyZ",
-      "source": "Craigslist",
-      "type": "standard rental",
-      "title": "COMING SOON ~ WALK TO FIDI FROM LOWER NOB HILL 1BD 1BA",
-      "price": "$2,895",
-      "sqft": "n/a",
-      "neighborhood": "Lower Nob Hill / 825 Post",
-      "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-coming-soon-walk-to-fidi/uZ3nu5pqtxp9JJjbsNtHyZ"
-    },
-    {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-coming-soon-walk-to-fidi/uZ3nu5pqtxp9JJjbsNtHyZ",
-      "source": "Craigslist",
-      "type": "standard rental",
-      "title": "COMING SOON ~ WALK TO FIDI FROM LOWER NOB HILL 1BD 1BA",
-      "price": "$2,895",
-      "sqft": "n/a",
-      "neighborhood": "Lower Nob Hill / 825 Post",
-      "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-coming-soon-walk-to-fidi/uZ3nu5pqtxp9JJjbsNtHyZ"
-    },
-    {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-coming-soon-walk-to-fidi/uZ3nu5pqtxp9JJjbsNtHyZ",
-      "source": "Craigslist",
-      "type": "standard rental",
-      "title": "COMING SOON ~ WALK TO FIDI FROM LOWER NOB HILL 1BD 1BA",
-      "price": "$2,895",
-      "sqft": "n/a",
-      "neighborhood": "Lower Nob Hill / 825 Post",
-      "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-coming-soon-walk-to-fidi/uZ3nu5pqtxp9JJjbsNtHyZ"
-    },
-    {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-coming-soon-walk-to-fidi/uZ3nu5pqtxp9JJjbsNtHyZ",
-      "source": "Craigslist",
-      "type": "standard rental",
-      "title": "COMING SOON ~ WALK TO FIDI FROM LOWER NOB HILL 1BD 1BA",
-      "price": "$2,895",
-      "sqft": "n/a",
-      "neighborhood": "Lower Nob Hill / 825 Post",
-      "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-coming-soon-walk-to-fidi/uZ3nu5pqtxp9JJjbsNtHyZ"
-    },
-    {
       "id": "cl-https://www.craigslist.org/view/d/san-francisco-sunny-flat-in-the-heart/874xCs7u7vFEfv4R5JrPeL",
       "source": "Craigslist",
       "type": "standard rental",
@@ -716,6 +661,61 @@
       "neighborhood": "nob hill",
       "posted": "n/a",
       "url": "https://www.craigslist.org/view/d/san-francisco-big-remodeled-one-bedroom/m9nfYZYrYikxZ6EPi21jcV"
+    },
+    {
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-coming-soon-walk-to-fidi/1N59xBDAS5CfFKg9eERDTn",
+      "source": "Craigslist",
+      "type": "standard rental",
+      "title": "COMING SOON ~ WALK TO FIDI FROM COZY 1BD 1BA IN WALKABLE LOWER NOB",
+      "price": "$3,095",
+      "sqft": "n/a",
+      "neighborhood": "Lower Nob Hill",
+      "posted": "n/a",
+      "url": "https://www.craigslist.org/view/d/san-francisco-coming-soon-walk-to-fidi/1N59xBDAS5CfFKg9eERDTn"
+    },
+    {
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-coming-soon-walk-to-fidi/1N59xBDAS5CfFKg9eERDTn",
+      "source": "Craigslist",
+      "type": "standard rental",
+      "title": "COMING SOON ~ WALK TO FIDI FROM COZY 1BD 1BA IN WALKABLE LOWER NOB",
+      "price": "$3,095",
+      "sqft": "n/a",
+      "neighborhood": "Lower Nob Hill",
+      "posted": "n/a",
+      "url": "https://www.craigslist.org/view/d/san-francisco-coming-soon-walk-to-fidi/1N59xBDAS5CfFKg9eERDTn"
+    },
+    {
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-coming-soon-walk-to-fidi/1N59xBDAS5CfFKg9eERDTn",
+      "source": "Craigslist",
+      "type": "standard rental",
+      "title": "COMING SOON ~ WALK TO FIDI FROM COZY 1BD 1BA IN WALKABLE LOWER NOB",
+      "price": "$3,095",
+      "sqft": "n/a",
+      "neighborhood": "Lower Nob Hill",
+      "posted": "n/a",
+      "url": "https://www.craigslist.org/view/d/san-francisco-coming-soon-walk-to-fidi/1N59xBDAS5CfFKg9eERDTn"
+    },
+    {
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-coming-soon-walk-to-fidi/1N59xBDAS5CfFKg9eERDTn",
+      "source": "Craigslist",
+      "type": "standard rental",
+      "title": "COMING SOON ~ WALK TO FIDI FROM COZY 1BD 1BA IN WALKABLE LOWER NOB",
+      "price": "$3,095",
+      "sqft": "n/a",
+      "neighborhood": "Lower Nob Hill",
+      "posted": "n/a",
+      "url": "https://www.craigslist.org/view/d/san-francisco-coming-soon-walk-to-fidi/1N59xBDAS5CfFKg9eERDTn"
+    },
+    {
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-coming-soon-walk-to-fidi/1N59xBDAS5CfFKg9eERDTn",
+      "source": "Craigslist",
+      "type": "standard rental",
+      "title": "COMING SOON ~ WALK TO FIDI FROM COZY 1BD 1BA IN WALKABLE LOWER NOB",
+      "price": "$3,095",
+      "sqft": "n/a",
+      "neighborhood": "Lower Nob Hill",
+      "posted": "n/a",
+      "url": "https://www.craigslist.org/view/d/san-francisco-coming-soon-walk-to-fidi/1N59xBDAS5CfFKg9eERDTn"
     },
     {
       "id": "cl-https://www.craigslist.org/view/d/san-francisco-large-bright-furnished/cptymGUsVbg2Vi77eSdVQz",
@@ -991,6 +991,61 @@
       "neighborhood": "nob hill",
       "posted": "n/a",
       "url": "https://www.craigslist.org/view/d/san-francisco-1br-in-unit-washer-dryer/2re9jzdYEVtA1T51BLyyVg"
+    },
+    {
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-welcome-home-to-nob-hill/dP1oU66rigAXG2XUDnMZRE",
+      "source": "Craigslist",
+      "type": "standard rental",
+      "title": "Welcome Home to Nob Hill, 2 Bedroom Apartments Now Leasing!",
+      "price": "$3,730",
+      "sqft": "n/a",
+      "neighborhood": "nob hill",
+      "posted": "n/a",
+      "url": "https://www.craigslist.org/view/d/san-francisco-welcome-home-to-nob-hill/dP1oU66rigAXG2XUDnMZRE"
+    },
+    {
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-welcome-home-to-nob-hill/dP1oU66rigAXG2XUDnMZRE",
+      "source": "Craigslist",
+      "type": "standard rental",
+      "title": "Welcome Home to Nob Hill, 2 Bedroom Apartments Now Leasing!",
+      "price": "$3,730",
+      "sqft": "n/a",
+      "neighborhood": "nob hill",
+      "posted": "n/a",
+      "url": "https://www.craigslist.org/view/d/san-francisco-welcome-home-to-nob-hill/dP1oU66rigAXG2XUDnMZRE"
+    },
+    {
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-welcome-home-to-nob-hill/dP1oU66rigAXG2XUDnMZRE",
+      "source": "Craigslist",
+      "type": "standard rental",
+      "title": "Welcome Home to Nob Hill, 2 Bedroom Apartments Now Leasing!",
+      "price": "$3,730",
+      "sqft": "n/a",
+      "neighborhood": "nob hill",
+      "posted": "n/a",
+      "url": "https://www.craigslist.org/view/d/san-francisco-welcome-home-to-nob-hill/dP1oU66rigAXG2XUDnMZRE"
+    },
+    {
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-welcome-home-to-nob-hill/dP1oU66rigAXG2XUDnMZRE",
+      "source": "Craigslist",
+      "type": "standard rental",
+      "title": "Welcome Home to Nob Hill, 2 Bedroom Apartments Now Leasing!",
+      "price": "$3,730",
+      "sqft": "n/a",
+      "neighborhood": "nob hill",
+      "posted": "n/a",
+      "url": "https://www.craigslist.org/view/d/san-francisco-welcome-home-to-nob-hill/dP1oU66rigAXG2XUDnMZRE"
+    },
+    {
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-welcome-home-to-nob-hill/dP1oU66rigAXG2XUDnMZRE",
+      "source": "Craigslist",
+      "type": "standard rental",
+      "title": "Welcome Home to Nob Hill, 2 Bedroom Apartments Now Leasing!",
+      "price": "$3,730",
+      "sqft": "n/a",
+      "neighborhood": "nob hill",
+      "posted": "n/a",
+      "url": "https://www.craigslist.org/view/d/san-francisco-welcome-home-to-nob-hill/dP1oU66rigAXG2XUDnMZRE"
     },
     {
       "id": "cl-https://www.craigslist.org/view/d/san-francisco-nob-hill-655powellpine-d/bnhQbpPyGNHJ2tnnJikj32",
@@ -1378,7 +1433,7 @@
       "url": "https://www.craigslist.org/view/d/san-francisco-ready-now-2br-hardwood/6jPz1BL8abyLyEwHy92e6A"
     },
     {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-walk-to-fidi-from-updated/9aDV2e8aXEobH13r56krZR",
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-walk-to-fidi-from-updated/5HCn54bDqCQSw42vCEiSrA",
       "source": "Craigslist",
       "type": "standard rental",
       "title": "WALK TO FIDI FROM UPDATED LOWER NOB HILL 2BD 1BA ~ W/D IN UNIT",
@@ -1386,7 +1441,7 @@
       "sqft": "n/a",
       "neighborhood": "Lower Nob Hill / 1025 Sutter",
       "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-walk-to-fidi-from-updated/9aDV2e8aXEobH13r56krZR"
+      "url": "https://www.craigslist.org/view/d/san-francisco-walk-to-fidi-from-updated/5HCn54bDqCQSw42vCEiSrA"
     },
     {
       "id": "cl-https://www.craigslist.org/view/d/san-francisco-1br-in-lower-nob-hill-in/7rcKyH8u8yJ1rWadHZ8Nz3",
@@ -1400,7 +1455,7 @@
       "url": "https://www.craigslist.org/view/d/san-francisco-1br-in-lower-nob-hill-in/7rcKyH8u8yJ1rWadHZ8Nz3"
     },
     {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-walk-to-fidi-from-updated/9aDV2e8aXEobH13r56krZR",
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-walk-to-fidi-from-updated/5HCn54bDqCQSw42vCEiSrA",
       "source": "Craigslist",
       "type": "standard rental",
       "title": "WALK TO FIDI FROM UPDATED LOWER NOB HILL 2BD 1BA ~ W/D IN UNIT",
@@ -1408,7 +1463,7 @@
       "sqft": "n/a",
       "neighborhood": "Lower Nob Hill / 1025 Sutter",
       "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-walk-to-fidi-from-updated/9aDV2e8aXEobH13r56krZR"
+      "url": "https://www.craigslist.org/view/d/san-francisco-walk-to-fidi-from-updated/5HCn54bDqCQSw42vCEiSrA"
     },
     {
       "id": "cl-https://www.craigslist.org/view/d/san-francisco-1br-in-lower-nob-hill-in/7rcKyH8u8yJ1rWadHZ8Nz3",
@@ -1422,7 +1477,7 @@
       "url": "https://www.craigslist.org/view/d/san-francisco-1br-in-lower-nob-hill-in/7rcKyH8u8yJ1rWadHZ8Nz3"
     },
     {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-walk-to-fidi-from-updated/9aDV2e8aXEobH13r56krZR",
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-walk-to-fidi-from-updated/5HCn54bDqCQSw42vCEiSrA",
       "source": "Craigslist",
       "type": "standard rental",
       "title": "WALK TO FIDI FROM UPDATED LOWER NOB HILL 2BD 1BA ~ W/D IN UNIT",
@@ -1430,7 +1485,7 @@
       "sqft": "n/a",
       "neighborhood": "Lower Nob Hill / 1025 Sutter",
       "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-walk-to-fidi-from-updated/9aDV2e8aXEobH13r56krZR"
+      "url": "https://www.craigslist.org/view/d/san-francisco-walk-to-fidi-from-updated/5HCn54bDqCQSw42vCEiSrA"
     },
     {
       "id": "cl-https://www.craigslist.org/view/d/san-francisco-1br-in-lower-nob-hill-in/7rcKyH8u8yJ1rWadHZ8Nz3",
@@ -1444,7 +1499,7 @@
       "url": "https://www.craigslist.org/view/d/san-francisco-1br-in-lower-nob-hill-in/7rcKyH8u8yJ1rWadHZ8Nz3"
     },
     {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-walk-to-fidi-from-updated/9aDV2e8aXEobH13r56krZR",
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-walk-to-fidi-from-updated/5HCn54bDqCQSw42vCEiSrA",
       "source": "Craigslist",
       "type": "standard rental",
       "title": "WALK TO FIDI FROM UPDATED LOWER NOB HILL 2BD 1BA ~ W/D IN UNIT",
@@ -1452,7 +1507,7 @@
       "sqft": "n/a",
       "neighborhood": "Lower Nob Hill / 1025 Sutter",
       "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-walk-to-fidi-from-updated/9aDV2e8aXEobH13r56krZR"
+      "url": "https://www.craigslist.org/view/d/san-francisco-walk-to-fidi-from-updated/5HCn54bDqCQSw42vCEiSrA"
     },
     {
       "id": "cl-https://www.craigslist.org/view/d/san-francisco-1br-in-lower-nob-hill-in/7rcKyH8u8yJ1rWadHZ8Nz3",
@@ -1466,7 +1521,7 @@
       "url": "https://www.craigslist.org/view/d/san-francisco-1br-in-lower-nob-hill-in/7rcKyH8u8yJ1rWadHZ8Nz3"
     },
     {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-walk-to-fidi-from-updated/9aDV2e8aXEobH13r56krZR",
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-walk-to-fidi-from-updated/5HCn54bDqCQSw42vCEiSrA",
       "source": "Craigslist",
       "type": "standard rental",
       "title": "WALK TO FIDI FROM UPDATED LOWER NOB HILL 2BD 1BA ~ W/D IN UNIT",
@@ -1474,7 +1529,7 @@
       "sqft": "n/a",
       "neighborhood": "Lower Nob Hill / 1025 Sutter",
       "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-walk-to-fidi-from-updated/9aDV2e8aXEobH13r56krZR"
+      "url": "https://www.craigslist.org/view/d/san-francisco-walk-to-fidi-from-updated/5HCn54bDqCQSw42vCEiSrA"
     },
     {
       "id": "cl-https://www.craigslist.org/view/d/san-francisco-1br-in-lower-nob-hill-in/7rcKyH8u8yJ1rWadHZ8Nz3",
@@ -1598,7 +1653,7 @@
       "url": "https://www.craigslist.org/view/d/san-francisco-coming-soon-walk-to-fidi/qz6Evnm8eJP8MAoTDJ5zJB"
     },
     {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-50-joicecalifornia-nice/hCshjpaNSPtiqDrBWjQsxn",
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-50-joicecalifornia-nice/k46G7Usm2k6Dpe8Gsm25wn",
       "source": "Craigslist",
       "type": "standard rental",
       "title": "50 Joice@California/Nice Layout/W+D In Unit/Garden View/Nr. MUNI+BART",
@@ -1606,10 +1661,10 @@
       "sqft": "n/a",
       "neighborhood": "nob hill",
       "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-50-joicecalifornia-nice/hCshjpaNSPtiqDrBWjQsxn"
+      "url": "https://www.craigslist.org/view/d/san-francisco-50-joicecalifornia-nice/k46G7Usm2k6Dpe8Gsm25wn"
     },
     {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-50-joicecalifornia-nice/hCshjpaNSPtiqDrBWjQsxn",
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-50-joicecalifornia-nice/k46G7Usm2k6Dpe8Gsm25wn",
       "source": "Craigslist",
       "type": "standard rental",
       "title": "50 Joice@California/Nice Layout/W+D In Unit/Garden View/Nr. MUNI+BART",
@@ -1617,10 +1672,10 @@
       "sqft": "n/a",
       "neighborhood": "nob hill",
       "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-50-joicecalifornia-nice/hCshjpaNSPtiqDrBWjQsxn"
+      "url": "https://www.craigslist.org/view/d/san-francisco-50-joicecalifornia-nice/k46G7Usm2k6Dpe8Gsm25wn"
     },
     {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-50-joicecalifornia-nice/hCshjpaNSPtiqDrBWjQsxn",
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-50-joicecalifornia-nice/k46G7Usm2k6Dpe8Gsm25wn",
       "source": "Craigslist",
       "type": "standard rental",
       "title": "50 Joice@California/Nice Layout/W+D In Unit/Garden View/Nr. MUNI+BART",
@@ -1628,10 +1683,10 @@
       "sqft": "n/a",
       "neighborhood": "nob hill",
       "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-50-joicecalifornia-nice/hCshjpaNSPtiqDrBWjQsxn"
+      "url": "https://www.craigslist.org/view/d/san-francisco-50-joicecalifornia-nice/k46G7Usm2k6Dpe8Gsm25wn"
     },
     {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-50-joicecalifornia-nice/hCshjpaNSPtiqDrBWjQsxn",
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-50-joicecalifornia-nice/k46G7Usm2k6Dpe8Gsm25wn",
       "source": "Craigslist",
       "type": "standard rental",
       "title": "50 Joice@California/Nice Layout/W+D In Unit/Garden View/Nr. MUNI+BART",
@@ -1639,10 +1694,10 @@
       "sqft": "n/a",
       "neighborhood": "nob hill",
       "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-50-joicecalifornia-nice/hCshjpaNSPtiqDrBWjQsxn"
+      "url": "https://www.craigslist.org/view/d/san-francisco-50-joicecalifornia-nice/k46G7Usm2k6Dpe8Gsm25wn"
     },
     {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-50-joicecalifornia-nice/hCshjpaNSPtiqDrBWjQsxn",
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-50-joicecalifornia-nice/k46G7Usm2k6Dpe8Gsm25wn",
       "source": "Craigslist",
       "type": "standard rental",
       "title": "50 Joice@California/Nice Layout/W+D In Unit/Garden View/Nr. MUNI+BART",
@@ -1650,7 +1705,7 @@
       "sqft": "n/a",
       "neighborhood": "nob hill",
       "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-50-joicecalifornia-nice/hCshjpaNSPtiqDrBWjQsxn"
+      "url": "https://www.craigslist.org/view/d/san-francisco-50-joicecalifornia-nice/k46G7Usm2k6Dpe8Gsm25wn"
     },
     {
       "id": "cl-https://www.craigslist.org/view/d/san-francisco-4th-floor-jr1x1-full/v7ed9JqakJhyn1UwzyhLca",
