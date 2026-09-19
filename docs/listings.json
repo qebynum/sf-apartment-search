@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-18 17:35 UTC",
-  "count": 135,
+  "last_updated": "2026-09-19 01:02 UTC",
+  "count": 145,
   "listings": [
     {
       "id": "cl-https://www.craigslist.org/view/d/san-francisco-fully-furnished-room-to/fJATV5DCWmZbiC9ft12VJe",
@@ -113,48 +113,26 @@
       "url": "https://www.craigslist.org/view/d/san-francisco-peaceful-room-in/fdKofcgkSpByRtYLgcDCTi"
     },
     {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-bd-only-1795-in-prime/2uyQAJoGNwkd7MNRkyP7YJ",
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-carpet-24-emergency/dqLPF9R9Cooay8jvbecpzq",
       "source": "Craigslist",
       "type": "standard rental",
-      "title": "1 BD Only $1,795 in Prime Location",
+      "title": "Carpet, 24/7 Emergency Maintenance, Garbage Disposal",
       "price": "$2,100",
       "sqft": "n/a",
       "neighborhood": "nob hill",
       "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-bd-only-1795-in-prime/2uyQAJoGNwkd7MNRkyP7YJ"
+      "url": "https://www.craigslist.org/view/d/san-francisco-carpet-24-emergency/dqLPF9R9Cooay8jvbecpzq"
     },
     {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-bd-1795-new-plank-floor/1PcQa1uEvKJnLqvmqPbprE",
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-only-1795-for-newly/9w6vCPJPfUrDKpqn2Fq5Zv",
       "source": "Craigslist",
       "type": "standard rental",
-      "title": "1 BD $1,795-New Plank Floor in Great Location!",
+      "title": "Only $1,795 for a Newly Renovated 1 BD!",
       "price": "$2,100",
       "sqft": "n/a",
       "neighborhood": "nob hill",
       "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-bd-1795-new-plank-floor/1PcQa1uEvKJnLqvmqPbprE"
-    },
-    {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-bd-only-1795-in-prime/2uyQAJoGNwkd7MNRkyP7YJ",
-      "source": "Craigslist",
-      "type": "standard rental",
-      "title": "1 BD Only $1,795 in Prime Location",
-      "price": "$2,100",
-      "sqft": "n/a",
-      "neighborhood": "nob hill",
-      "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-bd-only-1795-in-prime/2uyQAJoGNwkd7MNRkyP7YJ"
-    },
-    {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-bd-1795-new-plank-floor/1PcQa1uEvKJnLqvmqPbprE",
-      "source": "Craigslist",
-      "type": "standard rental",
-      "title": "1 BD $1,795-New Plank Floor in Great Location!",
-      "price": "$2,100",
-      "sqft": "n/a",
-      "neighborhood": "nob hill",
-      "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-bd-1795-new-plank-floor/1PcQa1uEvKJnLqvmqPbprE"
+      "url": "https://www.craigslist.org/view/d/san-francisco-only-1795-for-newly/9w6vCPJPfUrDKpqn2Fq5Zv"
     },
     {
       "id": "cl-https://www.craigslist.org/view/d/san-francisco-bd-only-1795-in-prime/2uyQAJoGNwkd7MNRkyP7YJ",
@@ -179,6 +157,28 @@
       "url": "https://www.craigslist.org/view/d/san-francisco-bd-1795-new-plank-floor/1PcQa1uEvKJnLqvmqPbprE"
     },
     {
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-carpet-24-emergency/dqLPF9R9Cooay8jvbecpzq",
+      "source": "Craigslist",
+      "type": "standard rental",
+      "title": "Carpet, 24/7 Emergency Maintenance, Garbage Disposal",
+      "price": "$2,100",
+      "sqft": "n/a",
+      "neighborhood": "nob hill",
+      "posted": "n/a",
+      "url": "https://www.craigslist.org/view/d/san-francisco-carpet-24-emergency/dqLPF9R9Cooay8jvbecpzq"
+    },
+    {
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-only-1795-for-newly/9w6vCPJPfUrDKpqn2Fq5Zv",
+      "source": "Craigslist",
+      "type": "standard rental",
+      "title": "Only $1,795 for a Newly Renovated 1 BD!",
+      "price": "$2,100",
+      "sqft": "n/a",
+      "neighborhood": "nob hill",
+      "posted": "n/a",
+      "url": "https://www.craigslist.org/view/d/san-francisco-only-1795-for-newly/9w6vCPJPfUrDKpqn2Fq5Zv"
+    },
+    {
       "id": "cl-https://www.craigslist.org/view/d/san-francisco-bd-only-1795-in-prime/2uyQAJoGNwkd7MNRkyP7YJ",
       "source": "Craigslist",
       "type": "standard rental",
@@ -199,6 +199,116 @@
       "neighborhood": "nob hill",
       "posted": "n/a",
       "url": "https://www.craigslist.org/view/d/san-francisco-bd-1795-new-plank-floor/1PcQa1uEvKJnLqvmqPbprE"
+    },
+    {
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-carpet-24-emergency/dqLPF9R9Cooay8jvbecpzq",
+      "source": "Craigslist",
+      "type": "standard rental",
+      "title": "Carpet, 24/7 Emergency Maintenance, Garbage Disposal",
+      "price": "$2,100",
+      "sqft": "n/a",
+      "neighborhood": "nob hill",
+      "posted": "n/a",
+      "url": "https://www.craigslist.org/view/d/san-francisco-carpet-24-emergency/dqLPF9R9Cooay8jvbecpzq"
+    },
+    {
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-only-1795-for-newly/9w6vCPJPfUrDKpqn2Fq5Zv",
+      "source": "Craigslist",
+      "type": "standard rental",
+      "title": "Only $1,795 for a Newly Renovated 1 BD!",
+      "price": "$2,100",
+      "sqft": "n/a",
+      "neighborhood": "nob hill",
+      "posted": "n/a",
+      "url": "https://www.craigslist.org/view/d/san-francisco-only-1795-for-newly/9w6vCPJPfUrDKpqn2Fq5Zv"
+    },
+    {
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-bd-only-1795-in-prime/2uyQAJoGNwkd7MNRkyP7YJ",
+      "source": "Craigslist",
+      "type": "standard rental",
+      "title": "1 BD Only $1,795 in Prime Location",
+      "price": "$2,100",
+      "sqft": "n/a",
+      "neighborhood": "nob hill",
+      "posted": "n/a",
+      "url": "https://www.craigslist.org/view/d/san-francisco-bd-only-1795-in-prime/2uyQAJoGNwkd7MNRkyP7YJ"
+    },
+    {
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-bd-1795-new-plank-floor/1PcQa1uEvKJnLqvmqPbprE",
+      "source": "Craigslist",
+      "type": "standard rental",
+      "title": "1 BD $1,795-New Plank Floor in Great Location!",
+      "price": "$2,100",
+      "sqft": "n/a",
+      "neighborhood": "nob hill",
+      "posted": "n/a",
+      "url": "https://www.craigslist.org/view/d/san-francisco-bd-1795-new-plank-floor/1PcQa1uEvKJnLqvmqPbprE"
+    },
+    {
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-carpet-24-emergency/dqLPF9R9Cooay8jvbecpzq",
+      "source": "Craigslist",
+      "type": "standard rental",
+      "title": "Carpet, 24/7 Emergency Maintenance, Garbage Disposal",
+      "price": "$2,100",
+      "sqft": "n/a",
+      "neighborhood": "nob hill",
+      "posted": "n/a",
+      "url": "https://www.craigslist.org/view/d/san-francisco-carpet-24-emergency/dqLPF9R9Cooay8jvbecpzq"
+    },
+    {
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-only-1795-for-newly/9w6vCPJPfUrDKpqn2Fq5Zv",
+      "source": "Craigslist",
+      "type": "standard rental",
+      "title": "Only $1,795 for a Newly Renovated 1 BD!",
+      "price": "$2,100",
+      "sqft": "n/a",
+      "neighborhood": "nob hill",
+      "posted": "n/a",
+      "url": "https://www.craigslist.org/view/d/san-francisco-only-1795-for-newly/9w6vCPJPfUrDKpqn2Fq5Zv"
+    },
+    {
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-bd-only-1795-in-prime/2uyQAJoGNwkd7MNRkyP7YJ",
+      "source": "Craigslist",
+      "type": "standard rental",
+      "title": "1 BD Only $1,795 in Prime Location",
+      "price": "$2,100",
+      "sqft": "n/a",
+      "neighborhood": "nob hill",
+      "posted": "n/a",
+      "url": "https://www.craigslist.org/view/d/san-francisco-bd-only-1795-in-prime/2uyQAJoGNwkd7MNRkyP7YJ"
+    },
+    {
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-bd-1795-new-plank-floor/1PcQa1uEvKJnLqvmqPbprE",
+      "source": "Craigslist",
+      "type": "standard rental",
+      "title": "1 BD $1,795-New Plank Floor in Great Location!",
+      "price": "$2,100",
+      "sqft": "n/a",
+      "neighborhood": "nob hill",
+      "posted": "n/a",
+      "url": "https://www.craigslist.org/view/d/san-francisco-bd-1795-new-plank-floor/1PcQa1uEvKJnLqvmqPbprE"
+    },
+    {
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-carpet-24-emergency/dqLPF9R9Cooay8jvbecpzq",
+      "source": "Craigslist",
+      "type": "standard rental",
+      "title": "Carpet, 24/7 Emergency Maintenance, Garbage Disposal",
+      "price": "$2,100",
+      "sqft": "n/a",
+      "neighborhood": "nob hill",
+      "posted": "n/a",
+      "url": "https://www.craigslist.org/view/d/san-francisco-carpet-24-emergency/dqLPF9R9Cooay8jvbecpzq"
+    },
+    {
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-only-1795-for-newly/9w6vCPJPfUrDKpqn2Fq5Zv",
+      "source": "Craigslist",
+      "type": "standard rental",
+      "title": "Only $1,795 for a Newly Renovated 1 BD!",
+      "price": "$2,100",
+      "sqft": "n/a",
+      "neighborhood": "nob hill",
+      "posted": "n/a",
+      "url": "https://www.craigslist.org/view/d/san-francisco-only-1795-for-newly/9w6vCPJPfUrDKpqn2Fq5Zv"
     },
     {
       "id": "cl-https://www.craigslist.org/view/d/san-francisco-bd-only-1795-in-prime/2uyQAJoGNwkd7MNRkyP7YJ",
