@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-20 00:51 UTC",
+  "last_updated": "2026-09-20 17:21 UTC",
   "count": 140,
   "listings": [
     {
@@ -1213,6 +1213,17 @@
       "url": "https://www.craigslist.org/view/d/san-francisco-coming-soon-walk-to-fidi/hTN4XpbFyZJ8XAbucMCt4C"
     },
     {
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-50-joice-14-charmin-1x1/fSTmHqBp8dtkyFTUwqinot",
+      "source": "Craigslist",
+      "type": "standard rental",
+      "title": "50 Joice #14 - Charmin 1x1 - Updated Appliances - WD in Unit - Private",
+      "price": "$4,640",
+      "sqft": "n/a",
+      "neighborhood": "nob hill",
+      "posted": "n/a",
+      "url": "https://www.craigslist.org/view/d/san-francisco-50-joice-14-charmin-1x1/fSTmHqBp8dtkyFTUwqinot"
+    },
+    {
       "id": "cl-https://www.craigslist.org/view/d/san-francisco-50-joicecalifornia-nice/wQQpEXfy3xnbfaj8PRB7yN",
       "source": "Craigslist",
       "type": "standard rental",
@@ -1222,17 +1233,6 @@
       "neighborhood": "nob hill",
       "posted": "n/a",
       "url": "https://www.craigslist.org/view/d/san-francisco-50-joicecalifornia-nice/wQQpEXfy3xnbfaj8PRB7yN"
-    },
-    {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-50-joice-14-charmin-1x1/aoiUxN8jQPJ5rCqha4bdPA",
-      "source": "Craigslist",
-      "type": "standard rental",
-      "title": "50 Joice #14 - Charmin 1x1 - Updated Appliances - WD in Unit - Private",
-      "price": "$4,640",
-      "sqft": "n/a",
-      "neighborhood": "nob hill",
-      "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-50-joice-14-charmin-1x1/aoiUxN8jQPJ5rCqha4bdPA"
     },
     {
       "id": "cl-https://www.craigslist.org/view/d/san-francisco-gorgeous-1x1-in-nob-hill/5273vVTFke4GkikoRwVwHQ",
@@ -1246,6 +1246,17 @@
       "url": "https://www.craigslist.org/view/d/san-francisco-gorgeous-1x1-in-nob-hill/5273vVTFke4GkikoRwVwHQ"
     },
     {
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-50-joice-14-charmin-1x1/fSTmHqBp8dtkyFTUwqinot",
+      "source": "Craigslist",
+      "type": "standard rental",
+      "title": "50 Joice #14 - Charmin 1x1 - Updated Appliances - WD in Unit - Private",
+      "price": "$4,640",
+      "sqft": "n/a",
+      "neighborhood": "nob hill",
+      "posted": "n/a",
+      "url": "https://www.craigslist.org/view/d/san-francisco-50-joice-14-charmin-1x1/fSTmHqBp8dtkyFTUwqinot"
+    },
+    {
       "id": "cl-https://www.craigslist.org/view/d/san-francisco-50-joicecalifornia-nice/wQQpEXfy3xnbfaj8PRB7yN",
       "source": "Craigslist",
       "type": "standard rental",
@@ -1255,17 +1266,6 @@
       "neighborhood": "nob hill",
       "posted": "n/a",
       "url": "https://www.craigslist.org/view/d/san-francisco-50-joicecalifornia-nice/wQQpEXfy3xnbfaj8PRB7yN"
-    },
-    {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-50-joice-14-charmin-1x1/aoiUxN8jQPJ5rCqha4bdPA",
-      "source": "Craigslist",
-      "type": "standard rental",
-      "title": "50 Joice #14 - Charmin 1x1 - Updated Appliances - WD in Unit - Private",
-      "price": "$4,640",
-      "sqft": "n/a",
-      "neighborhood": "nob hill",
-      "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-50-joice-14-charmin-1x1/aoiUxN8jQPJ5rCqha4bdPA"
     },
     {
       "id": "cl-https://www.craigslist.org/view/d/san-francisco-gorgeous-1x1-in-nob-hill/5273vVTFke4GkikoRwVwHQ",
@@ -1279,6 +1279,17 @@
       "url": "https://www.craigslist.org/view/d/san-francisco-gorgeous-1x1-in-nob-hill/5273vVTFke4GkikoRwVwHQ"
     },
     {
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-50-joice-14-charmin-1x1/fSTmHqBp8dtkyFTUwqinot",
+      "source": "Craigslist",
+      "type": "standard rental",
+      "title": "50 Joice #14 - Charmin 1x1 - Updated Appliances - WD in Unit - Private",
+      "price": "$4,640",
+      "sqft": "n/a",
+      "neighborhood": "nob hill",
+      "posted": "n/a",
+      "url": "https://www.craigslist.org/view/d/san-francisco-50-joice-14-charmin-1x1/fSTmHqBp8dtkyFTUwqinot"
+    },
+    {
       "id": "cl-https://www.craigslist.org/view/d/san-francisco-50-joicecalifornia-nice/wQQpEXfy3xnbfaj8PRB7yN",
       "source": "Craigslist",
       "type": "standard rental",
@@ -1288,17 +1299,6 @@
       "neighborhood": "nob hill",
       "posted": "n/a",
       "url": "https://www.craigslist.org/view/d/san-francisco-50-joicecalifornia-nice/wQQpEXfy3xnbfaj8PRB7yN"
-    },
-    {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-50-joice-14-charmin-1x1/aoiUxN8jQPJ5rCqha4bdPA",
-      "source": "Craigslist",
-      "type": "standard rental",
-      "title": "50 Joice #14 - Charmin 1x1 - Updated Appliances - WD in Unit - Private",
-      "price": "$4,640",
-      "sqft": "n/a",
-      "neighborhood": "nob hill",
-      "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-50-joice-14-charmin-1x1/aoiUxN8jQPJ5rCqha4bdPA"
     },
     {
       "id": "cl-https://www.craigslist.org/view/d/san-francisco-gorgeous-1x1-in-nob-hill/5273vVTFke4GkikoRwVwHQ",
@@ -1312,6 +1312,17 @@
       "url": "https://www.craigslist.org/view/d/san-francisco-gorgeous-1x1-in-nob-hill/5273vVTFke4GkikoRwVwHQ"
     },
     {
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-50-joice-14-charmin-1x1/fSTmHqBp8dtkyFTUwqinot",
+      "source": "Craigslist",
+      "type": "standard rental",
+      "title": "50 Joice #14 - Charmin 1x1 - Updated Appliances - WD in Unit - Private",
+      "price": "$4,640",
+      "sqft": "n/a",
+      "neighborhood": "nob hill",
+      "posted": "n/a",
+      "url": "https://www.craigslist.org/view/d/san-francisco-50-joice-14-charmin-1x1/fSTmHqBp8dtkyFTUwqinot"
+    },
+    {
       "id": "cl-https://www.craigslist.org/view/d/san-francisco-50-joicecalifornia-nice/wQQpEXfy3xnbfaj8PRB7yN",
       "source": "Craigslist",
       "type": "standard rental",
@@ -1321,17 +1332,6 @@
       "neighborhood": "nob hill",
       "posted": "n/a",
       "url": "https://www.craigslist.org/view/d/san-francisco-50-joicecalifornia-nice/wQQpEXfy3xnbfaj8PRB7yN"
-    },
-    {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-50-joice-14-charmin-1x1/aoiUxN8jQPJ5rCqha4bdPA",
-      "source": "Craigslist",
-      "type": "standard rental",
-      "title": "50 Joice #14 - Charmin 1x1 - Updated Appliances - WD in Unit - Private",
-      "price": "$4,640",
-      "sqft": "n/a",
-      "neighborhood": "nob hill",
-      "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-50-joice-14-charmin-1x1/aoiUxN8jQPJ5rCqha4bdPA"
     },
     {
       "id": "cl-https://www.craigslist.org/view/d/san-francisco-gorgeous-1x1-in-nob-hill/5273vVTFke4GkikoRwVwHQ",
@@ -1345,6 +1345,17 @@
       "url": "https://www.craigslist.org/view/d/san-francisco-gorgeous-1x1-in-nob-hill/5273vVTFke4GkikoRwVwHQ"
     },
     {
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-50-joice-14-charmin-1x1/fSTmHqBp8dtkyFTUwqinot",
+      "source": "Craigslist",
+      "type": "standard rental",
+      "title": "50 Joice #14 - Charmin 1x1 - Updated Appliances - WD in Unit - Private",
+      "price": "$4,640",
+      "sqft": "n/a",
+      "neighborhood": "nob hill",
+      "posted": "n/a",
+      "url": "https://www.craigslist.org/view/d/san-francisco-50-joice-14-charmin-1x1/fSTmHqBp8dtkyFTUwqinot"
+    },
+    {
       "id": "cl-https://www.craigslist.org/view/d/san-francisco-50-joicecalifornia-nice/wQQpEXfy3xnbfaj8PRB7yN",
       "source": "Craigslist",
       "type": "standard rental",
@@ -1354,17 +1365,6 @@
       "neighborhood": "nob hill",
       "posted": "n/a",
       "url": "https://www.craigslist.org/view/d/san-francisco-50-joicecalifornia-nice/wQQpEXfy3xnbfaj8PRB7yN"
-    },
-    {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-50-joice-14-charmin-1x1/aoiUxN8jQPJ5rCqha4bdPA",
-      "source": "Craigslist",
-      "type": "standard rental",
-      "title": "50 Joice #14 - Charmin 1x1 - Updated Appliances - WD in Unit - Private",
-      "price": "$4,640",
-      "sqft": "n/a",
-      "neighborhood": "nob hill",
-      "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-50-joice-14-charmin-1x1/aoiUxN8jQPJ5rCqha4bdPA"
     },
     {
       "id": "cl-https://www.craigslist.org/view/d/san-francisco-gorgeous-1x1-in-nob-hill/5273vVTFke4GkikoRwVwHQ",
