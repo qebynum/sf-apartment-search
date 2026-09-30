@@ -1,63 +1,8 @@
 {
-  "last_updated": "2026-09-30 01:54 UTC",
-  "count": 190,
+  "last_updated": "2026-09-30 18:54 UTC",
+  "count": 185,
   "listings": [
     {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-fully-furnished-room-to/fJATV5DCWmZbiC9ft12VJe",
-      "source": "Craigslist",
-      "type": "standard rental",
-      "title": "Fully furnished room to rent in the Castro for October and November",
-      "price": "$1,500",
-      "sqft": "n/a",
-      "neighborhood": "castro / upper market",
-      "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-fully-furnished-room-to/fJATV5DCWmZbiC9ft12VJe"
-    },
-    {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-fully-furnished-room-to/fJATV5DCWmZbiC9ft12VJe",
-      "source": "Craigslist",
-      "type": "standard rental",
-      "title": "Fully furnished room to rent in the Castro for October and November",
-      "price": "$1,500",
-      "sqft": "n/a",
-      "neighborhood": "castro / upper market",
-      "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-fully-furnished-room-to/fJATV5DCWmZbiC9ft12VJe"
-    },
-    {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-fully-furnished-room-to/fJATV5DCWmZbiC9ft12VJe",
-      "source": "Craigslist",
-      "type": "standard rental",
-      "title": "Fully furnished room to rent in the Castro for October and November",
-      "price": "$1,500",
-      "sqft": "n/a",
-      "neighborhood": "castro / upper market",
-      "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-fully-furnished-room-to/fJATV5DCWmZbiC9ft12VJe"
-    },
-    {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-fully-furnished-room-to/fJATV5DCWmZbiC9ft12VJe",
-      "source": "Craigslist",
-      "type": "standard rental",
-      "title": "Fully furnished room to rent in the Castro for October and November",
-      "price": "$1,500",
-      "sqft": "n/a",
-      "neighborhood": "castro / upper market",
-      "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-fully-furnished-room-to/fJATV5DCWmZbiC9ft12VJe"
-    },
-    {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-fully-furnished-room-to/fJATV5DCWmZbiC9ft12VJe",
-      "source": "Craigslist",
-      "type": "standard rental",
-      "title": "Fully furnished room to rent in the Castro for October and November",
-      "price": "$1,500",
-      "sqft": "n/a",
-      "neighborhood": "castro / upper market",
-      "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-fully-furnished-room-to/fJATV5DCWmZbiC9ft12VJe"
-    },
-    {
       "id": "cl-https://www.craigslist.org/view/d/san-francisco-room-with-private-bath/xnYHdKngZLChGM79WkFCkm",
       "source": "Craigslist",
       "type": "standard rental",
@@ -113,169 +58,70 @@
       "url": "https://www.craigslist.org/view/d/san-francisco-room-with-private-bath/xnYHdKngZLChGM79WkFCkm"
     },
     {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-elevators-stove-oven-24/4BkukanxBKsqBFzWPod181",
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-castro-condo-available/2cAFG2Byd3GH187wX5Ng29",
       "source": "Craigslist",
       "type": "standard rental",
-      "title": "Elevators, Stove/Oven, 24/7 Emergency Maintenance, Courtesy Patrol",
-      "price": "$2,100",
+      "title": "Castro Condo Available for 3 - 6 Weeks (partially shared)",
+      "price": "$2,000",
       "sqft": "n/a",
-      "neighborhood": "nob hill",
+      "neighborhood": "castro / upper market",
       "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-elevators-stove-oven-24/4BkukanxBKsqBFzWPod181"
+      "url": "https://www.craigslist.org/view/d/san-francisco-castro-condo-available/2cAFG2Byd3GH187wX5Ng29"
     },
     {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-fridge-parking-street/uBvHPvGJa9zWwAqQRECA62",
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-castro-condo-available/2cAFG2Byd3GH187wX5Ng29",
       "source": "Craigslist",
       "type": "standard rental",
-      "title": "Fridge, Parking - Street, Shower/Tub Combo, Heating",
-      "price": "$2,100",
+      "title": "Castro Condo Available for 3 - 6 Weeks (partially shared)",
+      "price": "$2,000",
       "sqft": "n/a",
-      "neighborhood": "nob hill",
+      "neighborhood": "castro / upper market",
       "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-fridge-parking-street/uBvHPvGJa9zWwAqQRECA62"
+      "url": "https://www.craigslist.org/view/d/san-francisco-castro-condo-available/2cAFG2Byd3GH187wX5Ng29"
     },
     {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-bd-1795-new-plank-floor/6pFQBTvHo1P8ATAvoKgEVB",
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-castro-condo-available/2cAFG2Byd3GH187wX5Ng29",
       "source": "Craigslist",
       "type": "standard rental",
-      "title": "1 BD $1,795-New Plank Floor in Great Location!",
-      "price": "$2,100",
+      "title": "Castro Condo Available for 3 - 6 Weeks (partially shared)",
+      "price": "$2,000",
       "sqft": "n/a",
-      "neighborhood": "nob hill",
+      "neighborhood": "castro / upper market",
       "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-bd-1795-new-plank-floor/6pFQBTvHo1P8ATAvoKgEVB"
+      "url": "https://www.craigslist.org/view/d/san-francisco-castro-condo-available/2cAFG2Byd3GH187wX5Ng29"
     },
     {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-bd-only-1795-in-prime/nbZ5pq2srrYcWuKdm5sM9a",
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-castro-condo-available/2cAFG2Byd3GH187wX5Ng29",
       "source": "Craigslist",
       "type": "standard rental",
-      "title": "1 BD Only $1,795 in Prime Location",
-      "price": "$2,100",
+      "title": "Castro Condo Available for 3 - 6 Weeks (partially shared)",
+      "price": "$2,000",
       "sqft": "n/a",
-      "neighborhood": "nob hill",
+      "neighborhood": "castro / upper market",
       "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-bd-only-1795-in-prime/nbZ5pq2srrYcWuKdm5sM9a"
+      "url": "https://www.craigslist.org/view/d/san-francisco-castro-condo-available/2cAFG2Byd3GH187wX5Ng29"
     },
     {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-only-1795-for-newly/fMnhEjB4kEjcibBAaTNx6w",
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-castro-condo-available/2cAFG2Byd3GH187wX5Ng29",
       "source": "Craigslist",
       "type": "standard rental",
-      "title": "Only $1,795 for a Newly Renovated 1 BD!",
-      "price": "$2,100",
+      "title": "Castro Condo Available for 3 - 6 Weeks (partially shared)",
+      "price": "$2,000",
       "sqft": "n/a",
-      "neighborhood": "nob hill",
+      "neighborhood": "castro / upper market",
       "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-only-1795-for-newly/fMnhEjB4kEjcibBAaTNx6w"
+      "url": "https://www.craigslist.org/view/d/san-francisco-castro-condo-available/2cAFG2Byd3GH187wX5Ng29"
     },
     {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-elevators-stove-oven-24/4BkukanxBKsqBFzWPod181",
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-stove-oven-shower-tub/c94mj1JMoi51qonuB48J2W",
       "source": "Craigslist",
       "type": "standard rental",
-      "title": "Elevators, Stove/Oven, 24/7 Emergency Maintenance, Courtesy Patrol",
+      "title": "Stove/Oven, Shower/Tub Combo, Attentive Friendly Staff",
       "price": "$2,100",
       "sqft": "n/a",
       "neighborhood": "nob hill",
       "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-elevators-stove-oven-24/4BkukanxBKsqBFzWPod181"
-    },
-    {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-fridge-parking-street/uBvHPvGJa9zWwAqQRECA62",
-      "source": "Craigslist",
-      "type": "standard rental",
-      "title": "Fridge, Parking - Street, Shower/Tub Combo, Heating",
-      "price": "$2,100",
-      "sqft": "n/a",
-      "neighborhood": "nob hill",
-      "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-fridge-parking-street/uBvHPvGJa9zWwAqQRECA62"
-    },
-    {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-bd-1795-new-plank-floor/6pFQBTvHo1P8ATAvoKgEVB",
-      "source": "Craigslist",
-      "type": "standard rental",
-      "title": "1 BD $1,795-New Plank Floor in Great Location!",
-      "price": "$2,100",
-      "sqft": "n/a",
-      "neighborhood": "nob hill",
-      "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-bd-1795-new-plank-floor/6pFQBTvHo1P8ATAvoKgEVB"
-    },
-    {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-bd-only-1795-in-prime/nbZ5pq2srrYcWuKdm5sM9a",
-      "source": "Craigslist",
-      "type": "standard rental",
-      "title": "1 BD Only $1,795 in Prime Location",
-      "price": "$2,100",
-      "sqft": "n/a",
-      "neighborhood": "nob hill",
-      "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-bd-only-1795-in-prime/nbZ5pq2srrYcWuKdm5sM9a"
-    },
-    {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-only-1795-for-newly/fMnhEjB4kEjcibBAaTNx6w",
-      "source": "Craigslist",
-      "type": "standard rental",
-      "title": "Only $1,795 for a Newly Renovated 1 BD!",
-      "price": "$2,100",
-      "sqft": "n/a",
-      "neighborhood": "nob hill",
-      "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-only-1795-for-newly/fMnhEjB4kEjcibBAaTNx6w"
-    },
-    {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-elevators-stove-oven-24/4BkukanxBKsqBFzWPod181",
-      "source": "Craigslist",
-      "type": "standard rental",
-      "title": "Elevators, Stove/Oven, 24/7 Emergency Maintenance, Courtesy Patrol",
-      "price": "$2,100",
-      "sqft": "n/a",
-      "neighborhood": "nob hill",
-      "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-elevators-stove-oven-24/4BkukanxBKsqBFzWPod181"
-    },
-    {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-fridge-parking-street/uBvHPvGJa9zWwAqQRECA62",
-      "source": "Craigslist",
-      "type": "standard rental",
-      "title": "Fridge, Parking - Street, Shower/Tub Combo, Heating",
-      "price": "$2,100",
-      "sqft": "n/a",
-      "neighborhood": "nob hill",
-      "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-fridge-parking-street/uBvHPvGJa9zWwAqQRECA62"
-    },
-    {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-bd-1795-new-plank-floor/6pFQBTvHo1P8ATAvoKgEVB",
-      "source": "Craigslist",
-      "type": "standard rental",
-      "title": "1 BD $1,795-New Plank Floor in Great Location!",
-      "price": "$2,100",
-      "sqft": "n/a",
-      "neighborhood": "nob hill",
-      "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-bd-1795-new-plank-floor/6pFQBTvHo1P8ATAvoKgEVB"
-    },
-    {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-bd-only-1795-in-prime/nbZ5pq2srrYcWuKdm5sM9a",
-      "source": "Craigslist",
-      "type": "standard rental",
-      "title": "1 BD Only $1,795 in Prime Location",
-      "price": "$2,100",
-      "sqft": "n/a",
-      "neighborhood": "nob hill",
-      "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-bd-only-1795-in-prime/nbZ5pq2srrYcWuKdm5sM9a"
-    },
-    {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-only-1795-for-newly/fMnhEjB4kEjcibBAaTNx6w",
-      "source": "Craigslist",
-      "type": "standard rental",
-      "title": "Only $1,795 for a Newly Renovated 1 BD!",
-      "price": "$2,100",
-      "sqft": "n/a",
-      "neighborhood": "nob hill",
-      "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-only-1795-for-newly/fMnhEjB4kEjcibBAaTNx6w"
+      "url": "https://www.craigslist.org/view/d/san-francisco-stove-oven-shower-tub/c94mj1JMoi51qonuB48J2W"
     },
     {
       "id": "cl-https://www.craigslist.org/view/d/san-francisco-elevators-stove-oven-24/4BkukanxBKsqBFzWPod181",
@@ -322,15 +168,15 @@
       "url": "https://www.craigslist.org/view/d/san-francisco-bd-only-1795-in-prime/nbZ5pq2srrYcWuKdm5sM9a"
     },
     {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-only-1795-for-newly/fMnhEjB4kEjcibBAaTNx6w",
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-stove-oven-shower-tub/c94mj1JMoi51qonuB48J2W",
       "source": "Craigslist",
       "type": "standard rental",
-      "title": "Only $1,795 for a Newly Renovated 1 BD!",
+      "title": "Stove/Oven, Shower/Tub Combo, Attentive Friendly Staff",
       "price": "$2,100",
       "sqft": "n/a",
       "neighborhood": "nob hill",
       "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-only-1795-for-newly/fMnhEjB4kEjcibBAaTNx6w"
+      "url": "https://www.craigslist.org/view/d/san-francisco-stove-oven-shower-tub/c94mj1JMoi51qonuB48J2W"
     },
     {
       "id": "cl-https://www.craigslist.org/view/d/san-francisco-elevators-stove-oven-24/4BkukanxBKsqBFzWPod181",
@@ -377,70 +223,169 @@
       "url": "https://www.craigslist.org/view/d/san-francisco-bd-only-1795-in-prime/nbZ5pq2srrYcWuKdm5sM9a"
     },
     {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-only-1795-for-newly/fMnhEjB4kEjcibBAaTNx6w",
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-stove-oven-shower-tub/c94mj1JMoi51qonuB48J2W",
       "source": "Craigslist",
       "type": "standard rental",
-      "title": "Only $1,795 for a Newly Renovated 1 BD!",
+      "title": "Stove/Oven, Shower/Tub Combo, Attentive Friendly Staff",
       "price": "$2,100",
       "sqft": "n/a",
       "neighborhood": "nob hill",
       "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-only-1795-for-newly/fMnhEjB4kEjcibBAaTNx6w"
+      "url": "https://www.craigslist.org/view/d/san-francisco-stove-oven-shower-tub/c94mj1JMoi51qonuB48J2W"
     },
     {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-castro-condo-available/2cAFG2Byd3GH187wX5Ng29",
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-elevators-stove-oven-24/4BkukanxBKsqBFzWPod181",
       "source": "Craigslist",
       "type": "standard rental",
-      "title": "Castro Condo Available for 3 - 6 Weeks (partially shared)",
-      "price": "$2,167",
+      "title": "Elevators, Stove/Oven, 24/7 Emergency Maintenance, Courtesy Patrol",
+      "price": "$2,100",
       "sqft": "n/a",
-      "neighborhood": "castro / upper market",
+      "neighborhood": "nob hill",
       "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-castro-condo-available/2cAFG2Byd3GH187wX5Ng29"
+      "url": "https://www.craigslist.org/view/d/san-francisco-elevators-stove-oven-24/4BkukanxBKsqBFzWPod181"
     },
     {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-castro-condo-available/2cAFG2Byd3GH187wX5Ng29",
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-fridge-parking-street/uBvHPvGJa9zWwAqQRECA62",
       "source": "Craigslist",
       "type": "standard rental",
-      "title": "Castro Condo Available for 3 - 6 Weeks (partially shared)",
-      "price": "$2,167",
+      "title": "Fridge, Parking - Street, Shower/Tub Combo, Heating",
+      "price": "$2,100",
       "sqft": "n/a",
-      "neighborhood": "castro / upper market",
+      "neighborhood": "nob hill",
       "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-castro-condo-available/2cAFG2Byd3GH187wX5Ng29"
+      "url": "https://www.craigslist.org/view/d/san-francisco-fridge-parking-street/uBvHPvGJa9zWwAqQRECA62"
     },
     {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-castro-condo-available/2cAFG2Byd3GH187wX5Ng29",
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-bd-1795-new-plank-floor/6pFQBTvHo1P8ATAvoKgEVB",
       "source": "Craigslist",
       "type": "standard rental",
-      "title": "Castro Condo Available for 3 - 6 Weeks (partially shared)",
-      "price": "$2,167",
+      "title": "1 BD $1,795-New Plank Floor in Great Location!",
+      "price": "$2,100",
       "sqft": "n/a",
-      "neighborhood": "castro / upper market",
+      "neighborhood": "nob hill",
       "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-castro-condo-available/2cAFG2Byd3GH187wX5Ng29"
+      "url": "https://www.craigslist.org/view/d/san-francisco-bd-1795-new-plank-floor/6pFQBTvHo1P8ATAvoKgEVB"
     },
     {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-castro-condo-available/2cAFG2Byd3GH187wX5Ng29",
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-bd-only-1795-in-prime/nbZ5pq2srrYcWuKdm5sM9a",
       "source": "Craigslist",
       "type": "standard rental",
-      "title": "Castro Condo Available for 3 - 6 Weeks (partially shared)",
-      "price": "$2,167",
+      "title": "1 BD Only $1,795 in Prime Location",
+      "price": "$2,100",
       "sqft": "n/a",
-      "neighborhood": "castro / upper market",
+      "neighborhood": "nob hill",
       "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-castro-condo-available/2cAFG2Byd3GH187wX5Ng29"
+      "url": "https://www.craigslist.org/view/d/san-francisco-bd-only-1795-in-prime/nbZ5pq2srrYcWuKdm5sM9a"
     },
     {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-castro-condo-available/2cAFG2Byd3GH187wX5Ng29",
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-stove-oven-shower-tub/c94mj1JMoi51qonuB48J2W",
       "source": "Craigslist",
       "type": "standard rental",
-      "title": "Castro Condo Available for 3 - 6 Weeks (partially shared)",
-      "price": "$2,167",
+      "title": "Stove/Oven, Shower/Tub Combo, Attentive Friendly Staff",
+      "price": "$2,100",
       "sqft": "n/a",
-      "neighborhood": "castro / upper market",
+      "neighborhood": "nob hill",
       "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-castro-condo-available/2cAFG2Byd3GH187wX5Ng29"
+      "url": "https://www.craigslist.org/view/d/san-francisco-stove-oven-shower-tub/c94mj1JMoi51qonuB48J2W"
+    },
+    {
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-elevators-stove-oven-24/4BkukanxBKsqBFzWPod181",
+      "source": "Craigslist",
+      "type": "standard rental",
+      "title": "Elevators, Stove/Oven, 24/7 Emergency Maintenance, Courtesy Patrol",
+      "price": "$2,100",
+      "sqft": "n/a",
+      "neighborhood": "nob hill",
+      "posted": "n/a",
+      "url": "https://www.craigslist.org/view/d/san-francisco-elevators-stove-oven-24/4BkukanxBKsqBFzWPod181"
+    },
+    {
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-fridge-parking-street/uBvHPvGJa9zWwAqQRECA62",
+      "source": "Craigslist",
+      "type": "standard rental",
+      "title": "Fridge, Parking - Street, Shower/Tub Combo, Heating",
+      "price": "$2,100",
+      "sqft": "n/a",
+      "neighborhood": "nob hill",
+      "posted": "n/a",
+      "url": "https://www.craigslist.org/view/d/san-francisco-fridge-parking-street/uBvHPvGJa9zWwAqQRECA62"
+    },
+    {
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-bd-1795-new-plank-floor/6pFQBTvHo1P8ATAvoKgEVB",
+      "source": "Craigslist",
+      "type": "standard rental",
+      "title": "1 BD $1,795-New Plank Floor in Great Location!",
+      "price": "$2,100",
+      "sqft": "n/a",
+      "neighborhood": "nob hill",
+      "posted": "n/a",
+      "url": "https://www.craigslist.org/view/d/san-francisco-bd-1795-new-plank-floor/6pFQBTvHo1P8ATAvoKgEVB"
+    },
+    {
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-bd-only-1795-in-prime/nbZ5pq2srrYcWuKdm5sM9a",
+      "source": "Craigslist",
+      "type": "standard rental",
+      "title": "1 BD Only $1,795 in Prime Location",
+      "price": "$2,100",
+      "sqft": "n/a",
+      "neighborhood": "nob hill",
+      "posted": "n/a",
+      "url": "https://www.craigslist.org/view/d/san-francisco-bd-only-1795-in-prime/nbZ5pq2srrYcWuKdm5sM9a"
+    },
+    {
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-stove-oven-shower-tub/c94mj1JMoi51qonuB48J2W",
+      "source": "Craigslist",
+      "type": "standard rental",
+      "title": "Stove/Oven, Shower/Tub Combo, Attentive Friendly Staff",
+      "price": "$2,100",
+      "sqft": "n/a",
+      "neighborhood": "nob hill",
+      "posted": "n/a",
+      "url": "https://www.craigslist.org/view/d/san-francisco-stove-oven-shower-tub/c94mj1JMoi51qonuB48J2W"
+    },
+    {
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-elevators-stove-oven-24/4BkukanxBKsqBFzWPod181",
+      "source": "Craigslist",
+      "type": "standard rental",
+      "title": "Elevators, Stove/Oven, 24/7 Emergency Maintenance, Courtesy Patrol",
+      "price": "$2,100",
+      "sqft": "n/a",
+      "neighborhood": "nob hill",
+      "posted": "n/a",
+      "url": "https://www.craigslist.org/view/d/san-francisco-elevators-stove-oven-24/4BkukanxBKsqBFzWPod181"
+    },
+    {
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-fridge-parking-street/uBvHPvGJa9zWwAqQRECA62",
+      "source": "Craigslist",
+      "type": "standard rental",
+      "title": "Fridge, Parking - Street, Shower/Tub Combo, Heating",
+      "price": "$2,100",
+      "sqft": "n/a",
+      "neighborhood": "nob hill",
+      "posted": "n/a",
+      "url": "https://www.craigslist.org/view/d/san-francisco-fridge-parking-street/uBvHPvGJa9zWwAqQRECA62"
+    },
+    {
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-bd-1795-new-plank-floor/6pFQBTvHo1P8ATAvoKgEVB",
+      "source": "Craigslist",
+      "type": "standard rental",
+      "title": "1 BD $1,795-New Plank Floor in Great Location!",
+      "price": "$2,100",
+      "sqft": "n/a",
+      "neighborhood": "nob hill",
+      "posted": "n/a",
+      "url": "https://www.craigslist.org/view/d/san-francisco-bd-1795-new-plank-floor/6pFQBTvHo1P8ATAvoKgEVB"
+    },
+    {
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-bd-only-1795-in-prime/nbZ5pq2srrYcWuKdm5sM9a",
+      "source": "Craigslist",
+      "type": "standard rental",
+      "title": "1 BD Only $1,795 in Prime Location",
+      "price": "$2,100",
+      "sqft": "n/a",
+      "neighborhood": "nob hill",
+      "posted": "n/a",
+      "url": "https://www.craigslist.org/view/d/san-francisco-bd-only-1795-in-prime/nbZ5pq2srrYcWuKdm5sM9a"
     },
     {
       "id": "cl-https://www.craigslist.org/view/d/san-francisco-private-spacious-suite/pzqvuSsrjxHucjeG6QR8nG",
@@ -661,17 +606,6 @@
       "neighborhood": "lower nob hill",
       "posted": "n/a",
       "url": "https://www.craigslist.org/view/d/san-francisco-tmlp-12-mo-impeccable-br/ohDvEotY6CrFL8KAuqywhX"
-    },
-    {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-bright-remodel-in-stellar/aqSDNwqWhfkfJKVTLnLTNx",
-      "source": "Craigslist",
-      "type": "standard rental",
-      "title": "BRIGHT, Remodel in Stellar Location-Short Walk to FiDi, SOMA, Union Sq",
-      "price": "$3,395",
-      "sqft": "n/a",
-      "neighborhood": "nob hill",
-      "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-bright-remodel-in-stellar/aqSDNwqWhfkfJKVTLnLTNx"
     },
     {
       "id": "cl-https://www.craigslist.org/view/d/san-francisco-bright-remodel-in-stellar/p4UbM5sUuyzS6XyVii74yV",
@@ -685,7 +619,7 @@
       "url": "https://www.craigslist.org/view/d/san-francisco-bright-remodel-in-stellar/p4UbM5sUuyzS6XyVii74yV"
     },
     {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-bright-remodel-in-stellar/aqSDNwqWhfkfJKVTLnLTNx",
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-bright-remodel-in-stellar/p4UbM5sUuyzS6XyVii74yV",
       "source": "Craigslist",
       "type": "standard rental",
       "title": "BRIGHT, Remodel in Stellar Location-Short Walk to FiDi, SOMA, Union Sq",
@@ -693,7 +627,7 @@
       "sqft": "n/a",
       "neighborhood": "nob hill",
       "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-bright-remodel-in-stellar/aqSDNwqWhfkfJKVTLnLTNx"
+      "url": "https://www.craigslist.org/view/d/san-francisco-bright-remodel-in-stellar/p4UbM5sUuyzS6XyVii74yV"
     },
     {
       "id": "cl-https://www.craigslist.org/view/d/san-francisco-bright-remodel-in-stellar/p4UbM5sUuyzS6XyVii74yV",
@@ -707,17 +641,6 @@
       "url": "https://www.craigslist.org/view/d/san-francisco-bright-remodel-in-stellar/p4UbM5sUuyzS6XyVii74yV"
     },
     {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-bright-remodel-in-stellar/aqSDNwqWhfkfJKVTLnLTNx",
-      "source": "Craigslist",
-      "type": "standard rental",
-      "title": "BRIGHT, Remodel in Stellar Location-Short Walk to FiDi, SOMA, Union Sq",
-      "price": "$3,395",
-      "sqft": "n/a",
-      "neighborhood": "nob hill",
-      "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-bright-remodel-in-stellar/aqSDNwqWhfkfJKVTLnLTNx"
-    },
-    {
       "id": "cl-https://www.craigslist.org/view/d/san-francisco-bright-remodel-in-stellar/p4UbM5sUuyzS6XyVii74yV",
       "source": "Craigslist",
       "type": "standard rental",
@@ -727,39 +650,6 @@
       "neighborhood": "nob hill",
       "posted": "n/a",
       "url": "https://www.craigslist.org/view/d/san-francisco-bright-remodel-in-stellar/p4UbM5sUuyzS6XyVii74yV"
-    },
-    {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-bright-remodel-in-stellar/aqSDNwqWhfkfJKVTLnLTNx",
-      "source": "Craigslist",
-      "type": "standard rental",
-      "title": "BRIGHT, Remodel in Stellar Location-Short Walk to FiDi, SOMA, Union Sq",
-      "price": "$3,395",
-      "sqft": "n/a",
-      "neighborhood": "nob hill",
-      "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-bright-remodel-in-stellar/aqSDNwqWhfkfJKVTLnLTNx"
-    },
-    {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-bright-remodel-in-stellar/p4UbM5sUuyzS6XyVii74yV",
-      "source": "Craigslist",
-      "type": "standard rental",
-      "title": "BRIGHT, Remodel in Stellar Location-Short Walk to FiDi, SOMA, Union Sq",
-      "price": "$3,395",
-      "sqft": "n/a",
-      "neighborhood": "nob hill",
-      "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-bright-remodel-in-stellar/p4UbM5sUuyzS6XyVii74yV"
-    },
-    {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-bright-remodel-in-stellar/aqSDNwqWhfkfJKVTLnLTNx",
-      "source": "Craigslist",
-      "type": "standard rental",
-      "title": "BRIGHT, Remodel in Stellar Location-Short Walk to FiDi, SOMA, Union Sq",
-      "price": "$3,395",
-      "sqft": "n/a",
-      "neighborhood": "nob hill",
-      "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-bright-remodel-in-stellar/aqSDNwqWhfkfJKVTLnLTNx"
     },
     {
       "id": "cl-https://www.craigslist.org/view/d/san-francisco-bright-remodel-in-stellar/p4UbM5sUuyzS6XyVii74yV",
@@ -1158,17 +1048,6 @@
       "url": "https://www.craigslist.org/view/d/san-francisco-dont-miss-the-chance-to/faKmrS2coBvFwiU6eG249B"
     },
     {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-ready-now-2br-hardwood/6jPz1BL8abyLyEwHy92e6A",
-      "source": "Craigslist",
-      "type": "standard rental",
-      "title": "Ready Now - 2BR - Hardwood Floors -  Great Location - Pet-Friendly #27",
-      "price": "$4,195",
-      "sqft": "n/a",
-      "neighborhood": "lower nob hill",
-      "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-ready-now-2br-hardwood/6jPz1BL8abyLyEwHy92e6A"
-    },
-    {
       "id": "cl-https://www.craigslist.org/view/d/san-francisco-castro-spacious-updated/31e37Pf6MQ7JRmEgmWHPPH",
       "source": "Craigslist",
       "type": "standard rental",
@@ -1266,6 +1145,72 @@
       "neighborhood": "castro / upper market",
       "posted": "n/a",
       "url": "https://www.craigslist.org/view/d/san-francisco-castro-spacious-updated/31e37Pf6MQ7JRmEgmWHPPH"
+    },
+    {
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-ready-now-2br-hardwood/6jPz1BL8abyLyEwHy92e6A",
+      "source": "Craigslist",
+      "type": "standard rental",
+      "title": "Ready Now - 2BR - Hardwood Floors -  Great Location - Pet-Friendly #27",
+      "price": "$4,195",
+      "sqft": "n/a",
+      "neighborhood": "lower nob hill",
+      "posted": "n/a",
+      "url": "https://www.craigslist.org/view/d/san-francisco-ready-now-2br-hardwood/6jPz1BL8abyLyEwHy92e6A"
+    },
+    {
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-845-californiastockton/pLtimYEXCxZg6VN24EvABX",
+      "source": "Craigslist",
+      "type": "standard rental",
+      "title": "845 California@Stockton/Amazing Views/W+D In Unit/Corner Unit/Pets OK!",
+      "price": "$4,240",
+      "sqft": "n/a",
+      "neighborhood": "nob hill",
+      "posted": "n/a",
+      "url": "https://www.craigslist.org/view/d/san-francisco-845-californiastockton/pLtimYEXCxZg6VN24EvABX"
+    },
+    {
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-845-californiastockton/pLtimYEXCxZg6VN24EvABX",
+      "source": "Craigslist",
+      "type": "standard rental",
+      "title": "845 California@Stockton/Amazing Views/W+D In Unit/Corner Unit/Pets OK!",
+      "price": "$4,240",
+      "sqft": "n/a",
+      "neighborhood": "nob hill",
+      "posted": "n/a",
+      "url": "https://www.craigslist.org/view/d/san-francisco-845-californiastockton/pLtimYEXCxZg6VN24EvABX"
+    },
+    {
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-845-californiastockton/pLtimYEXCxZg6VN24EvABX",
+      "source": "Craigslist",
+      "type": "standard rental",
+      "title": "845 California@Stockton/Amazing Views/W+D In Unit/Corner Unit/Pets OK!",
+      "price": "$4,240",
+      "sqft": "n/a",
+      "neighborhood": "nob hill",
+      "posted": "n/a",
+      "url": "https://www.craigslist.org/view/d/san-francisco-845-californiastockton/pLtimYEXCxZg6VN24EvABX"
+    },
+    {
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-845-californiastockton/pLtimYEXCxZg6VN24EvABX",
+      "source": "Craigslist",
+      "type": "standard rental",
+      "title": "845 California@Stockton/Amazing Views/W+D In Unit/Corner Unit/Pets OK!",
+      "price": "$4,240",
+      "sqft": "n/a",
+      "neighborhood": "nob hill",
+      "posted": "n/a",
+      "url": "https://www.craigslist.org/view/d/san-francisco-845-californiastockton/pLtimYEXCxZg6VN24EvABX"
+    },
+    {
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-845-californiastockton/pLtimYEXCxZg6VN24EvABX",
+      "source": "Craigslist",
+      "type": "standard rental",
+      "title": "845 California@Stockton/Amazing Views/W+D In Unit/Corner Unit/Pets OK!",
+      "price": "$4,240",
+      "sqft": "n/a",
+      "neighborhood": "nob hill",
+      "posted": "n/a",
+      "url": "https://www.craigslist.org/view/d/san-francisco-845-californiastockton/pLtimYEXCxZg6VN24EvABX"
     },
     {
       "id": "cl-https://www.craigslist.org/view/d/san-francisco-renovated-1bd-1ba-in-unit/tkhkopyuyEWzBGmJ7DwPF3",
