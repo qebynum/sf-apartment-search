@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-10 02:11 UTC",
-  "count": 240,
+  "last_updated": "2026-10-10 18:18 UTC",
+  "count": 245,
   "listings": [
     {
       "id": "cl-https://www.craigslist.org/view/d/san-francisco-fully-furnished-room-to/1wKQV385JjmzT1vfZDknzR",
@@ -56,6 +56,61 @@
       "neighborhood": "castro / upper market",
       "posted": "n/a",
       "url": "https://www.craigslist.org/view/d/san-francisco-fully-furnished-room-to/1wKQV385JjmzT1vfZDknzR"
+    },
+    {
+      "id": "cl-https://www.craigslist.org/view/d/union-city-ready-september-11-your-new/puH32PDQ215UHRmRRB1SAY",
+      "source": "Craigslist",
+      "type": "standard rental",
+      "title": "Ready September 11 \u2013 Your New 2 Bedroom Home Is Waiting at Baywood!",
+      "price": "$1,800",
+      "sqft": "n/a",
+      "neighborhood": "hayward / castro valley",
+      "posted": "n/a",
+      "url": "https://www.craigslist.org/view/d/union-city-ready-september-11-your-new/puH32PDQ215UHRmRRB1SAY"
+    },
+    {
+      "id": "cl-https://www.craigslist.org/view/d/union-city-ready-september-11-your-new/puH32PDQ215UHRmRRB1SAY",
+      "source": "Craigslist",
+      "type": "standard rental",
+      "title": "Ready September 11 \u2013 Your New 2 Bedroom Home Is Waiting at Baywood!",
+      "price": "$1,800",
+      "sqft": "n/a",
+      "neighborhood": "hayward / castro valley",
+      "posted": "n/a",
+      "url": "https://www.craigslist.org/view/d/union-city-ready-september-11-your-new/puH32PDQ215UHRmRRB1SAY"
+    },
+    {
+      "id": "cl-https://www.craigslist.org/view/d/union-city-ready-september-11-your-new/puH32PDQ215UHRmRRB1SAY",
+      "source": "Craigslist",
+      "type": "standard rental",
+      "title": "Ready September 11 \u2013 Your New 2 Bedroom Home Is Waiting at Baywood!",
+      "price": "$1,800",
+      "sqft": "n/a",
+      "neighborhood": "hayward / castro valley",
+      "posted": "n/a",
+      "url": "https://www.craigslist.org/view/d/union-city-ready-september-11-your-new/puH32PDQ215UHRmRRB1SAY"
+    },
+    {
+      "id": "cl-https://www.craigslist.org/view/d/union-city-ready-september-11-your-new/puH32PDQ215UHRmRRB1SAY",
+      "source": "Craigslist",
+      "type": "standard rental",
+      "title": "Ready September 11 \u2013 Your New 2 Bedroom Home Is Waiting at Baywood!",
+      "price": "$1,800",
+      "sqft": "n/a",
+      "neighborhood": "hayward / castro valley",
+      "posted": "n/a",
+      "url": "https://www.craigslist.org/view/d/union-city-ready-september-11-your-new/puH32PDQ215UHRmRRB1SAY"
+    },
+    {
+      "id": "cl-https://www.craigslist.org/view/d/union-city-ready-september-11-your-new/puH32PDQ215UHRmRRB1SAY",
+      "source": "Craigslist",
+      "type": "standard rental",
+      "title": "Ready September 11 \u2013 Your New 2 Bedroom Home Is Waiting at Baywood!",
+      "price": "$1,800",
+      "sqft": "n/a",
+      "neighborhood": "hayward / castro valley",
+      "posted": "n/a",
+      "url": "https://www.craigslist.org/view/d/union-city-ready-september-11-your-new/puH32PDQ215UHRmRRB1SAY"
     },
     {
       "id": "cl-https://www.craigslist.org/view/d/san-francisco-castro-condo-available/2cAFG2Byd3GH187wX5Ng29",
