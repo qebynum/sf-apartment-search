@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-14 01:43 UTC",
-  "count": 275,
+  "last_updated": "2026-10-14 18:23 UTC",
+  "count": 285,
   "listings": [
     {
       "id": "cl-https://www.craigslist.org/view/d/san-francisco-fully-furnished-room-to/1wKQV385JjmzT1vfZDknzR",
@@ -333,15 +333,59 @@
       "url": "https://www.craigslist.org/view/d/san-francisco-only-1795-for-newly/7pAN9U8HkcSME8Wjc9CwbT"
     },
     {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-spacious-bedroom-downtown/hikjJp2hVAMEju17L9wabW",
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-sublet-across-the-street/44ipUHNy7LwhG1aaAJosmZ",
       "source": "Craigslist",
-      "type": "standard rental",
-      "title": "Spacious 1 Bedroom/Downtown/825Post&Hyde/Central Location/Rooftop!!",
-      "price": "$3,095",
+      "type": "lease takeover / sublet",
+      "title": "Sublet across the street from Dolores Park (Nov 1 - Dec 31)",
+      "price": "$2,250",
       "sqft": "n/a",
-      "neighborhood": "lower nob hill",
+      "neighborhood": "castro / upper market",
       "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-spacious-bedroom-downtown/hikjJp2hVAMEju17L9wabW"
+      "url": "https://www.craigslist.org/view/d/san-francisco-sublet-across-the-street/44ipUHNy7LwhG1aaAJosmZ"
+    },
+    {
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-sublet-across-the-street/44ipUHNy7LwhG1aaAJosmZ",
+      "source": "Craigslist",
+      "type": "lease takeover / sublet",
+      "title": "Sublet across the street from Dolores Park (Nov 1 - Dec 31)",
+      "price": "$2,250",
+      "sqft": "n/a",
+      "neighborhood": "castro / upper market",
+      "posted": "n/a",
+      "url": "https://www.craigslist.org/view/d/san-francisco-sublet-across-the-street/44ipUHNy7LwhG1aaAJosmZ"
+    },
+    {
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-sublet-across-the-street/44ipUHNy7LwhG1aaAJosmZ",
+      "source": "Craigslist",
+      "type": "lease takeover / sublet",
+      "title": "Sublet across the street from Dolores Park (Nov 1 - Dec 31)",
+      "price": "$2,250",
+      "sqft": "n/a",
+      "neighborhood": "castro / upper market",
+      "posted": "n/a",
+      "url": "https://www.craigslist.org/view/d/san-francisco-sublet-across-the-street/44ipUHNy7LwhG1aaAJosmZ"
+    },
+    {
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-sublet-across-the-street/44ipUHNy7LwhG1aaAJosmZ",
+      "source": "Craigslist",
+      "type": "lease takeover / sublet",
+      "title": "Sublet across the street from Dolores Park (Nov 1 - Dec 31)",
+      "price": "$2,250",
+      "sqft": "n/a",
+      "neighborhood": "castro / upper market",
+      "posted": "n/a",
+      "url": "https://www.craigslist.org/view/d/san-francisco-sublet-across-the-street/44ipUHNy7LwhG1aaAJosmZ"
+    },
+    {
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-sublet-across-the-street/44ipUHNy7LwhG1aaAJosmZ",
+      "source": "Craigslist",
+      "type": "lease takeover / sublet",
+      "title": "Sublet across the street from Dolores Park (Nov 1 - Dec 31)",
+      "price": "$2,250",
+      "sqft": "n/a",
+      "neighborhood": "castro / upper market",
+      "posted": "n/a",
+      "url": "https://www.craigslist.org/view/d/san-francisco-sublet-across-the-street/44ipUHNy7LwhG1aaAJosmZ"
     },
     {
       "id": "cl-https://www.craigslist.org/view/d/san-francisco-spacious-bedroom-downtown/hikjJp2hVAMEju17L9wabW",
@@ -386,6 +430,28 @@
       "neighborhood": "lower nob hill",
       "posted": "n/a",
       "url": "https://www.craigslist.org/view/d/san-francisco-spacious-bedroom-downtown/hikjJp2hVAMEju17L9wabW"
+    },
+    {
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-spacious-bedroom-downtown/hikjJp2hVAMEju17L9wabW",
+      "source": "Craigslist",
+      "type": "standard rental",
+      "title": "Spacious 1 Bedroom/Downtown/825Post&Hyde/Central Location/Rooftop!!",
+      "price": "$3,095",
+      "sqft": "n/a",
+      "neighborhood": "lower nob hill",
+      "posted": "n/a",
+      "url": "https://www.craigslist.org/view/d/san-francisco-spacious-bedroom-downtown/hikjJp2hVAMEju17L9wabW"
+    },
+    {
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-tmlp-12-mo-bright-airy-br/sLrCWDYe48TitAJ8dhcxtY",
+      "source": "Craigslist",
+      "type": "standard rental",
+      "title": "TMLP 12-mo. | Bright & Airy 1 BR - Reserved Parking, Pet Park, Package Lockers",
+      "price": "$3,256",
+      "sqft": "n/a",
+      "neighborhood": "lower nob hill",
+      "posted": "n/a",
+      "url": "https://www.craigslist.org/view/d/san-francisco-tmlp-12-mo-bright-airy-br/sLrCWDYe48TitAJ8dhcxtY"
     },
     {
       "id": "cl-https://www.craigslist.org/view/d/san-francisco-tmlp-12-mo-live-steps/a2N626UsKbZUFVaDwjMLP1",
@@ -454,70 +520,15 @@
       "url": "https://www.craigslist.org/view/d/san-francisco-tmlp-12-mo-modern-br-ba/7ouxi8imbk4XX6Snnkw7a3"
     },
     {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-tmlp-12-mo-live-steps/a2N626UsKbZUFVaDwjMLP1",
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-tmlp-12-mo-bright-airy-br/sLrCWDYe48TitAJ8dhcxtY",
       "source": "Craigslist",
       "type": "standard rental",
-      "title": "TMLP 12-mo. | Live Steps from Financial District - Renovated 1 BR/1 BA Must-See!",
+      "title": "TMLP 12-mo. | Bright & Airy 1 BR - Reserved Parking, Pet Park, Package Lockers",
       "price": "$3,256",
       "sqft": "n/a",
       "neighborhood": "lower nob hill",
       "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-tmlp-12-mo-live-steps/a2N626UsKbZUFVaDwjMLP1"
-    },
-    {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-tmlp-12-mo-spacious-br/nJsRh4yEhiXKxdBJRXazYU",
-      "source": "Craigslist",
-      "type": "standard rental",
-      "title": "TMLP 12-mo. | Spacious BR Options in Downtown SF-Renovated Kitchens Await!",
-      "price": "$3,256",
-      "sqft": "n/a",
-      "neighborhood": "lower nob hill",
-      "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-tmlp-12-mo-spacious-br/nJsRh4yEhiXKxdBJRXazYU"
-    },
-    {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-tmlp-12-mo-experience/okD6CsD8ADhMyNBzaesnWD",
-      "source": "Craigslist",
-      "type": "standard rental",
-      "title": "TMLP 12-mo. | Experience Downtown Living-Private Balcony Options Available!",
-      "price": "$3,256",
-      "sqft": "n/a",
-      "neighborhood": "lower nob hill",
-      "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-tmlp-12-mo-experience/okD6CsD8ADhMyNBzaesnWD"
-    },
-    {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-tmlp-12-mo-effortless/e7ymkhEeeK6m9SMv1ZyPxB",
-      "source": "Craigslist",
-      "type": "standard rental",
-      "title": "TMLP 12-mo. | Effortless Commute! Stylish 1 BR, Near Powell St BART & Shopping",
-      "price": "$3,256",
-      "sqft": "n/a",
-      "neighborhood": "lower nob hill",
-      "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-tmlp-12-mo-effortless/e7ymkhEeeK6m9SMv1ZyPxB"
-    },
-    {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-tmlp-12-mo-limited/utVhjq9GUtbdzhYP6UVfL9",
-      "source": "Craigslist",
-      "type": "standard rental",
-      "title": "TMLP 12-mo. | Limited Availability! Renovated Kitchen, Natural Light, Downtown",
-      "price": "$3,256",
-      "sqft": "n/a",
-      "neighborhood": "lower nob hill",
-      "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-tmlp-12-mo-limited/utVhjq9GUtbdzhYP6UVfL9"
-    },
-    {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-tmlp-12-mo-modern-br-ba/7ouxi8imbk4XX6Snnkw7a3",
-      "source": "Craigslist",
-      "type": "standard rental",
-      "title": "TMLP 12-mo. | Modern 1 BR/1 BA Gem in Lower Nob Hill - Huge Closets, AC, More!",
-      "price": "$3,256",
-      "sqft": "n/a",
-      "neighborhood": "lower nob hill",
-      "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-tmlp-12-mo-modern-br-ba/7ouxi8imbk4XX6Snnkw7a3"
+      "url": "https://www.craigslist.org/view/d/san-francisco-tmlp-12-mo-bright-airy-br/sLrCWDYe48TitAJ8dhcxtY"
     },
     {
       "id": "cl-https://www.craigslist.org/view/d/san-francisco-tmlp-12-mo-live-steps/a2N626UsKbZUFVaDwjMLP1",
@@ -586,6 +597,17 @@
       "url": "https://www.craigslist.org/view/d/san-francisco-tmlp-12-mo-modern-br-ba/7ouxi8imbk4XX6Snnkw7a3"
     },
     {
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-tmlp-12-mo-bright-airy-br/sLrCWDYe48TitAJ8dhcxtY",
+      "source": "Craigslist",
+      "type": "standard rental",
+      "title": "TMLP 12-mo. | Bright & Airy 1 BR - Reserved Parking, Pet Park, Package Lockers",
+      "price": "$3,256",
+      "sqft": "n/a",
+      "neighborhood": "lower nob hill",
+      "posted": "n/a",
+      "url": "https://www.craigslist.org/view/d/san-francisco-tmlp-12-mo-bright-airy-br/sLrCWDYe48TitAJ8dhcxtY"
+    },
+    {
       "id": "cl-https://www.craigslist.org/view/d/san-francisco-tmlp-12-mo-live-steps/a2N626UsKbZUFVaDwjMLP1",
       "source": "Craigslist",
       "type": "standard rental",
@@ -650,6 +672,94 @@
       "neighborhood": "lower nob hill",
       "posted": "n/a",
       "url": "https://www.craigslist.org/view/d/san-francisco-tmlp-12-mo-modern-br-ba/7ouxi8imbk4XX6Snnkw7a3"
+    },
+    {
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-tmlp-12-mo-bright-airy-br/sLrCWDYe48TitAJ8dhcxtY",
+      "source": "Craigslist",
+      "type": "standard rental",
+      "title": "TMLP 12-mo. | Bright & Airy 1 BR - Reserved Parking, Pet Park, Package Lockers",
+      "price": "$3,256",
+      "sqft": "n/a",
+      "neighborhood": "lower nob hill",
+      "posted": "n/a",
+      "url": "https://www.craigslist.org/view/d/san-francisco-tmlp-12-mo-bright-airy-br/sLrCWDYe48TitAJ8dhcxtY"
+    },
+    {
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-tmlp-12-mo-live-steps/a2N626UsKbZUFVaDwjMLP1",
+      "source": "Craigslist",
+      "type": "standard rental",
+      "title": "TMLP 12-mo. | Live Steps from Financial District - Renovated 1 BR/1 BA Must-See!",
+      "price": "$3,256",
+      "sqft": "n/a",
+      "neighborhood": "lower nob hill",
+      "posted": "n/a",
+      "url": "https://www.craigslist.org/view/d/san-francisco-tmlp-12-mo-live-steps/a2N626UsKbZUFVaDwjMLP1"
+    },
+    {
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-tmlp-12-mo-spacious-br/nJsRh4yEhiXKxdBJRXazYU",
+      "source": "Craigslist",
+      "type": "standard rental",
+      "title": "TMLP 12-mo. | Spacious BR Options in Downtown SF-Renovated Kitchens Await!",
+      "price": "$3,256",
+      "sqft": "n/a",
+      "neighborhood": "lower nob hill",
+      "posted": "n/a",
+      "url": "https://www.craigslist.org/view/d/san-francisco-tmlp-12-mo-spacious-br/nJsRh4yEhiXKxdBJRXazYU"
+    },
+    {
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-tmlp-12-mo-experience/okD6CsD8ADhMyNBzaesnWD",
+      "source": "Craigslist",
+      "type": "standard rental",
+      "title": "TMLP 12-mo. | Experience Downtown Living-Private Balcony Options Available!",
+      "price": "$3,256",
+      "sqft": "n/a",
+      "neighborhood": "lower nob hill",
+      "posted": "n/a",
+      "url": "https://www.craigslist.org/view/d/san-francisco-tmlp-12-mo-experience/okD6CsD8ADhMyNBzaesnWD"
+    },
+    {
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-tmlp-12-mo-effortless/e7ymkhEeeK6m9SMv1ZyPxB",
+      "source": "Craigslist",
+      "type": "standard rental",
+      "title": "TMLP 12-mo. | Effortless Commute! Stylish 1 BR, Near Powell St BART & Shopping",
+      "price": "$3,256",
+      "sqft": "n/a",
+      "neighborhood": "lower nob hill",
+      "posted": "n/a",
+      "url": "https://www.craigslist.org/view/d/san-francisco-tmlp-12-mo-effortless/e7ymkhEeeK6m9SMv1ZyPxB"
+    },
+    {
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-tmlp-12-mo-limited/utVhjq9GUtbdzhYP6UVfL9",
+      "source": "Craigslist",
+      "type": "standard rental",
+      "title": "TMLP 12-mo. | Limited Availability! Renovated Kitchen, Natural Light, Downtown",
+      "price": "$3,256",
+      "sqft": "n/a",
+      "neighborhood": "lower nob hill",
+      "posted": "n/a",
+      "url": "https://www.craigslist.org/view/d/san-francisco-tmlp-12-mo-limited/utVhjq9GUtbdzhYP6UVfL9"
+    },
+    {
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-tmlp-12-mo-modern-br-ba/7ouxi8imbk4XX6Snnkw7a3",
+      "source": "Craigslist",
+      "type": "standard rental",
+      "title": "TMLP 12-mo. | Modern 1 BR/1 BA Gem in Lower Nob Hill - Huge Closets, AC, More!",
+      "price": "$3,256",
+      "sqft": "n/a",
+      "neighborhood": "lower nob hill",
+      "posted": "n/a",
+      "url": "https://www.craigslist.org/view/d/san-francisco-tmlp-12-mo-modern-br-ba/7ouxi8imbk4XX6Snnkw7a3"
+    },
+    {
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-tmlp-12-mo-bright-airy-br/sLrCWDYe48TitAJ8dhcxtY",
+      "source": "Craigslist",
+      "type": "standard rental",
+      "title": "TMLP 12-mo. | Bright & Airy 1 BR - Reserved Parking, Pet Park, Package Lockers",
+      "price": "$3,256",
+      "sqft": "n/a",
+      "neighborhood": "lower nob hill",
+      "posted": "n/a",
+      "url": "https://www.craigslist.org/view/d/san-francisco-tmlp-12-mo-bright-airy-br/sLrCWDYe48TitAJ8dhcxtY"
     },
     {
       "id": "cl-https://www.craigslist.org/view/d/san-francisco-tmlp-12-mo-live-steps/a2N626UsKbZUFVaDwjMLP1",
@@ -1213,7 +1323,7 @@
       "url": "https://www.craigslist.org/view/d/san-francisco-1bedroom-1bath-lower-nob/rtHRbWKqivUMtSwWVzu59W"
     },
     {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-845-californiastockton/dtn6sStFh8HoUm2HFDM6nA",
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-845-californiastockton/i1MxTye1e5Eq4FSrYjS65h",
       "source": "Craigslist",
       "type": "standard rental",
       "title": "845 California@Stockton/Amazing Views/W+D In Unit/Corner Unit/Pets OK!",
@@ -1221,10 +1331,10 @@
       "sqft": "n/a",
       "neighborhood": "nob hill",
       "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-845-californiastockton/dtn6sStFh8HoUm2HFDM6nA"
+      "url": "https://www.craigslist.org/view/d/san-francisco-845-californiastockton/i1MxTye1e5Eq4FSrYjS65h"
     },
     {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-845-californiastockton/dtn6sStFh8HoUm2HFDM6nA",
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-845-californiastockton/i1MxTye1e5Eq4FSrYjS65h",
       "source": "Craigslist",
       "type": "standard rental",
       "title": "845 California@Stockton/Amazing Views/W+D In Unit/Corner Unit/Pets OK!",
@@ -1232,10 +1342,10 @@
       "sqft": "n/a",
       "neighborhood": "nob hill",
       "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-845-californiastockton/dtn6sStFh8HoUm2HFDM6nA"
+      "url": "https://www.craigslist.org/view/d/san-francisco-845-californiastockton/i1MxTye1e5Eq4FSrYjS65h"
     },
     {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-845-californiastockton/dtn6sStFh8HoUm2HFDM6nA",
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-845-californiastockton/i1MxTye1e5Eq4FSrYjS65h",
       "source": "Craigslist",
       "type": "standard rental",
       "title": "845 California@Stockton/Amazing Views/W+D In Unit/Corner Unit/Pets OK!",
@@ -1243,10 +1353,10 @@
       "sqft": "n/a",
       "neighborhood": "nob hill",
       "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-845-californiastockton/dtn6sStFh8HoUm2HFDM6nA"
+      "url": "https://www.craigslist.org/view/d/san-francisco-845-californiastockton/i1MxTye1e5Eq4FSrYjS65h"
     },
     {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-845-californiastockton/dtn6sStFh8HoUm2HFDM6nA",
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-845-californiastockton/i1MxTye1e5Eq4FSrYjS65h",
       "source": "Craigslist",
       "type": "standard rental",
       "title": "845 California@Stockton/Amazing Views/W+D In Unit/Corner Unit/Pets OK!",
@@ -1254,10 +1364,10 @@
       "sqft": "n/a",
       "neighborhood": "nob hill",
       "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-845-californiastockton/dtn6sStFh8HoUm2HFDM6nA"
+      "url": "https://www.craigslist.org/view/d/san-francisco-845-californiastockton/i1MxTye1e5Eq4FSrYjS65h"
     },
     {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-845-californiastockton/dtn6sStFh8HoUm2HFDM6nA",
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-845-californiastockton/i1MxTye1e5Eq4FSrYjS65h",
       "source": "Craigslist",
       "type": "standard rental",
       "title": "845 California@Stockton/Amazing Views/W+D In Unit/Corner Unit/Pets OK!",
@@ -1265,7 +1375,7 @@
       "sqft": "n/a",
       "neighborhood": "nob hill",
       "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-845-californiastockton/dtn6sStFh8HoUm2HFDM6nA"
+      "url": "https://www.craigslist.org/view/d/san-francisco-845-californiastockton/i1MxTye1e5Eq4FSrYjS65h"
     },
     {
       "id": "cl-https://www.craigslist.org/view/d/san-francisco-nob-hill-655powellpine-d/hHUwWQRFHgyVmWbtPEf4UZ",
@@ -1488,29 +1598,7 @@
       "url": "https://www.craigslist.org/view/d/san-francisco-1br-bright-bay-windows-in/vGoBj2fDCg59A9aL7KJRhH"
     },
     {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-50-joice-st-14/oWF7da4oGXBSnunpf5oP2f",
-      "source": "Craigslist",
-      "type": "standard rental",
-      "title": "50 Joice St - 14",
-      "price": "$4,425",
-      "sqft": "n/a",
-      "neighborhood": "Nob Hill",
-      "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-50-joice-st-14/oWF7da4oGXBSnunpf5oP2f"
-    },
-    {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-updated-1br-1ba-laundry/xkDB71nxeWaH8aRCYdhkpq",
-      "source": "Craigslist",
-      "type": "standard rental",
-      "title": "Updated 1BR/1BA Laundry In Unit Outdoor Access Pets OK",
-      "price": "$4,425",
-      "sqft": "n/a",
-      "neighborhood": "nob hill",
-      "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-updated-1br-1ba-laundry/xkDB71nxeWaH8aRCYdhkpq"
-    },
-    {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-50-joicecalifornia-nice/wndEfF3r5Mpe5Net6hjyTP",
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-50-joicecalifornia-nice/wfeEuqun95Z8375EwPqc3d",
       "source": "Craigslist",
       "type": "standard rental",
       "title": "50 Joice@California/Nice Layout/W+D In Unit/Garden View/Nr. MUNI+BART",
@@ -1518,40 +1606,7 @@
       "sqft": "n/a",
       "neighborhood": "nob hill",
       "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-50-joicecalifornia-nice/wndEfF3r5Mpe5Net6hjyTP"
-    },
-    {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-50-joice-st-14/oWF7da4oGXBSnunpf5oP2f",
-      "source": "Craigslist",
-      "type": "standard rental",
-      "title": "50 Joice St - 14",
-      "price": "$4,425",
-      "sqft": "n/a",
-      "neighborhood": "Nob Hill",
-      "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-50-joice-st-14/oWF7da4oGXBSnunpf5oP2f"
-    },
-    {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-updated-1br-1ba-laundry/xkDB71nxeWaH8aRCYdhkpq",
-      "source": "Craigslist",
-      "type": "standard rental",
-      "title": "Updated 1BR/1BA Laundry In Unit Outdoor Access Pets OK",
-      "price": "$4,425",
-      "sqft": "n/a",
-      "neighborhood": "nob hill",
-      "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-updated-1br-1ba-laundry/xkDB71nxeWaH8aRCYdhkpq"
-    },
-    {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-50-joicecalifornia-nice/wndEfF3r5Mpe5Net6hjyTP",
-      "source": "Craigslist",
-      "type": "standard rental",
-      "title": "50 Joice@California/Nice Layout/W+D In Unit/Garden View/Nr. MUNI+BART",
-      "price": "$4,425",
-      "sqft": "n/a",
-      "neighborhood": "nob hill",
-      "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-50-joicecalifornia-nice/wndEfF3r5Mpe5Net6hjyTP"
+      "url": "https://www.craigslist.org/view/d/san-francisco-50-joicecalifornia-nice/wfeEuqun95Z8375EwPqc3d"
     },
     {
       "id": "cl-https://www.craigslist.org/view/d/san-francisco-50-joice-st-14/oWF7da4oGXBSnunpf5oP2f",
@@ -1576,7 +1631,7 @@
       "url": "https://www.craigslist.org/view/d/san-francisco-updated-1br-1ba-laundry/xkDB71nxeWaH8aRCYdhkpq"
     },
     {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-50-joicecalifornia-nice/wndEfF3r5Mpe5Net6hjyTP",
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-50-joicecalifornia-nice/wfeEuqun95Z8375EwPqc3d",
       "source": "Craigslist",
       "type": "standard rental",
       "title": "50 Joice@California/Nice Layout/W+D In Unit/Garden View/Nr. MUNI+BART",
@@ -1584,7 +1639,7 @@
       "sqft": "n/a",
       "neighborhood": "nob hill",
       "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-50-joicecalifornia-nice/wndEfF3r5Mpe5Net6hjyTP"
+      "url": "https://www.craigslist.org/view/d/san-francisco-50-joicecalifornia-nice/wfeEuqun95Z8375EwPqc3d"
     },
     {
       "id": "cl-https://www.craigslist.org/view/d/san-francisco-50-joice-st-14/oWF7da4oGXBSnunpf5oP2f",
@@ -1609,7 +1664,7 @@
       "url": "https://www.craigslist.org/view/d/san-francisco-updated-1br-1ba-laundry/xkDB71nxeWaH8aRCYdhkpq"
     },
     {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-50-joicecalifornia-nice/wndEfF3r5Mpe5Net6hjyTP",
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-50-joicecalifornia-nice/wfeEuqun95Z8375EwPqc3d",
       "source": "Craigslist",
       "type": "standard rental",
       "title": "50 Joice@California/Nice Layout/W+D In Unit/Garden View/Nr. MUNI+BART",
@@ -1617,7 +1672,7 @@
       "sqft": "n/a",
       "neighborhood": "nob hill",
       "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-50-joicecalifornia-nice/wndEfF3r5Mpe5Net6hjyTP"
+      "url": "https://www.craigslist.org/view/d/san-francisco-50-joicecalifornia-nice/wfeEuqun95Z8375EwPqc3d"
     },
     {
       "id": "cl-https://www.craigslist.org/view/d/san-francisco-50-joice-st-14/oWF7da4oGXBSnunpf5oP2f",
@@ -1642,7 +1697,7 @@
       "url": "https://www.craigslist.org/view/d/san-francisco-updated-1br-1ba-laundry/xkDB71nxeWaH8aRCYdhkpq"
     },
     {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-50-joicecalifornia-nice/wndEfF3r5Mpe5Net6hjyTP",
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-50-joicecalifornia-nice/wfeEuqun95Z8375EwPqc3d",
       "source": "Craigslist",
       "type": "standard rental",
       "title": "50 Joice@California/Nice Layout/W+D In Unit/Garden View/Nr. MUNI+BART",
@@ -1650,7 +1705,62 @@
       "sqft": "n/a",
       "neighborhood": "nob hill",
       "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-50-joicecalifornia-nice/wndEfF3r5Mpe5Net6hjyTP"
+      "url": "https://www.craigslist.org/view/d/san-francisco-50-joicecalifornia-nice/wfeEuqun95Z8375EwPqc3d"
+    },
+    {
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-50-joice-st-14/oWF7da4oGXBSnunpf5oP2f",
+      "source": "Craigslist",
+      "type": "standard rental",
+      "title": "50 Joice St - 14",
+      "price": "$4,425",
+      "sqft": "n/a",
+      "neighborhood": "Nob Hill",
+      "posted": "n/a",
+      "url": "https://www.craigslist.org/view/d/san-francisco-50-joice-st-14/oWF7da4oGXBSnunpf5oP2f"
+    },
+    {
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-updated-1br-1ba-laundry/xkDB71nxeWaH8aRCYdhkpq",
+      "source": "Craigslist",
+      "type": "standard rental",
+      "title": "Updated 1BR/1BA Laundry In Unit Outdoor Access Pets OK",
+      "price": "$4,425",
+      "sqft": "n/a",
+      "neighborhood": "nob hill",
+      "posted": "n/a",
+      "url": "https://www.craigslist.org/view/d/san-francisco-updated-1br-1ba-laundry/xkDB71nxeWaH8aRCYdhkpq"
+    },
+    {
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-50-joicecalifornia-nice/wfeEuqun95Z8375EwPqc3d",
+      "source": "Craigslist",
+      "type": "standard rental",
+      "title": "50 Joice@California/Nice Layout/W+D In Unit/Garden View/Nr. MUNI+BART",
+      "price": "$4,425",
+      "sqft": "n/a",
+      "neighborhood": "nob hill",
+      "posted": "n/a",
+      "url": "https://www.craigslist.org/view/d/san-francisco-50-joicecalifornia-nice/wfeEuqun95Z8375EwPqc3d"
+    },
+    {
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-50-joice-st-14/oWF7da4oGXBSnunpf5oP2f",
+      "source": "Craigslist",
+      "type": "standard rental",
+      "title": "50 Joice St - 14",
+      "price": "$4,425",
+      "sqft": "n/a",
+      "neighborhood": "Nob Hill",
+      "posted": "n/a",
+      "url": "https://www.craigslist.org/view/d/san-francisco-50-joice-st-14/oWF7da4oGXBSnunpf5oP2f"
+    },
+    {
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-updated-1br-1ba-laundry/xkDB71nxeWaH8aRCYdhkpq",
+      "source": "Craigslist",
+      "type": "standard rental",
+      "title": "Updated 1BR/1BA Laundry In Unit Outdoor Access Pets OK",
+      "price": "$4,425",
+      "sqft": "n/a",
+      "neighborhood": "nob hill",
+      "posted": "n/a",
+      "url": "https://www.craigslist.org/view/d/san-francisco-updated-1br-1ba-laundry/xkDB71nxeWaH8aRCYdhkpq"
     },
     {
       "id": "cl-https://www.craigslist.org/view/d/san-francisco-lower-nob-hill/7Sq5oZNzWv86ucEjD5Y1mg",
@@ -1873,6 +1983,17 @@
       "url": "https://www.craigslist.org/view/d/san-francisco-bedroom-hardwood-floor/cFxw94p4vubbrAaYyApEzF"
     },
     {
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-1547-claylarkin-classic/rVhEZkinrGaoVRNnXTtbxC",
+      "source": "Craigslist",
+      "type": "standard rental",
+      "title": "1547 Clay@Larkin/Classic Nob Hill Apt./View/Near Cafes + Shops/Pets OK",
+      "price": "$4,640",
+      "sqft": "n/a",
+      "neighborhood": "nob hill",
+      "posted": "n/a",
+      "url": "https://www.craigslist.org/view/d/san-francisco-1547-claylarkin-classic/rVhEZkinrGaoVRNnXTtbxC"
+    },
+    {
       "id": "cl-https://www.craigslist.org/view/d/san-francisco-1547-clay-amazing-1x1/m2i6myUxFDdrhfpGEyiHRo",
       "source": "Craigslist",
       "type": "standard rental",
@@ -1904,17 +2025,6 @@
       "neighborhood": "nob hill",
       "posted": "n/a",
       "url": "https://www.craigslist.org/view/d/san-francisco-bright-top-floor-1br-1ba/he41RKcEf3NUQdBuMYDVJj"
-    },
-    {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-1547-claylarkin-classic/5WWsi37NoaJENzFxkn9TMf",
-      "source": "Craigslist",
-      "type": "standard rental",
-      "title": "1547 Clay@Larkin/Classic Nob Hill Apt./View/Near Cafes + Shops/Pets OK",
-      "price": "$4,640",
-      "sqft": "n/a",
-      "neighborhood": "nob hill",
-      "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-1547-claylarkin-classic/5WWsi37NoaJENzFxkn9TMf"
     },
     {
       "id": "cl-https://www.craigslist.org/view/d/san-francisco-50-joice-14-charmin-1x1/mQcLFvD9iKwyCRH7Czot82",
@@ -1939,6 +2049,17 @@
       "url": "https://www.craigslist.org/view/d/san-francisco-gorgeous-1x1-in-nob-hill/hjuxKJpbJJtciv3hMyJ2TJ"
     },
     {
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-1547-claylarkin-classic/rVhEZkinrGaoVRNnXTtbxC",
+      "source": "Craigslist",
+      "type": "standard rental",
+      "title": "1547 Clay@Larkin/Classic Nob Hill Apt./View/Near Cafes + Shops/Pets OK",
+      "price": "$4,640",
+      "sqft": "n/a",
+      "neighborhood": "nob hill",
+      "posted": "n/a",
+      "url": "https://www.craigslist.org/view/d/san-francisco-1547-claylarkin-classic/rVhEZkinrGaoVRNnXTtbxC"
+    },
+    {
       "id": "cl-https://www.craigslist.org/view/d/san-francisco-1547-clay-amazing-1x1/m2i6myUxFDdrhfpGEyiHRo",
       "source": "Craigslist",
       "type": "standard rental",
@@ -1970,17 +2091,6 @@
       "neighborhood": "nob hill",
       "posted": "n/a",
       "url": "https://www.craigslist.org/view/d/san-francisco-bright-top-floor-1br-1ba/he41RKcEf3NUQdBuMYDVJj"
-    },
-    {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-1547-claylarkin-classic/5WWsi37NoaJENzFxkn9TMf",
-      "source": "Craigslist",
-      "type": "standard rental",
-      "title": "1547 Clay@Larkin/Classic Nob Hill Apt./View/Near Cafes + Shops/Pets OK",
-      "price": "$4,640",
-      "sqft": "n/a",
-      "neighborhood": "nob hill",
-      "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-1547-claylarkin-classic/5WWsi37NoaJENzFxkn9TMf"
     },
     {
       "id": "cl-https://www.craigslist.org/view/d/san-francisco-50-joice-14-charmin-1x1/mQcLFvD9iKwyCRH7Czot82",
@@ -2005,6 +2115,17 @@
       "url": "https://www.craigslist.org/view/d/san-francisco-gorgeous-1x1-in-nob-hill/hjuxKJpbJJtciv3hMyJ2TJ"
     },
     {
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-1547-claylarkin-classic/rVhEZkinrGaoVRNnXTtbxC",
+      "source": "Craigslist",
+      "type": "standard rental",
+      "title": "1547 Clay@Larkin/Classic Nob Hill Apt./View/Near Cafes + Shops/Pets OK",
+      "price": "$4,640",
+      "sqft": "n/a",
+      "neighborhood": "nob hill",
+      "posted": "n/a",
+      "url": "https://www.craigslist.org/view/d/san-francisco-1547-claylarkin-classic/rVhEZkinrGaoVRNnXTtbxC"
+    },
+    {
       "id": "cl-https://www.craigslist.org/view/d/san-francisco-1547-clay-amazing-1x1/m2i6myUxFDdrhfpGEyiHRo",
       "source": "Craigslist",
       "type": "standard rental",
@@ -2036,17 +2157,6 @@
       "neighborhood": "nob hill",
       "posted": "n/a",
       "url": "https://www.craigslist.org/view/d/san-francisco-bright-top-floor-1br-1ba/he41RKcEf3NUQdBuMYDVJj"
-    },
-    {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-1547-claylarkin-classic/5WWsi37NoaJENzFxkn9TMf",
-      "source": "Craigslist",
-      "type": "standard rental",
-      "title": "1547 Clay@Larkin/Classic Nob Hill Apt./View/Near Cafes + Shops/Pets OK",
-      "price": "$4,640",
-      "sqft": "n/a",
-      "neighborhood": "nob hill",
-      "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-1547-claylarkin-classic/5WWsi37NoaJENzFxkn9TMf"
     },
     {
       "id": "cl-https://www.craigslist.org/view/d/san-francisco-50-joice-14-charmin-1x1/mQcLFvD9iKwyCRH7Czot82",
@@ -2071,6 +2181,17 @@
       "url": "https://www.craigslist.org/view/d/san-francisco-gorgeous-1x1-in-nob-hill/hjuxKJpbJJtciv3hMyJ2TJ"
     },
     {
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-1547-claylarkin-classic/rVhEZkinrGaoVRNnXTtbxC",
+      "source": "Craigslist",
+      "type": "standard rental",
+      "title": "1547 Clay@Larkin/Classic Nob Hill Apt./View/Near Cafes + Shops/Pets OK",
+      "price": "$4,640",
+      "sqft": "n/a",
+      "neighborhood": "nob hill",
+      "posted": "n/a",
+      "url": "https://www.craigslist.org/view/d/san-francisco-1547-claylarkin-classic/rVhEZkinrGaoVRNnXTtbxC"
+    },
+    {
       "id": "cl-https://www.craigslist.org/view/d/san-francisco-1547-clay-amazing-1x1/m2i6myUxFDdrhfpGEyiHRo",
       "source": "Craigslist",
       "type": "standard rental",
@@ -2102,17 +2223,6 @@
       "neighborhood": "nob hill",
       "posted": "n/a",
       "url": "https://www.craigslist.org/view/d/san-francisco-bright-top-floor-1br-1ba/he41RKcEf3NUQdBuMYDVJj"
-    },
-    {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-1547-claylarkin-classic/5WWsi37NoaJENzFxkn9TMf",
-      "source": "Craigslist",
-      "type": "standard rental",
-      "title": "1547 Clay@Larkin/Classic Nob Hill Apt./View/Near Cafes + Shops/Pets OK",
-      "price": "$4,640",
-      "sqft": "n/a",
-      "neighborhood": "nob hill",
-      "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-1547-claylarkin-classic/5WWsi37NoaJENzFxkn9TMf"
     },
     {
       "id": "cl-https://www.craigslist.org/view/d/san-francisco-50-joice-14-charmin-1x1/mQcLFvD9iKwyCRH7Czot82",
@@ -2137,6 +2247,17 @@
       "url": "https://www.craigslist.org/view/d/san-francisco-gorgeous-1x1-in-nob-hill/hjuxKJpbJJtciv3hMyJ2TJ"
     },
     {
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-1547-claylarkin-classic/rVhEZkinrGaoVRNnXTtbxC",
+      "source": "Craigslist",
+      "type": "standard rental",
+      "title": "1547 Clay@Larkin/Classic Nob Hill Apt./View/Near Cafes + Shops/Pets OK",
+      "price": "$4,640",
+      "sqft": "n/a",
+      "neighborhood": "nob hill",
+      "posted": "n/a",
+      "url": "https://www.craigslist.org/view/d/san-francisco-1547-claylarkin-classic/rVhEZkinrGaoVRNnXTtbxC"
+    },
+    {
       "id": "cl-https://www.craigslist.org/view/d/san-francisco-1547-clay-amazing-1x1/m2i6myUxFDdrhfpGEyiHRo",
       "source": "Craigslist",
       "type": "standard rental",
@@ -2168,17 +2289,6 @@
       "neighborhood": "nob hill",
       "posted": "n/a",
       "url": "https://www.craigslist.org/view/d/san-francisco-bright-top-floor-1br-1ba/he41RKcEf3NUQdBuMYDVJj"
-    },
-    {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-1547-claylarkin-classic/5WWsi37NoaJENzFxkn9TMf",
-      "source": "Craigslist",
-      "type": "standard rental",
-      "title": "1547 Clay@Larkin/Classic Nob Hill Apt./View/Near Cafes + Shops/Pets OK",
-      "price": "$4,640",
-      "sqft": "n/a",
-      "neighborhood": "nob hill",
-      "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-1547-claylarkin-classic/5WWsi37NoaJENzFxkn9TMf"
     },
     {
       "id": "cl-https://www.craigslist.org/view/d/san-francisco-50-joice-14-charmin-1x1/mQcLFvD9iKwyCRH7Czot82",
@@ -2368,29 +2478,7 @@
       "url": "https://www.craigslist.org/view/d/san-francisco-6th-floor-jr1x1-for-rent/uVZog52RJ8s32RWk369P2S"
     },
     {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-spacious-updated-1br-1ba/jy39Hj2wKb4Vm6Ye55dU64",
-      "source": "Craigslist",
-      "type": "standard rental",
-      "title": "Spacious Updated 1BR/1BA Close To Fidi Laundry On Site Pets OK",
-      "price": "$4,925",
-      "sqft": "n/a",
-      "neighborhood": "nob hill",
-      "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-spacious-updated-1br-1ba/jy39Hj2wKb4Vm6Ye55dU64"
-    },
-    {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-814-california-st/q9ssVGELevLCz4svipyHiC",
-      "source": "Craigslist",
-      "type": "standard rental",
-      "title": "814 California St - 2",
-      "price": "$4,925",
-      "sqft": "n/a",
-      "neighborhood": "Nob Hill",
-      "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-814-california-st/q9ssVGELevLCz4svipyHiC"
-    },
-    {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-814-californiapratt/bvperfLhLj7SrHojRsh4TN",
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-814-californiapratt/ovYnoAyM8ezZA9Q7NDckp4",
       "source": "Craigslist",
       "type": "standard rental",
       "title": "814 California@Pratt/Charming 1BR/DW/Bay Windows/Near BART + MUNI!",
@@ -2398,40 +2486,7 @@
       "sqft": "n/a",
       "neighborhood": "nob hill",
       "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-814-californiapratt/bvperfLhLj7SrHojRsh4TN"
-    },
-    {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-spacious-updated-1br-1ba/jy39Hj2wKb4Vm6Ye55dU64",
-      "source": "Craigslist",
-      "type": "standard rental",
-      "title": "Spacious Updated 1BR/1BA Close To Fidi Laundry On Site Pets OK",
-      "price": "$4,925",
-      "sqft": "n/a",
-      "neighborhood": "nob hill",
-      "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-spacious-updated-1br-1ba/jy39Hj2wKb4Vm6Ye55dU64"
-    },
-    {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-814-california-st/q9ssVGELevLCz4svipyHiC",
-      "source": "Craigslist",
-      "type": "standard rental",
-      "title": "814 California St - 2",
-      "price": "$4,925",
-      "sqft": "n/a",
-      "neighborhood": "Nob Hill",
-      "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-814-california-st/q9ssVGELevLCz4svipyHiC"
-    },
-    {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-814-californiapratt/bvperfLhLj7SrHojRsh4TN",
-      "source": "Craigslist",
-      "type": "standard rental",
-      "title": "814 California@Pratt/Charming 1BR/DW/Bay Windows/Near BART + MUNI!",
-      "price": "$4,925",
-      "sqft": "n/a",
-      "neighborhood": "nob hill",
-      "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-814-californiapratt/bvperfLhLj7SrHojRsh4TN"
+      "url": "https://www.craigslist.org/view/d/san-francisco-814-californiapratt/ovYnoAyM8ezZA9Q7NDckp4"
     },
     {
       "id": "cl-https://www.craigslist.org/view/d/san-francisco-spacious-updated-1br-1ba/jy39Hj2wKb4Vm6Ye55dU64",
@@ -2456,7 +2511,7 @@
       "url": "https://www.craigslist.org/view/d/san-francisco-814-california-st/q9ssVGELevLCz4svipyHiC"
     },
     {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-814-californiapratt/bvperfLhLj7SrHojRsh4TN",
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-814-californiapratt/ovYnoAyM8ezZA9Q7NDckp4",
       "source": "Craigslist",
       "type": "standard rental",
       "title": "814 California@Pratt/Charming 1BR/DW/Bay Windows/Near BART + MUNI!",
@@ -2464,7 +2519,7 @@
       "sqft": "n/a",
       "neighborhood": "nob hill",
       "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-814-californiapratt/bvperfLhLj7SrHojRsh4TN"
+      "url": "https://www.craigslist.org/view/d/san-francisco-814-californiapratt/ovYnoAyM8ezZA9Q7NDckp4"
     },
     {
       "id": "cl-https://www.craigslist.org/view/d/san-francisco-spacious-updated-1br-1ba/jy39Hj2wKb4Vm6Ye55dU64",
@@ -2489,7 +2544,7 @@
       "url": "https://www.craigslist.org/view/d/san-francisco-814-california-st/q9ssVGELevLCz4svipyHiC"
     },
     {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-814-californiapratt/bvperfLhLj7SrHojRsh4TN",
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-814-californiapratt/ovYnoAyM8ezZA9Q7NDckp4",
       "source": "Craigslist",
       "type": "standard rental",
       "title": "814 California@Pratt/Charming 1BR/DW/Bay Windows/Near BART + MUNI!",
@@ -2497,7 +2552,7 @@
       "sqft": "n/a",
       "neighborhood": "nob hill",
       "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-814-californiapratt/bvperfLhLj7SrHojRsh4TN"
+      "url": "https://www.craigslist.org/view/d/san-francisco-814-californiapratt/ovYnoAyM8ezZA9Q7NDckp4"
     },
     {
       "id": "cl-https://www.craigslist.org/view/d/san-francisco-spacious-updated-1br-1ba/jy39Hj2wKb4Vm6Ye55dU64",
@@ -2522,7 +2577,7 @@
       "url": "https://www.craigslist.org/view/d/san-francisco-814-california-st/q9ssVGELevLCz4svipyHiC"
     },
     {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-814-californiapratt/bvperfLhLj7SrHojRsh4TN",
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-814-californiapratt/ovYnoAyM8ezZA9Q7NDckp4",
       "source": "Craigslist",
       "type": "standard rental",
       "title": "814 California@Pratt/Charming 1BR/DW/Bay Windows/Near BART + MUNI!",
@@ -2530,7 +2585,84 @@
       "sqft": "n/a",
       "neighborhood": "nob hill",
       "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-814-californiapratt/bvperfLhLj7SrHojRsh4TN"
+      "url": "https://www.craigslist.org/view/d/san-francisco-814-californiapratt/ovYnoAyM8ezZA9Q7NDckp4"
+    },
+    {
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-spacious-updated-1br-1ba/jy39Hj2wKb4Vm6Ye55dU64",
+      "source": "Craigslist",
+      "type": "standard rental",
+      "title": "Spacious Updated 1BR/1BA Close To Fidi Laundry On Site Pets OK",
+      "price": "$4,925",
+      "sqft": "n/a",
+      "neighborhood": "nob hill",
+      "posted": "n/a",
+      "url": "https://www.craigslist.org/view/d/san-francisco-spacious-updated-1br-1ba/jy39Hj2wKb4Vm6Ye55dU64"
+    },
+    {
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-814-california-st/q9ssVGELevLCz4svipyHiC",
+      "source": "Craigslist",
+      "type": "standard rental",
+      "title": "814 California St - 2",
+      "price": "$4,925",
+      "sqft": "n/a",
+      "neighborhood": "Nob Hill",
+      "posted": "n/a",
+      "url": "https://www.craigslist.org/view/d/san-francisco-814-california-st/q9ssVGELevLCz4svipyHiC"
+    },
+    {
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-814-californiapratt/ovYnoAyM8ezZA9Q7NDckp4",
+      "source": "Craigslist",
+      "type": "standard rental",
+      "title": "814 California@Pratt/Charming 1BR/DW/Bay Windows/Near BART + MUNI!",
+      "price": "$4,925",
+      "sqft": "n/a",
+      "neighborhood": "nob hill",
+      "posted": "n/a",
+      "url": "https://www.craigslist.org/view/d/san-francisco-814-californiapratt/ovYnoAyM8ezZA9Q7NDckp4"
+    },
+    {
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-spacious-updated-1br-1ba/jy39Hj2wKb4Vm6Ye55dU64",
+      "source": "Craigslist",
+      "type": "standard rental",
+      "title": "Spacious Updated 1BR/1BA Close To Fidi Laundry On Site Pets OK",
+      "price": "$4,925",
+      "sqft": "n/a",
+      "neighborhood": "nob hill",
+      "posted": "n/a",
+      "url": "https://www.craigslist.org/view/d/san-francisco-spacious-updated-1br-1ba/jy39Hj2wKb4Vm6Ye55dU64"
+    },
+    {
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-814-california-st/q9ssVGELevLCz4svipyHiC",
+      "source": "Craigslist",
+      "type": "standard rental",
+      "title": "814 California St - 2",
+      "price": "$4,925",
+      "sqft": "n/a",
+      "neighborhood": "Nob Hill",
+      "posted": "n/a",
+      "url": "https://www.craigslist.org/view/d/san-francisco-814-california-st/q9ssVGELevLCz4svipyHiC"
+    },
+    {
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-spacious-bright-updated/iz2NJg3cocKBpJjXduvHCu",
+      "source": "Craigslist",
+      "type": "standard rental",
+      "title": "Spacious Bright Updated 1BR/1BA Laundry In Unit Pet Friendly",
+      "price": "$4,940",
+      "sqft": "n/a",
+      "neighborhood": "nob hill",
+      "posted": "n/a",
+      "url": "https://www.craigslist.org/view/d/san-francisco-spacious-bright-updated/iz2NJg3cocKBpJjXduvHCu"
+    },
+    {
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-1401-joneswashington/6rEoAkcse9a3LYF8y46JKe",
+      "source": "Craigslist",
+      "type": "standard rental",
+      "title": "1401 Jones@Washington/Classic Style/Bay Windows/W+D/Corner Unit!",
+      "price": "$4,940",
+      "sqft": "n/a",
+      "neighborhood": "nob hill",
+      "posted": "n/a",
+      "url": "https://www.craigslist.org/view/d/san-francisco-1401-joneswashington/6rEoAkcse9a3LYF8y46JKe"
     },
     {
       "id": "cl-https://www.craigslist.org/view/d/san-francisco-1401-jones-gorgeous-1x1/qdVMrGzVyXTgeu9AQ1fZbi",
@@ -2553,28 +2685,6 @@
       "neighborhood": "Nob Hill",
       "posted": "n/a",
       "url": "https://www.craigslist.org/view/d/san-francisco-1401-jones-st-202/sVh86Tzo5Tm2MZiwdzfke9"
-    },
-    {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-spacious-bright-updated/c7kCCAxp7ZW21NjM3zZLqw",
-      "source": "Craigslist",
-      "type": "standard rental",
-      "title": "Spacious Bright Updated 1BR/1BA Laundry In Unit Pet Friendly",
-      "price": "$4,940",
-      "sqft": "n/a",
-      "neighborhood": "nob hill",
-      "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-spacious-bright-updated/c7kCCAxp7ZW21NjM3zZLqw"
-    },
-    {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-1401-joneswashington/rPYDmF3a7XzJMpoCvtpyp6",
-      "source": "Craigslist",
-      "type": "standard rental",
-      "title": "1401 Jones@Washington/Classic Style/Bay Windows/W+D/Corner Unit!",
-      "price": "$4,940",
-      "sqft": "n/a",
-      "neighborhood": "nob hill",
-      "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-1401-joneswashington/rPYDmF3a7XzJMpoCvtpyp6"
     },
     {
       "id": "cl-https://www.craigslist.org/view/d/san-francisco-th-st-charming-1x1-wd-in/raAWJF6v5gQE8rkVirmeoW",
@@ -2588,6 +2698,28 @@
       "url": "https://www.craigslist.org/view/d/san-francisco-th-st-charming-1x1-wd-in/raAWJF6v5gQE8rkVirmeoW"
     },
     {
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-spacious-bright-updated/iz2NJg3cocKBpJjXduvHCu",
+      "source": "Craigslist",
+      "type": "standard rental",
+      "title": "Spacious Bright Updated 1BR/1BA Laundry In Unit Pet Friendly",
+      "price": "$4,940",
+      "sqft": "n/a",
+      "neighborhood": "nob hill",
+      "posted": "n/a",
+      "url": "https://www.craigslist.org/view/d/san-francisco-spacious-bright-updated/iz2NJg3cocKBpJjXduvHCu"
+    },
+    {
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-1401-joneswashington/6rEoAkcse9a3LYF8y46JKe",
+      "source": "Craigslist",
+      "type": "standard rental",
+      "title": "1401 Jones@Washington/Classic Style/Bay Windows/W+D/Corner Unit!",
+      "price": "$4,940",
+      "sqft": "n/a",
+      "neighborhood": "nob hill",
+      "posted": "n/a",
+      "url": "https://www.craigslist.org/view/d/san-francisco-1401-joneswashington/6rEoAkcse9a3LYF8y46JKe"
+    },
+    {
       "id": "cl-https://www.craigslist.org/view/d/san-francisco-1401-jones-gorgeous-1x1/qdVMrGzVyXTgeu9AQ1fZbi",
       "source": "Craigslist",
       "type": "standard rental",
@@ -2608,28 +2740,6 @@
       "neighborhood": "Nob Hill",
       "posted": "n/a",
       "url": "https://www.craigslist.org/view/d/san-francisco-1401-jones-st-202/sVh86Tzo5Tm2MZiwdzfke9"
-    },
-    {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-spacious-bright-updated/c7kCCAxp7ZW21NjM3zZLqw",
-      "source": "Craigslist",
-      "type": "standard rental",
-      "title": "Spacious Bright Updated 1BR/1BA Laundry In Unit Pet Friendly",
-      "price": "$4,940",
-      "sqft": "n/a",
-      "neighborhood": "nob hill",
-      "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-spacious-bright-updated/c7kCCAxp7ZW21NjM3zZLqw"
-    },
-    {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-1401-joneswashington/rPYDmF3a7XzJMpoCvtpyp6",
-      "source": "Craigslist",
-      "type": "standard rental",
-      "title": "1401 Jones@Washington/Classic Style/Bay Windows/W+D/Corner Unit!",
-      "price": "$4,940",
-      "sqft": "n/a",
-      "neighborhood": "nob hill",
-      "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-1401-joneswashington/rPYDmF3a7XzJMpoCvtpyp6"
     },
     {
       "id": "cl-https://www.craigslist.org/view/d/san-francisco-th-st-charming-1x1-wd-in/raAWJF6v5gQE8rkVirmeoW",
@@ -2643,6 +2753,28 @@
       "url": "https://www.craigslist.org/view/d/san-francisco-th-st-charming-1x1-wd-in/raAWJF6v5gQE8rkVirmeoW"
     },
     {
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-spacious-bright-updated/iz2NJg3cocKBpJjXduvHCu",
+      "source": "Craigslist",
+      "type": "standard rental",
+      "title": "Spacious Bright Updated 1BR/1BA Laundry In Unit Pet Friendly",
+      "price": "$4,940",
+      "sqft": "n/a",
+      "neighborhood": "nob hill",
+      "posted": "n/a",
+      "url": "https://www.craigslist.org/view/d/san-francisco-spacious-bright-updated/iz2NJg3cocKBpJjXduvHCu"
+    },
+    {
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-1401-joneswashington/6rEoAkcse9a3LYF8y46JKe",
+      "source": "Craigslist",
+      "type": "standard rental",
+      "title": "1401 Jones@Washington/Classic Style/Bay Windows/W+D/Corner Unit!",
+      "price": "$4,940",
+      "sqft": "n/a",
+      "neighborhood": "nob hill",
+      "posted": "n/a",
+      "url": "https://www.craigslist.org/view/d/san-francisco-1401-joneswashington/6rEoAkcse9a3LYF8y46JKe"
+    },
+    {
       "id": "cl-https://www.craigslist.org/view/d/san-francisco-1401-jones-gorgeous-1x1/qdVMrGzVyXTgeu9AQ1fZbi",
       "source": "Craigslist",
       "type": "standard rental",
@@ -2663,28 +2795,6 @@
       "neighborhood": "Nob Hill",
       "posted": "n/a",
       "url": "https://www.craigslist.org/view/d/san-francisco-1401-jones-st-202/sVh86Tzo5Tm2MZiwdzfke9"
-    },
-    {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-spacious-bright-updated/c7kCCAxp7ZW21NjM3zZLqw",
-      "source": "Craigslist",
-      "type": "standard rental",
-      "title": "Spacious Bright Updated 1BR/1BA Laundry In Unit Pet Friendly",
-      "price": "$4,940",
-      "sqft": "n/a",
-      "neighborhood": "nob hill",
-      "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-spacious-bright-updated/c7kCCAxp7ZW21NjM3zZLqw"
-    },
-    {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-1401-joneswashington/rPYDmF3a7XzJMpoCvtpyp6",
-      "source": "Craigslist",
-      "type": "standard rental",
-      "title": "1401 Jones@Washington/Classic Style/Bay Windows/W+D/Corner Unit!",
-      "price": "$4,940",
-      "sqft": "n/a",
-      "neighborhood": "nob hill",
-      "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-1401-joneswashington/rPYDmF3a7XzJMpoCvtpyp6"
     },
     {
       "id": "cl-https://www.craigslist.org/view/d/san-francisco-th-st-charming-1x1-wd-in/raAWJF6v5gQE8rkVirmeoW",
@@ -2698,6 +2808,28 @@
       "url": "https://www.craigslist.org/view/d/san-francisco-th-st-charming-1x1-wd-in/raAWJF6v5gQE8rkVirmeoW"
     },
     {
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-spacious-bright-updated/iz2NJg3cocKBpJjXduvHCu",
+      "source": "Craigslist",
+      "type": "standard rental",
+      "title": "Spacious Bright Updated 1BR/1BA Laundry In Unit Pet Friendly",
+      "price": "$4,940",
+      "sqft": "n/a",
+      "neighborhood": "nob hill",
+      "posted": "n/a",
+      "url": "https://www.craigslist.org/view/d/san-francisco-spacious-bright-updated/iz2NJg3cocKBpJjXduvHCu"
+    },
+    {
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-1401-joneswashington/6rEoAkcse9a3LYF8y46JKe",
+      "source": "Craigslist",
+      "type": "standard rental",
+      "title": "1401 Jones@Washington/Classic Style/Bay Windows/W+D/Corner Unit!",
+      "price": "$4,940",
+      "sqft": "n/a",
+      "neighborhood": "nob hill",
+      "posted": "n/a",
+      "url": "https://www.craigslist.org/view/d/san-francisco-1401-joneswashington/6rEoAkcse9a3LYF8y46JKe"
+    },
+    {
       "id": "cl-https://www.craigslist.org/view/d/san-francisco-1401-jones-gorgeous-1x1/qdVMrGzVyXTgeu9AQ1fZbi",
       "source": "Craigslist",
       "type": "standard rental",
@@ -2718,28 +2850,6 @@
       "neighborhood": "Nob Hill",
       "posted": "n/a",
       "url": "https://www.craigslist.org/view/d/san-francisco-1401-jones-st-202/sVh86Tzo5Tm2MZiwdzfke9"
-    },
-    {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-spacious-bright-updated/c7kCCAxp7ZW21NjM3zZLqw",
-      "source": "Craigslist",
-      "type": "standard rental",
-      "title": "Spacious Bright Updated 1BR/1BA Laundry In Unit Pet Friendly",
-      "price": "$4,940",
-      "sqft": "n/a",
-      "neighborhood": "nob hill",
-      "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-spacious-bright-updated/c7kCCAxp7ZW21NjM3zZLqw"
-    },
-    {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-1401-joneswashington/rPYDmF3a7XzJMpoCvtpyp6",
-      "source": "Craigslist",
-      "type": "standard rental",
-      "title": "1401 Jones@Washington/Classic Style/Bay Windows/W+D/Corner Unit!",
-      "price": "$4,940",
-      "sqft": "n/a",
-      "neighborhood": "nob hill",
-      "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-1401-joneswashington/rPYDmF3a7XzJMpoCvtpyp6"
     },
     {
       "id": "cl-https://www.craigslist.org/view/d/san-francisco-th-st-charming-1x1-wd-in/raAWJF6v5gQE8rkVirmeoW",
@@ -2753,6 +2863,28 @@
       "url": "https://www.craigslist.org/view/d/san-francisco-th-st-charming-1x1-wd-in/raAWJF6v5gQE8rkVirmeoW"
     },
     {
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-spacious-bright-updated/iz2NJg3cocKBpJjXduvHCu",
+      "source": "Craigslist",
+      "type": "standard rental",
+      "title": "Spacious Bright Updated 1BR/1BA Laundry In Unit Pet Friendly",
+      "price": "$4,940",
+      "sqft": "n/a",
+      "neighborhood": "nob hill",
+      "posted": "n/a",
+      "url": "https://www.craigslist.org/view/d/san-francisco-spacious-bright-updated/iz2NJg3cocKBpJjXduvHCu"
+    },
+    {
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-1401-joneswashington/6rEoAkcse9a3LYF8y46JKe",
+      "source": "Craigslist",
+      "type": "standard rental",
+      "title": "1401 Jones@Washington/Classic Style/Bay Windows/W+D/Corner Unit!",
+      "price": "$4,940",
+      "sqft": "n/a",
+      "neighborhood": "nob hill",
+      "posted": "n/a",
+      "url": "https://www.craigslist.org/view/d/san-francisco-1401-joneswashington/6rEoAkcse9a3LYF8y46JKe"
+    },
+    {
       "id": "cl-https://www.craigslist.org/view/d/san-francisco-1401-jones-gorgeous-1x1/qdVMrGzVyXTgeu9AQ1fZbi",
       "source": "Craigslist",
       "type": "standard rental",
@@ -2773,28 +2905,6 @@
       "neighborhood": "Nob Hill",
       "posted": "n/a",
       "url": "https://www.craigslist.org/view/d/san-francisco-1401-jones-st-202/sVh86Tzo5Tm2MZiwdzfke9"
-    },
-    {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-spacious-bright-updated/c7kCCAxp7ZW21NjM3zZLqw",
-      "source": "Craigslist",
-      "type": "standard rental",
-      "title": "Spacious Bright Updated 1BR/1BA Laundry In Unit Pet Friendly",
-      "price": "$4,940",
-      "sqft": "n/a",
-      "neighborhood": "nob hill",
-      "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-spacious-bright-updated/c7kCCAxp7ZW21NjM3zZLqw"
-    },
-    {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-1401-joneswashington/rPYDmF3a7XzJMpoCvtpyp6",
-      "source": "Craigslist",
-      "type": "standard rental",
-      "title": "1401 Jones@Washington/Classic Style/Bay Windows/W+D/Corner Unit!",
-      "price": "$4,940",
-      "sqft": "n/a",
-      "neighborhood": "nob hill",
-      "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-1401-joneswashington/rPYDmF3a7XzJMpoCvtpyp6"
     },
     {
       "id": "cl-https://www.craigslist.org/view/d/san-francisco-th-st-charming-1x1-wd-in/raAWJF6v5gQE8rkVirmeoW",
