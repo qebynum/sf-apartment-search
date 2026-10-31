@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-31 02:08 UTC",
-  "count": 400,
+  "last_updated": "2026-10-31 18:20 UTC",
+  "count": 405,
   "listings": [
     {
       "id": "cl-https://www.craigslist.org/view/d/san-francisco-sublet-from-nov-15th-to/vXnBX5Kqn1VnLcCgcbGfy3",
@@ -718,26 +718,15 @@
       "url": "https://www.craigslist.org/view/d/san-francisco-tmlp-12-mo-exceptional/p3GMEMdAkfoDyA9Z8uM5NU"
     },
     {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-tmlp-12-mo-reserve-your/jJuQZjPCMcNkGqTwRKr4sr",
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-tmlp-12-mo-limited/qk2zGPEgjxHy2mQ9tQkMtT",
       "source": "Craigslist",
       "type": "standard rental",
-      "title": "TMLP 12-mo. | Reserve Your Home with Panoramic City Views-Limited Availability",
+      "title": "TMLP 12-mo. | Limited Availability! Renovated Kitchen, Natural Light, Downtown",
       "price": "$2,990",
       "sqft": "n/a",
       "neighborhood": "lower nob hill",
       "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-tmlp-12-mo-reserve-your/jJuQZjPCMcNkGqTwRKr4sr"
-    },
-    {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-tmlp-12-mo-experience/1gTZjZSDTVYU3M8q6dMBZG",
-      "source": "Craigslist",
-      "type": "standard rental",
-      "title": "TMLP 12-mo. | Experience Downtown Living-Private Balcony Options Available!",
-      "price": "$2,990",
-      "sqft": "n/a",
-      "neighborhood": "lower nob hill",
-      "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-tmlp-12-mo-experience/1gTZjZSDTVYU3M8q6dMBZG"
+      "url": "https://www.craigslist.org/view/d/san-francisco-tmlp-12-mo-limited/qk2zGPEgjxHy2mQ9tQkMtT"
     },
     {
       "id": "cl-https://www.craigslist.org/view/d/san-francisco-tmlp-12-mo-reserve-your/jJuQZjPCMcNkGqTwRKr4sr",
@@ -762,26 +751,15 @@
       "url": "https://www.craigslist.org/view/d/san-francisco-tmlp-12-mo-experience/1gTZjZSDTVYU3M8q6dMBZG"
     },
     {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-tmlp-12-mo-reserve-your/jJuQZjPCMcNkGqTwRKr4sr",
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-tmlp-12-mo-limited/qk2zGPEgjxHy2mQ9tQkMtT",
       "source": "Craigslist",
       "type": "standard rental",
-      "title": "TMLP 12-mo. | Reserve Your Home with Panoramic City Views-Limited Availability",
+      "title": "TMLP 12-mo. | Limited Availability! Renovated Kitchen, Natural Light, Downtown",
       "price": "$2,990",
       "sqft": "n/a",
       "neighborhood": "lower nob hill",
       "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-tmlp-12-mo-reserve-your/jJuQZjPCMcNkGqTwRKr4sr"
-    },
-    {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-tmlp-12-mo-experience/1gTZjZSDTVYU3M8q6dMBZG",
-      "source": "Craigslist",
-      "type": "standard rental",
-      "title": "TMLP 12-mo. | Experience Downtown Living-Private Balcony Options Available!",
-      "price": "$2,990",
-      "sqft": "n/a",
-      "neighborhood": "lower nob hill",
-      "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-tmlp-12-mo-experience/1gTZjZSDTVYU3M8q6dMBZG"
+      "url": "https://www.craigslist.org/view/d/san-francisco-tmlp-12-mo-limited/qk2zGPEgjxHy2mQ9tQkMtT"
     },
     {
       "id": "cl-https://www.craigslist.org/view/d/san-francisco-tmlp-12-mo-reserve-your/jJuQZjPCMcNkGqTwRKr4sr",
@@ -804,6 +782,83 @@
       "neighborhood": "lower nob hill",
       "posted": "n/a",
       "url": "https://www.craigslist.org/view/d/san-francisco-tmlp-12-mo-experience/1gTZjZSDTVYU3M8q6dMBZG"
+    },
+    {
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-tmlp-12-mo-limited/qk2zGPEgjxHy2mQ9tQkMtT",
+      "source": "Craigslist",
+      "type": "standard rental",
+      "title": "TMLP 12-mo. | Limited Availability! Renovated Kitchen, Natural Light, Downtown",
+      "price": "$2,990",
+      "sqft": "n/a",
+      "neighborhood": "lower nob hill",
+      "posted": "n/a",
+      "url": "https://www.craigslist.org/view/d/san-francisco-tmlp-12-mo-limited/qk2zGPEgjxHy2mQ9tQkMtT"
+    },
+    {
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-tmlp-12-mo-reserve-your/jJuQZjPCMcNkGqTwRKr4sr",
+      "source": "Craigslist",
+      "type": "standard rental",
+      "title": "TMLP 12-mo. | Reserve Your Home with Panoramic City Views-Limited Availability",
+      "price": "$2,990",
+      "sqft": "n/a",
+      "neighborhood": "lower nob hill",
+      "posted": "n/a",
+      "url": "https://www.craigslist.org/view/d/san-francisco-tmlp-12-mo-reserve-your/jJuQZjPCMcNkGqTwRKr4sr"
+    },
+    {
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-tmlp-12-mo-experience/1gTZjZSDTVYU3M8q6dMBZG",
+      "source": "Craigslist",
+      "type": "standard rental",
+      "title": "TMLP 12-mo. | Experience Downtown Living-Private Balcony Options Available!",
+      "price": "$2,990",
+      "sqft": "n/a",
+      "neighborhood": "lower nob hill",
+      "posted": "n/a",
+      "url": "https://www.craigslist.org/view/d/san-francisco-tmlp-12-mo-experience/1gTZjZSDTVYU3M8q6dMBZG"
+    },
+    {
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-tmlp-12-mo-limited/qk2zGPEgjxHy2mQ9tQkMtT",
+      "source": "Craigslist",
+      "type": "standard rental",
+      "title": "TMLP 12-mo. | Limited Availability! Renovated Kitchen, Natural Light, Downtown",
+      "price": "$2,990",
+      "sqft": "n/a",
+      "neighborhood": "lower nob hill",
+      "posted": "n/a",
+      "url": "https://www.craigslist.org/view/d/san-francisco-tmlp-12-mo-limited/qk2zGPEgjxHy2mQ9tQkMtT"
+    },
+    {
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-tmlp-12-mo-reserve-your/jJuQZjPCMcNkGqTwRKr4sr",
+      "source": "Craigslist",
+      "type": "standard rental",
+      "title": "TMLP 12-mo. | Reserve Your Home with Panoramic City Views-Limited Availability",
+      "price": "$2,990",
+      "sqft": "n/a",
+      "neighborhood": "lower nob hill",
+      "posted": "n/a",
+      "url": "https://www.craigslist.org/view/d/san-francisco-tmlp-12-mo-reserve-your/jJuQZjPCMcNkGqTwRKr4sr"
+    },
+    {
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-tmlp-12-mo-experience/1gTZjZSDTVYU3M8q6dMBZG",
+      "source": "Craigslist",
+      "type": "standard rental",
+      "title": "TMLP 12-mo. | Experience Downtown Living-Private Balcony Options Available!",
+      "price": "$2,990",
+      "sqft": "n/a",
+      "neighborhood": "lower nob hill",
+      "posted": "n/a",
+      "url": "https://www.craigslist.org/view/d/san-francisco-tmlp-12-mo-experience/1gTZjZSDTVYU3M8q6dMBZG"
+    },
+    {
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-tmlp-12-mo-limited/qk2zGPEgjxHy2mQ9tQkMtT",
+      "source": "Craigslist",
+      "type": "standard rental",
+      "title": "TMLP 12-mo. | Limited Availability! Renovated Kitchen, Natural Light, Downtown",
+      "price": "$2,990",
+      "sqft": "n/a",
+      "neighborhood": "lower nob hill",
+      "posted": "n/a",
+      "url": "https://www.craigslist.org/view/d/san-francisco-tmlp-12-mo-limited/qk2zGPEgjxHy2mQ9tQkMtT"
     },
     {
       "id": "cl-https://www.craigslist.org/view/d/san-francisco-tmlp-12-mo-reserve-your/jJuQZjPCMcNkGqTwRKr4sr",
@@ -1323,7 +1378,7 @@
       "url": "https://www.craigslist.org/view/d/san-francisco-ready-now-2br-hardwood/g49ZxLdpJJfs3eCBuz77LB"
     },
     {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-nob-hill-655powellpine-d/2WySWHw5smXfLTpDj5V6Kp",
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-nob-hill-655powellpine-d/tQkqCvx8zBbLkKGgcvNbSS",
       "source": "Craigslist",
       "type": "standard rental",
       "title": "Nob Hill/655Powell&Pine/W/D in unit/Coming Soon!!",
@@ -1331,7 +1386,7 @@
       "sqft": "n/a",
       "neighborhood": "nob hill",
       "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-nob-hill-655powellpine-d/2WySWHw5smXfLTpDj5V6Kp"
+      "url": "https://www.craigslist.org/view/d/san-francisco-nob-hill-655powellpine-d/tQkqCvx8zBbLkKGgcvNbSS"
     },
     {
       "id": "cl-https://www.craigslist.org/view/d/san-francisco-walk-to-fidi-tjs-un-sq/wKs4jy7rcm4mTwdLKqLy1B",
@@ -1345,7 +1400,7 @@
       "url": "https://www.craigslist.org/view/d/san-francisco-walk-to-fidi-tjs-un-sq/wKs4jy7rcm4mTwdLKqLy1B"
     },
     {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-nob-hill-655powellpine-d/2WySWHw5smXfLTpDj5V6Kp",
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-nob-hill-655powellpine-d/tQkqCvx8zBbLkKGgcvNbSS",
       "source": "Craigslist",
       "type": "standard rental",
       "title": "Nob Hill/655Powell&Pine/W/D in unit/Coming Soon!!",
@@ -1353,7 +1408,7 @@
       "sqft": "n/a",
       "neighborhood": "nob hill",
       "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-nob-hill-655powellpine-d/2WySWHw5smXfLTpDj5V6Kp"
+      "url": "https://www.craigslist.org/view/d/san-francisco-nob-hill-655powellpine-d/tQkqCvx8zBbLkKGgcvNbSS"
     },
     {
       "id": "cl-https://www.craigslist.org/view/d/san-francisco-walk-to-fidi-tjs-un-sq/wKs4jy7rcm4mTwdLKqLy1B",
@@ -1367,7 +1422,7 @@
       "url": "https://www.craigslist.org/view/d/san-francisco-walk-to-fidi-tjs-un-sq/wKs4jy7rcm4mTwdLKqLy1B"
     },
     {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-nob-hill-655powellpine-d/2WySWHw5smXfLTpDj5V6Kp",
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-nob-hill-655powellpine-d/tQkqCvx8zBbLkKGgcvNbSS",
       "source": "Craigslist",
       "type": "standard rental",
       "title": "Nob Hill/655Powell&Pine/W/D in unit/Coming Soon!!",
@@ -1375,7 +1430,7 @@
       "sqft": "n/a",
       "neighborhood": "nob hill",
       "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-nob-hill-655powellpine-d/2WySWHw5smXfLTpDj5V6Kp"
+      "url": "https://www.craigslist.org/view/d/san-francisco-nob-hill-655powellpine-d/tQkqCvx8zBbLkKGgcvNbSS"
     },
     {
       "id": "cl-https://www.craigslist.org/view/d/san-francisco-walk-to-fidi-tjs-un-sq/wKs4jy7rcm4mTwdLKqLy1B",
@@ -1389,7 +1444,7 @@
       "url": "https://www.craigslist.org/view/d/san-francisco-walk-to-fidi-tjs-un-sq/wKs4jy7rcm4mTwdLKqLy1B"
     },
     {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-nob-hill-655powellpine-d/2WySWHw5smXfLTpDj5V6Kp",
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-nob-hill-655powellpine-d/tQkqCvx8zBbLkKGgcvNbSS",
       "source": "Craigslist",
       "type": "standard rental",
       "title": "Nob Hill/655Powell&Pine/W/D in unit/Coming Soon!!",
@@ -1397,7 +1452,7 @@
       "sqft": "n/a",
       "neighborhood": "nob hill",
       "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-nob-hill-655powellpine-d/2WySWHw5smXfLTpDj5V6Kp"
+      "url": "https://www.craigslist.org/view/d/san-francisco-nob-hill-655powellpine-d/tQkqCvx8zBbLkKGgcvNbSS"
     },
     {
       "id": "cl-https://www.craigslist.org/view/d/san-francisco-walk-to-fidi-tjs-un-sq/wKs4jy7rcm4mTwdLKqLy1B",
@@ -1411,7 +1466,7 @@
       "url": "https://www.craigslist.org/view/d/san-francisco-walk-to-fidi-tjs-un-sq/wKs4jy7rcm4mTwdLKqLy1B"
     },
     {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-nob-hill-655powellpine-d/2WySWHw5smXfLTpDj5V6Kp",
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-nob-hill-655powellpine-d/tQkqCvx8zBbLkKGgcvNbSS",
       "source": "Craigslist",
       "type": "standard rental",
       "title": "Nob Hill/655Powell&Pine/W/D in unit/Coming Soon!!",
@@ -1419,7 +1474,7 @@
       "sqft": "n/a",
       "neighborhood": "nob hill",
       "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-nob-hill-655powellpine-d/2WySWHw5smXfLTpDj5V6Kp"
+      "url": "https://www.craigslist.org/view/d/san-francisco-nob-hill-655powellpine-d/tQkqCvx8zBbLkKGgcvNbSS"
     },
     {
       "id": "cl-https://www.craigslist.org/view/d/san-francisco-walk-to-fidi-tjs-un-sq/wKs4jy7rcm4mTwdLKqLy1B",
@@ -2258,7 +2313,7 @@
       "url": "https://www.craigslist.org/view/d/san-francisco-1br-nob-hill-stainless/hxH4DVokVmhnE6b2jiSJwa"
     },
     {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-lower-nob-hill/tnksV3L7iVod6CsNC353qF",
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-lower-nob-hill/nbcJfrnBoVi1XFPMBTmens",
       "source": "Craigslist",
       "type": "standard rental",
       "title": "Lower Nob Hill/1035Sutter&Hyde/W/D in unit/Available Now!!",
@@ -2266,7 +2321,7 @@
       "sqft": "n/a",
       "neighborhood": "lower nob hill",
       "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-lower-nob-hill/tnksV3L7iVod6CsNC353qF"
+      "url": "https://www.craigslist.org/view/d/san-francisco-lower-nob-hill/nbcJfrnBoVi1XFPMBTmens"
     },
     {
       "id": "cl-https://www.craigslist.org/view/d/san-francisco-bright-nob-hill-1br-with/pf1TTxc5ipfLR1h43D32cb",
@@ -2291,7 +2346,7 @@
       "url": "https://www.craigslist.org/view/d/san-francisco-walk-to-fidi-from/k4vqd2deX9pwQYdiPTeNY4"
     },
     {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-lower-nob-hill/tnksV3L7iVod6CsNC353qF",
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-lower-nob-hill/nbcJfrnBoVi1XFPMBTmens",
       "source": "Craigslist",
       "type": "standard rental",
       "title": "Lower Nob Hill/1035Sutter&Hyde/W/D in unit/Available Now!!",
@@ -2299,7 +2354,7 @@
       "sqft": "n/a",
       "neighborhood": "lower nob hill",
       "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-lower-nob-hill/tnksV3L7iVod6CsNC353qF"
+      "url": "https://www.craigslist.org/view/d/san-francisco-lower-nob-hill/nbcJfrnBoVi1XFPMBTmens"
     },
     {
       "id": "cl-https://www.craigslist.org/view/d/san-francisco-bright-nob-hill-1br-with/pf1TTxc5ipfLR1h43D32cb",
@@ -2324,7 +2379,7 @@
       "url": "https://www.craigslist.org/view/d/san-francisco-walk-to-fidi-from/k4vqd2deX9pwQYdiPTeNY4"
     },
     {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-lower-nob-hill/tnksV3L7iVod6CsNC353qF",
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-lower-nob-hill/nbcJfrnBoVi1XFPMBTmens",
       "source": "Craigslist",
       "type": "standard rental",
       "title": "Lower Nob Hill/1035Sutter&Hyde/W/D in unit/Available Now!!",
@@ -2332,7 +2387,7 @@
       "sqft": "n/a",
       "neighborhood": "lower nob hill",
       "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-lower-nob-hill/tnksV3L7iVod6CsNC353qF"
+      "url": "https://www.craigslist.org/view/d/san-francisco-lower-nob-hill/nbcJfrnBoVi1XFPMBTmens"
     },
     {
       "id": "cl-https://www.craigslist.org/view/d/san-francisco-bright-nob-hill-1br-with/pf1TTxc5ipfLR1h43D32cb",
@@ -2357,7 +2412,7 @@
       "url": "https://www.craigslist.org/view/d/san-francisco-walk-to-fidi-from/k4vqd2deX9pwQYdiPTeNY4"
     },
     {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-lower-nob-hill/tnksV3L7iVod6CsNC353qF",
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-lower-nob-hill/nbcJfrnBoVi1XFPMBTmens",
       "source": "Craigslist",
       "type": "standard rental",
       "title": "Lower Nob Hill/1035Sutter&Hyde/W/D in unit/Available Now!!",
@@ -2365,7 +2420,7 @@
       "sqft": "n/a",
       "neighborhood": "lower nob hill",
       "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-lower-nob-hill/tnksV3L7iVod6CsNC353qF"
+      "url": "https://www.craigslist.org/view/d/san-francisco-lower-nob-hill/nbcJfrnBoVi1XFPMBTmens"
     },
     {
       "id": "cl-https://www.craigslist.org/view/d/san-francisco-bright-nob-hill-1br-with/pf1TTxc5ipfLR1h43D32cb",
@@ -2390,7 +2445,7 @@
       "url": "https://www.craigslist.org/view/d/san-francisco-walk-to-fidi-from/k4vqd2deX9pwQYdiPTeNY4"
     },
     {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-lower-nob-hill/tnksV3L7iVod6CsNC353qF",
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-lower-nob-hill/nbcJfrnBoVi1XFPMBTmens",
       "source": "Craigslist",
       "type": "standard rental",
       "title": "Lower Nob Hill/1035Sutter&Hyde/W/D in unit/Available Now!!",
@@ -2398,7 +2453,7 @@
       "sqft": "n/a",
       "neighborhood": "lower nob hill",
       "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-lower-nob-hill/tnksV3L7iVod6CsNC353qF"
+      "url": "https://www.craigslist.org/view/d/san-francisco-lower-nob-hill/nbcJfrnBoVi1XFPMBTmens"
     },
     {
       "id": "cl-https://www.craigslist.org/view/d/san-francisco-bright-nob-hill-1br-with/pf1TTxc5ipfLR1h43D32cb",
