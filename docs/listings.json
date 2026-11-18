@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-17 22:05 UTC",
+  "last_updated": "2026-11-18 04:05 UTC",
   "count": 365,
   "listings": [
     {
@@ -333,37 +333,15 @@
       "url": "https://www.craigslist.org/view/d/san-francisco-charming-1br-ba-condo/5vTp4bj7B5aZWU5jRWEzxn"
     },
     {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-tmlp-12-mo-live-steps/9kxML3uPcswn7VEUknji5b",
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-tmlp-12-mo-bright-airy-br/qiKb6xvTDcUtGZ4LK51KvC",
       "source": "Craigslist",
       "type": "standard rental",
-      "title": "TMLP 12-mo. | Live Steps from the Financial District-Modern Homes, City Views",
+      "title": "TMLP 12-mo. | Bright & Airy 1 BR - Reserved Parking, Pet Park, Package Lockers",
       "price": "$2,990",
       "sqft": "n/a",
       "neighborhood": "lower nob hill",
       "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-tmlp-12-mo-live-steps/9kxML3uPcswn7VEUknji5b"
-    },
-    {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-tmlp-12-mo-exceptional/eFK3XBStGewpmdtaDZaYUv",
-      "source": "Craigslist",
-      "type": "standard rental",
-      "title": "TMLP 12-mo. | Exceptional Natural Light & Stainless Kitchen-Claim Your Space",
-      "price": "$2,990",
-      "sqft": "n/a",
-      "neighborhood": "lower nob hill",
-      "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-tmlp-12-mo-exceptional/eFK3XBStGewpmdtaDZaYUv"
-    },
-    {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-tmlp-12-mo-upgrade-your/xfEi5jcKJpXeixwjzjsh9M",
-      "source": "Craigslist",
-      "type": "standard rental",
-      "title": "TMLP 12-mo. | Upgrade Your Lifestyle-24hr Fitness, Reserved Parking, Pet Park!",
-      "price": "$2,990",
-      "sqft": "n/a",
-      "neighborhood": "lower nob hill",
-      "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-tmlp-12-mo-upgrade-your/xfEi5jcKJpXeixwjzjsh9M"
+      "url": "https://www.craigslist.org/view/d/san-francisco-tmlp-12-mo-bright-airy-br/qiKb6xvTDcUtGZ4LK51KvC"
     },
     {
       "id": "cl-https://www.craigslist.org/view/d/san-francisco-tmlp-12-mo-live-steps/9kxML3uPcswn7VEUknji5b",
@@ -399,37 +377,15 @@
       "url": "https://www.craigslist.org/view/d/san-francisco-tmlp-12-mo-upgrade-your/xfEi5jcKJpXeixwjzjsh9M"
     },
     {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-tmlp-12-mo-live-steps/9kxML3uPcswn7VEUknji5b",
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-tmlp-12-mo-bright-airy-br/qiKb6xvTDcUtGZ4LK51KvC",
       "source": "Craigslist",
       "type": "standard rental",
-      "title": "TMLP 12-mo. | Live Steps from the Financial District-Modern Homes, City Views",
+      "title": "TMLP 12-mo. | Bright & Airy 1 BR - Reserved Parking, Pet Park, Package Lockers",
       "price": "$2,990",
       "sqft": "n/a",
       "neighborhood": "lower nob hill",
       "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-tmlp-12-mo-live-steps/9kxML3uPcswn7VEUknji5b"
-    },
-    {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-tmlp-12-mo-exceptional/eFK3XBStGewpmdtaDZaYUv",
-      "source": "Craigslist",
-      "type": "standard rental",
-      "title": "TMLP 12-mo. | Exceptional Natural Light & Stainless Kitchen-Claim Your Space",
-      "price": "$2,990",
-      "sqft": "n/a",
-      "neighborhood": "lower nob hill",
-      "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-tmlp-12-mo-exceptional/eFK3XBStGewpmdtaDZaYUv"
-    },
-    {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-tmlp-12-mo-upgrade-your/xfEi5jcKJpXeixwjzjsh9M",
-      "source": "Craigslist",
-      "type": "standard rental",
-      "title": "TMLP 12-mo. | Upgrade Your Lifestyle-24hr Fitness, Reserved Parking, Pet Park!",
-      "price": "$2,990",
-      "sqft": "n/a",
-      "neighborhood": "lower nob hill",
-      "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-tmlp-12-mo-upgrade-your/xfEi5jcKJpXeixwjzjsh9M"
+      "url": "https://www.craigslist.org/view/d/san-francisco-tmlp-12-mo-bright-airy-br/qiKb6xvTDcUtGZ4LK51KvC"
     },
     {
       "id": "cl-https://www.craigslist.org/view/d/san-francisco-tmlp-12-mo-live-steps/9kxML3uPcswn7VEUknji5b",
@@ -463,6 +419,105 @@
       "neighborhood": "lower nob hill",
       "posted": "n/a",
       "url": "https://www.craigslist.org/view/d/san-francisco-tmlp-12-mo-upgrade-your/xfEi5jcKJpXeixwjzjsh9M"
+    },
+    {
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-tmlp-12-mo-bright-airy-br/qiKb6xvTDcUtGZ4LK51KvC",
+      "source": "Craigslist",
+      "type": "standard rental",
+      "title": "TMLP 12-mo. | Bright & Airy 1 BR - Reserved Parking, Pet Park, Package Lockers",
+      "price": "$2,990",
+      "sqft": "n/a",
+      "neighborhood": "lower nob hill",
+      "posted": "n/a",
+      "url": "https://www.craigslist.org/view/d/san-francisco-tmlp-12-mo-bright-airy-br/qiKb6xvTDcUtGZ4LK51KvC"
+    },
+    {
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-tmlp-12-mo-live-steps/9kxML3uPcswn7VEUknji5b",
+      "source": "Craigslist",
+      "type": "standard rental",
+      "title": "TMLP 12-mo. | Live Steps from the Financial District-Modern Homes, City Views",
+      "price": "$2,990",
+      "sqft": "n/a",
+      "neighborhood": "lower nob hill",
+      "posted": "n/a",
+      "url": "https://www.craigslist.org/view/d/san-francisco-tmlp-12-mo-live-steps/9kxML3uPcswn7VEUknji5b"
+    },
+    {
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-tmlp-12-mo-exceptional/eFK3XBStGewpmdtaDZaYUv",
+      "source": "Craigslist",
+      "type": "standard rental",
+      "title": "TMLP 12-mo. | Exceptional Natural Light & Stainless Kitchen-Claim Your Space",
+      "price": "$2,990",
+      "sqft": "n/a",
+      "neighborhood": "lower nob hill",
+      "posted": "n/a",
+      "url": "https://www.craigslist.org/view/d/san-francisco-tmlp-12-mo-exceptional/eFK3XBStGewpmdtaDZaYUv"
+    },
+    {
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-tmlp-12-mo-upgrade-your/xfEi5jcKJpXeixwjzjsh9M",
+      "source": "Craigslist",
+      "type": "standard rental",
+      "title": "TMLP 12-mo. | Upgrade Your Lifestyle-24hr Fitness, Reserved Parking, Pet Park!",
+      "price": "$2,990",
+      "sqft": "n/a",
+      "neighborhood": "lower nob hill",
+      "posted": "n/a",
+      "url": "https://www.craigslist.org/view/d/san-francisco-tmlp-12-mo-upgrade-your/xfEi5jcKJpXeixwjzjsh9M"
+    },
+    {
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-tmlp-12-mo-bright-airy-br/qiKb6xvTDcUtGZ4LK51KvC",
+      "source": "Craigslist",
+      "type": "standard rental",
+      "title": "TMLP 12-mo. | Bright & Airy 1 BR - Reserved Parking, Pet Park, Package Lockers",
+      "price": "$2,990",
+      "sqft": "n/a",
+      "neighborhood": "lower nob hill",
+      "posted": "n/a",
+      "url": "https://www.craigslist.org/view/d/san-francisco-tmlp-12-mo-bright-airy-br/qiKb6xvTDcUtGZ4LK51KvC"
+    },
+    {
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-tmlp-12-mo-live-steps/9kxML3uPcswn7VEUknji5b",
+      "source": "Craigslist",
+      "type": "standard rental",
+      "title": "TMLP 12-mo. | Live Steps from the Financial District-Modern Homes, City Views",
+      "price": "$2,990",
+      "sqft": "n/a",
+      "neighborhood": "lower nob hill",
+      "posted": "n/a",
+      "url": "https://www.craigslist.org/view/d/san-francisco-tmlp-12-mo-live-steps/9kxML3uPcswn7VEUknji5b"
+    },
+    {
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-tmlp-12-mo-exceptional/eFK3XBStGewpmdtaDZaYUv",
+      "source": "Craigslist",
+      "type": "standard rental",
+      "title": "TMLP 12-mo. | Exceptional Natural Light & Stainless Kitchen-Claim Your Space",
+      "price": "$2,990",
+      "sqft": "n/a",
+      "neighborhood": "lower nob hill",
+      "posted": "n/a",
+      "url": "https://www.craigslist.org/view/d/san-francisco-tmlp-12-mo-exceptional/eFK3XBStGewpmdtaDZaYUv"
+    },
+    {
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-tmlp-12-mo-upgrade-your/xfEi5jcKJpXeixwjzjsh9M",
+      "source": "Craigslist",
+      "type": "standard rental",
+      "title": "TMLP 12-mo. | Upgrade Your Lifestyle-24hr Fitness, Reserved Parking, Pet Park!",
+      "price": "$2,990",
+      "sqft": "n/a",
+      "neighborhood": "lower nob hill",
+      "posted": "n/a",
+      "url": "https://www.craigslist.org/view/d/san-francisco-tmlp-12-mo-upgrade-your/xfEi5jcKJpXeixwjzjsh9M"
+    },
+    {
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-tmlp-12-mo-bright-airy-br/qiKb6xvTDcUtGZ4LK51KvC",
+      "source": "Craigslist",
+      "type": "standard rental",
+      "title": "TMLP 12-mo. | Bright & Airy 1 BR - Reserved Parking, Pet Park, Package Lockers",
+      "price": "$2,990",
+      "sqft": "n/a",
+      "neighborhood": "lower nob hill",
+      "posted": "n/a",
+      "url": "https://www.craigslist.org/view/d/san-francisco-tmlp-12-mo-bright-airy-br/qiKb6xvTDcUtGZ4LK51KvC"
     },
     {
       "id": "cl-https://www.craigslist.org/view/d/san-francisco-tmlp-12-mo-live-steps/9kxML3uPcswn7VEUknji5b",
@@ -850,15 +905,26 @@
       "url": "https://www.craigslist.org/view/d/san-francisco-1bedroom-1bath-lower-nob/7hRgiupmDC2BzxAJCG5T4g"
     },
     {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-1br-balcony-stainless/qdauPCUphqAtubQMWXQB4K",
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-coming-soon-walk-to-fidi/uc2WBRctg97woaoyeC9WNT",
       "source": "Craigslist",
       "type": "standard rental",
-      "title": "1BR/Balcony/Stainless Steel Appliances/In-unit Laundry/Dishwasher",
+      "title": "COMING SOON ~ WALK TO FIDI FROM LOWER NOB HILL 1BD 1BA",
       "price": "$3,695",
       "sqft": "n/a",
-      "neighborhood": "nob hill",
+      "neighborhood": "Lower Nob Hill",
       "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-1br-balcony-stainless/qdauPCUphqAtubQMWXQB4K"
+      "url": "https://www.craigslist.org/view/d/san-francisco-coming-soon-walk-to-fidi/uc2WBRctg97woaoyeC9WNT"
+    },
+    {
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-1bedroom-1bath-lower-nob/7hRgiupmDC2BzxAJCG5T4g",
+      "source": "Craigslist",
+      "type": "standard rental",
+      "title": "1Bedroom 1Bath/Lower Nob Hill/Hardwood Floors+Bright Bay Windows",
+      "price": "$3,695",
+      "sqft": "n/a",
+      "neighborhood": "lower nob hill",
+      "posted": "n/a",
+      "url": "https://www.craigslist.org/view/d/san-francisco-1bedroom-1bath-lower-nob/7hRgiupmDC2BzxAJCG5T4g"
     },
     {
       "id": "cl-https://www.craigslist.org/view/d/san-francisco-coming-soon-walk-to-fidi/uc2WBRctg97woaoyeC9WNT",
@@ -883,17 +949,6 @@
       "url": "https://www.craigslist.org/view/d/san-francisco-1bedroom-1bath-lower-nob/7hRgiupmDC2BzxAJCG5T4g"
     },
     {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-1br-balcony-stainless/qdauPCUphqAtubQMWXQB4K",
-      "source": "Craigslist",
-      "type": "standard rental",
-      "title": "1BR/Balcony/Stainless Steel Appliances/In-unit Laundry/Dishwasher",
-      "price": "$3,695",
-      "sqft": "n/a",
-      "neighborhood": "nob hill",
-      "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-1br-balcony-stainless/qdauPCUphqAtubQMWXQB4K"
-    },
-    {
       "id": "cl-https://www.craigslist.org/view/d/san-francisco-coming-soon-walk-to-fidi/uc2WBRctg97woaoyeC9WNT",
       "source": "Craigslist",
       "type": "standard rental",
@@ -916,17 +971,6 @@
       "url": "https://www.craigslist.org/view/d/san-francisco-1bedroom-1bath-lower-nob/7hRgiupmDC2BzxAJCG5T4g"
     },
     {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-1br-balcony-stainless/qdauPCUphqAtubQMWXQB4K",
-      "source": "Craigslist",
-      "type": "standard rental",
-      "title": "1BR/Balcony/Stainless Steel Appliances/In-unit Laundry/Dishwasher",
-      "price": "$3,695",
-      "sqft": "n/a",
-      "neighborhood": "nob hill",
-      "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-1br-balcony-stainless/qdauPCUphqAtubQMWXQB4K"
-    },
-    {
       "id": "cl-https://www.craigslist.org/view/d/san-francisco-coming-soon-walk-to-fidi/uc2WBRctg97woaoyeC9WNT",
       "source": "Craigslist",
       "type": "standard rental",
@@ -947,50 +991,6 @@
       "neighborhood": "lower nob hill",
       "posted": "n/a",
       "url": "https://www.craigslist.org/view/d/san-francisco-1bedroom-1bath-lower-nob/7hRgiupmDC2BzxAJCG5T4g"
-    },
-    {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-1br-balcony-stainless/qdauPCUphqAtubQMWXQB4K",
-      "source": "Craigslist",
-      "type": "standard rental",
-      "title": "1BR/Balcony/Stainless Steel Appliances/In-unit Laundry/Dishwasher",
-      "price": "$3,695",
-      "sqft": "n/a",
-      "neighborhood": "nob hill",
-      "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-1br-balcony-stainless/qdauPCUphqAtubQMWXQB4K"
-    },
-    {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-coming-soon-walk-to-fidi/uc2WBRctg97woaoyeC9WNT",
-      "source": "Craigslist",
-      "type": "standard rental",
-      "title": "COMING SOON ~ WALK TO FIDI FROM LOWER NOB HILL 1BD 1BA",
-      "price": "$3,695",
-      "sqft": "n/a",
-      "neighborhood": "Lower Nob Hill",
-      "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-coming-soon-walk-to-fidi/uc2WBRctg97woaoyeC9WNT"
-    },
-    {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-1bedroom-1bath-lower-nob/7hRgiupmDC2BzxAJCG5T4g",
-      "source": "Craigslist",
-      "type": "standard rental",
-      "title": "1Bedroom 1Bath/Lower Nob Hill/Hardwood Floors+Bright Bay Windows",
-      "price": "$3,695",
-      "sqft": "n/a",
-      "neighborhood": "lower nob hill",
-      "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-1bedroom-1bath-lower-nob/7hRgiupmDC2BzxAJCG5T4g"
-    },
-    {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-1br-balcony-stainless/qdauPCUphqAtubQMWXQB4K",
-      "source": "Craigslist",
-      "type": "standard rental",
-      "title": "1BR/Balcony/Stainless Steel Appliances/In-unit Laundry/Dishwasher",
-      "price": "$3,695",
-      "sqft": "n/a",
-      "neighborhood": "nob hill",
-      "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-1br-balcony-stainless/qdauPCUphqAtubQMWXQB4K"
     },
     {
       "id": "cl-https://www.craigslist.org/view/d/san-francisco-845-californiastockton/3B3sTEaetw9ih3chc31sdY",
@@ -1653,6 +1653,61 @@
       "url": "https://www.craigslist.org/view/d/san-francisco-stunning-nob-hill-1br/jTLaButjAMtkwVsXN8Ep5B"
     },
     {
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-furnished-whole-2br-2ba/cUfCfc3SrSa7gMRJRVVUSc",
+      "source": "Craigslist",
+      "type": "lease takeover / sublet",
+      "title": "Furnished whole 2BR/2BA apartment in Dogpatch, sublet through Dec 28",
+      "price": "$4,000",
+      "sqft": "n/a",
+      "neighborhood": "potrero hill",
+      "posted": "n/a",
+      "url": "https://www.craigslist.org/view/d/san-francisco-furnished-whole-2br-2ba/cUfCfc3SrSa7gMRJRVVUSc"
+    },
+    {
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-furnished-whole-2br-2ba/cUfCfc3SrSa7gMRJRVVUSc",
+      "source": "Craigslist",
+      "type": "lease takeover / sublet",
+      "title": "Furnished whole 2BR/2BA apartment in Dogpatch, sublet through Dec 28",
+      "price": "$4,000",
+      "sqft": "n/a",
+      "neighborhood": "potrero hill",
+      "posted": "n/a",
+      "url": "https://www.craigslist.org/view/d/san-francisco-furnished-whole-2br-2ba/cUfCfc3SrSa7gMRJRVVUSc"
+    },
+    {
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-furnished-whole-2br-2ba/cUfCfc3SrSa7gMRJRVVUSc",
+      "source": "Craigslist",
+      "type": "lease takeover / sublet",
+      "title": "Furnished whole 2BR/2BA apartment in Dogpatch, sublet through Dec 28",
+      "price": "$4,000",
+      "sqft": "n/a",
+      "neighborhood": "potrero hill",
+      "posted": "n/a",
+      "url": "https://www.craigslist.org/view/d/san-francisco-furnished-whole-2br-2ba/cUfCfc3SrSa7gMRJRVVUSc"
+    },
+    {
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-furnished-whole-2br-2ba/cUfCfc3SrSa7gMRJRVVUSc",
+      "source": "Craigslist",
+      "type": "lease takeover / sublet",
+      "title": "Furnished whole 2BR/2BA apartment in Dogpatch, sublet through Dec 28",
+      "price": "$4,000",
+      "sqft": "n/a",
+      "neighborhood": "potrero hill",
+      "posted": "n/a",
+      "url": "https://www.craigslist.org/view/d/san-francisco-furnished-whole-2br-2ba/cUfCfc3SrSa7gMRJRVVUSc"
+    },
+    {
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-furnished-whole-2br-2ba/cUfCfc3SrSa7gMRJRVVUSc",
+      "source": "Craigslist",
+      "type": "lease takeover / sublet",
+      "title": "Furnished whole 2BR/2BA apartment in Dogpatch, sublet through Dec 28",
+      "price": "$4,000",
+      "sqft": "n/a",
+      "neighborhood": "potrero hill",
+      "posted": "n/a",
+      "url": "https://www.craigslist.org/view/d/san-francisco-furnished-whole-2br-2ba/cUfCfc3SrSa7gMRJRVVUSc"
+    },
+    {
       "id": "cl-https://www.craigslist.org/view/d/san-francisco-walk-to-fidi-from/uHu3pzeSUsBgYy5eQrZMzb",
       "source": "Craigslist",
       "type": "standard rental",
@@ -1939,26 +1994,15 @@
       "url": "https://www.craigslist.org/view/d/san-francisco-lower-nob-hill/sT5KF4Rfqg1YiHbg1389Cw"
     },
     {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-1br-nob-hill-bright/piYpgB1DV5Q1DFGLxaBMNb",
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-lower-nob-hill/sT5KF4Rfqg1YiHbg1389Cw",
       "source": "Craigslist",
       "type": "standard rental",
-      "title": "1BR/Nob Hill/ Bright Windows/In-unit Laundry/Dishwasher",
+      "title": "Lower Nob Hill/1035Sutter&Hyde/W/D in unit/Available Now!!",
       "price": "$4,295",
       "sqft": "n/a",
-      "neighborhood": "nob hill",
+      "neighborhood": "lower nob hill",
       "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-1br-nob-hill-bright/piYpgB1DV5Q1DFGLxaBMNb"
-    },
-    {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-1br-nob-hill-stainless/hxH4DVokVmhnE6b2jiSJwa",
-      "source": "Craigslist",
-      "type": "standard rental",
-      "title": "1BR/Nob Hill/Stainless Steel Kitchen/Dishwasher/In-unit Laundry",
-      "price": "$4,295",
-      "sqft": "n/a",
-      "neighborhood": "nob hill",
-      "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-1br-nob-hill-stainless/hxH4DVokVmhnE6b2jiSJwa"
+      "url": "https://www.craigslist.org/view/d/san-francisco-lower-nob-hill/sT5KF4Rfqg1YiHbg1389Cw"
     },
     {
       "id": "cl-https://www.craigslist.org/view/d/san-francisco-lower-nob-hill/sT5KF4Rfqg1YiHbg1389Cw",
@@ -1972,28 +2016,6 @@
       "url": "https://www.craigslist.org/view/d/san-francisco-lower-nob-hill/sT5KF4Rfqg1YiHbg1389Cw"
     },
     {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-1br-nob-hill-bright/piYpgB1DV5Q1DFGLxaBMNb",
-      "source": "Craigslist",
-      "type": "standard rental",
-      "title": "1BR/Nob Hill/ Bright Windows/In-unit Laundry/Dishwasher",
-      "price": "$4,295",
-      "sqft": "n/a",
-      "neighborhood": "nob hill",
-      "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-1br-nob-hill-bright/piYpgB1DV5Q1DFGLxaBMNb"
-    },
-    {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-1br-nob-hill-stainless/hxH4DVokVmhnE6b2jiSJwa",
-      "source": "Craigslist",
-      "type": "standard rental",
-      "title": "1BR/Nob Hill/Stainless Steel Kitchen/Dishwasher/In-unit Laundry",
-      "price": "$4,295",
-      "sqft": "n/a",
-      "neighborhood": "nob hill",
-      "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-1br-nob-hill-stainless/hxH4DVokVmhnE6b2jiSJwa"
-    },
-    {
       "id": "cl-https://www.craigslist.org/view/d/san-francisco-lower-nob-hill/sT5KF4Rfqg1YiHbg1389Cw",
       "source": "Craigslist",
       "type": "standard rental",
@@ -2005,28 +2027,6 @@
       "url": "https://www.craigslist.org/view/d/san-francisco-lower-nob-hill/sT5KF4Rfqg1YiHbg1389Cw"
     },
     {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-1br-nob-hill-bright/piYpgB1DV5Q1DFGLxaBMNb",
-      "source": "Craigslist",
-      "type": "standard rental",
-      "title": "1BR/Nob Hill/ Bright Windows/In-unit Laundry/Dishwasher",
-      "price": "$4,295",
-      "sqft": "n/a",
-      "neighborhood": "nob hill",
-      "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-1br-nob-hill-bright/piYpgB1DV5Q1DFGLxaBMNb"
-    },
-    {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-1br-nob-hill-stainless/hxH4DVokVmhnE6b2jiSJwa",
-      "source": "Craigslist",
-      "type": "standard rental",
-      "title": "1BR/Nob Hill/Stainless Steel Kitchen/Dishwasher/In-unit Laundry",
-      "price": "$4,295",
-      "sqft": "n/a",
-      "neighborhood": "nob hill",
-      "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-1br-nob-hill-stainless/hxH4DVokVmhnE6b2jiSJwa"
-    },
-    {
       "id": "cl-https://www.craigslist.org/view/d/san-francisco-lower-nob-hill/sT5KF4Rfqg1YiHbg1389Cw",
       "source": "Craigslist",
       "type": "standard rental",
@@ -2036,61 +2036,6 @@
       "neighborhood": "lower nob hill",
       "posted": "n/a",
       "url": "https://www.craigslist.org/view/d/san-francisco-lower-nob-hill/sT5KF4Rfqg1YiHbg1389Cw"
-    },
-    {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-1br-nob-hill-bright/piYpgB1DV5Q1DFGLxaBMNb",
-      "source": "Craigslist",
-      "type": "standard rental",
-      "title": "1BR/Nob Hill/ Bright Windows/In-unit Laundry/Dishwasher",
-      "price": "$4,295",
-      "sqft": "n/a",
-      "neighborhood": "nob hill",
-      "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-1br-nob-hill-bright/piYpgB1DV5Q1DFGLxaBMNb"
-    },
-    {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-1br-nob-hill-stainless/hxH4DVokVmhnE6b2jiSJwa",
-      "source": "Craigslist",
-      "type": "standard rental",
-      "title": "1BR/Nob Hill/Stainless Steel Kitchen/Dishwasher/In-unit Laundry",
-      "price": "$4,295",
-      "sqft": "n/a",
-      "neighborhood": "nob hill",
-      "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-1br-nob-hill-stainless/hxH4DVokVmhnE6b2jiSJwa"
-    },
-    {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-lower-nob-hill/sT5KF4Rfqg1YiHbg1389Cw",
-      "source": "Craigslist",
-      "type": "standard rental",
-      "title": "Lower Nob Hill/1035Sutter&Hyde/W/D in unit/Available Now!!",
-      "price": "$4,295",
-      "sqft": "n/a",
-      "neighborhood": "lower nob hill",
-      "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-lower-nob-hill/sT5KF4Rfqg1YiHbg1389Cw"
-    },
-    {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-1br-nob-hill-bright/piYpgB1DV5Q1DFGLxaBMNb",
-      "source": "Craigslist",
-      "type": "standard rental",
-      "title": "1BR/Nob Hill/ Bright Windows/In-unit Laundry/Dishwasher",
-      "price": "$4,295",
-      "sqft": "n/a",
-      "neighborhood": "nob hill",
-      "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-1br-nob-hill-bright/piYpgB1DV5Q1DFGLxaBMNb"
-    },
-    {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-1br-nob-hill-stainless/hxH4DVokVmhnE6b2jiSJwa",
-      "source": "Craigslist",
-      "type": "standard rental",
-      "title": "1BR/Nob Hill/Stainless Steel Kitchen/Dishwasher/In-unit Laundry",
-      "price": "$4,295",
-      "sqft": "n/a",
-      "neighborhood": "nob hill",
-      "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-1br-nob-hill-stainless/hxH4DVokVmhnE6b2jiSJwa"
     },
     {
       "id": "cl-https://www.craigslist.org/view/d/san-francisco-jr-bed-pool-gym-utilities/ecAMASqV5N5EYw9GgYyigF",
@@ -3633,48 +3578,26 @@
       "url": "https://www.craigslist.org/view/d/san-francisco-br-1ba-nob-hill-washer/qmMhhAimWmcwHpBKeLffrK"
     },
     {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-tmlp-12-mo-sophisticated/a4sVqR5zTcLTt8SyEbMt3a",
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-tmlp-12-mo-private-patios/tYiXtnjhF7gb2TR9fdUXfP",
       "source": "Craigslist",
       "type": "standard rental",
-      "title": "TMLP 12-mo. | Sophisticated 1 BR w/ Fire Pit, Fitness, Private Patios*",
+      "title": "TMLP 12-mo. | Private Patios*, Kitchen Island*, Granite Countertops",
       "price": "$4,993",
       "sqft": "n/a",
       "neighborhood": "potrero hill",
       "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-tmlp-12-mo-sophisticated/a4sVqR5zTcLTt8SyEbMt3a"
+      "url": "https://www.craigslist.org/view/d/san-francisco-tmlp-12-mo-private-patios/tYiXtnjhF7gb2TR9fdUXfP"
     },
     {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-tmlp-12-mo-stunning-br/xnY4r7gpmC9eFsW3pW8YDs",
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-tmlp-12-mo-dogpatch-newer/rUuwKfk8caTvFbsP71C7D8",
       "source": "Craigslist",
       "type": "standard rental",
-      "title": "TMLP 12-mo. | Stunning 1 BR-Hardwood, Garage Parking, Pet Friendly!",
+      "title": "TMLP 12-mo. | Dogpatch Newer Boutique Building easy access to Freeways/Caltrain",
       "price": "$4,993",
       "sqft": "n/a",
       "neighborhood": "potrero hill",
       "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-tmlp-12-mo-stunning-br/xnY4r7gpmC9eFsW3pW8YDs"
-    },
-    {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-tmlp-12-mo-exceptional-br/5D2tj7rSWvA9VpKHL72oJu",
-      "source": "Craigslist",
-      "type": "standard rental",
-      "title": "TMLP 12-mo. | Exceptional 1 BR-Washer/Dryer, Rooftop Deck, Modern Touches",
-      "price": "$4,993",
-      "sqft": "n/a",
-      "neighborhood": "potrero hill",
-      "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-tmlp-12-mo-exceptional-br/5D2tj7rSWvA9VpKHL72oJu"
-    },
-    {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-tmlp-12-mo-rare/f3HX13zxERr7obcAoCsV5w",
-      "source": "Craigslist",
-      "type": "standard rental",
-      "title": "TMLP 12-mo. | Rare Opportunity-Spacious 1 BR, Granite, Fire Pit, Storage",
-      "price": "$4,993",
-      "sqft": "n/a",
-      "neighborhood": "potrero hill",
-      "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-tmlp-12-mo-rare/f3HX13zxERr7obcAoCsV5w"
+      "url": "https://www.craigslist.org/view/d/san-francisco-tmlp-12-mo-dogpatch-newer/rUuwKfk8caTvFbsP71C7D8"
     },
     {
       "id": "cl-https://www.craigslist.org/view/d/san-francisco-tmlp-12-mo-sophisticated/a4sVqR5zTcLTt8SyEbMt3a",
@@ -3721,48 +3644,26 @@
       "url": "https://www.craigslist.org/view/d/san-francisco-tmlp-12-mo-rare/f3HX13zxERr7obcAoCsV5w"
     },
     {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-tmlp-12-mo-sophisticated/a4sVqR5zTcLTt8SyEbMt3a",
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-tmlp-12-mo-private-patios/tYiXtnjhF7gb2TR9fdUXfP",
       "source": "Craigslist",
       "type": "standard rental",
-      "title": "TMLP 12-mo. | Sophisticated 1 BR w/ Fire Pit, Fitness, Private Patios*",
+      "title": "TMLP 12-mo. | Private Patios*, Kitchen Island*, Granite Countertops",
       "price": "$4,993",
       "sqft": "n/a",
       "neighborhood": "potrero hill",
       "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-tmlp-12-mo-sophisticated/a4sVqR5zTcLTt8SyEbMt3a"
+      "url": "https://www.craigslist.org/view/d/san-francisco-tmlp-12-mo-private-patios/tYiXtnjhF7gb2TR9fdUXfP"
     },
     {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-tmlp-12-mo-stunning-br/xnY4r7gpmC9eFsW3pW8YDs",
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-tmlp-12-mo-dogpatch-newer/rUuwKfk8caTvFbsP71C7D8",
       "source": "Craigslist",
       "type": "standard rental",
-      "title": "TMLP 12-mo. | Stunning 1 BR-Hardwood, Garage Parking, Pet Friendly!",
+      "title": "TMLP 12-mo. | Dogpatch Newer Boutique Building easy access to Freeways/Caltrain",
       "price": "$4,993",
       "sqft": "n/a",
       "neighborhood": "potrero hill",
       "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-tmlp-12-mo-stunning-br/xnY4r7gpmC9eFsW3pW8YDs"
-    },
-    {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-tmlp-12-mo-exceptional-br/5D2tj7rSWvA9VpKHL72oJu",
-      "source": "Craigslist",
-      "type": "standard rental",
-      "title": "TMLP 12-mo. | Exceptional 1 BR-Washer/Dryer, Rooftop Deck, Modern Touches",
-      "price": "$4,993",
-      "sqft": "n/a",
-      "neighborhood": "potrero hill",
-      "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-tmlp-12-mo-exceptional-br/5D2tj7rSWvA9VpKHL72oJu"
-    },
-    {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-tmlp-12-mo-rare/f3HX13zxERr7obcAoCsV5w",
-      "source": "Craigslist",
-      "type": "standard rental",
-      "title": "TMLP 12-mo. | Rare Opportunity-Spacious 1 BR, Granite, Fire Pit, Storage",
-      "price": "$4,993",
-      "sqft": "n/a",
-      "neighborhood": "potrero hill",
-      "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-tmlp-12-mo-rare/f3HX13zxERr7obcAoCsV5w"
+      "url": "https://www.craigslist.org/view/d/san-francisco-tmlp-12-mo-dogpatch-newer/rUuwKfk8caTvFbsP71C7D8"
     },
     {
       "id": "cl-https://www.craigslist.org/view/d/san-francisco-tmlp-12-mo-sophisticated/a4sVqR5zTcLTt8SyEbMt3a",
@@ -3807,6 +3708,160 @@
       "neighborhood": "potrero hill",
       "posted": "n/a",
       "url": "https://www.craigslist.org/view/d/san-francisco-tmlp-12-mo-rare/f3HX13zxERr7obcAoCsV5w"
+    },
+    {
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-tmlp-12-mo-private-patios/tYiXtnjhF7gb2TR9fdUXfP",
+      "source": "Craigslist",
+      "type": "standard rental",
+      "title": "TMLP 12-mo. | Private Patios*, Kitchen Island*, Granite Countertops",
+      "price": "$4,993",
+      "sqft": "n/a",
+      "neighborhood": "potrero hill",
+      "posted": "n/a",
+      "url": "https://www.craigslist.org/view/d/san-francisco-tmlp-12-mo-private-patios/tYiXtnjhF7gb2TR9fdUXfP"
+    },
+    {
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-tmlp-12-mo-dogpatch-newer/rUuwKfk8caTvFbsP71C7D8",
+      "source": "Craigslist",
+      "type": "standard rental",
+      "title": "TMLP 12-mo. | Dogpatch Newer Boutique Building easy access to Freeways/Caltrain",
+      "price": "$4,993",
+      "sqft": "n/a",
+      "neighborhood": "potrero hill",
+      "posted": "n/a",
+      "url": "https://www.craigslist.org/view/d/san-francisco-tmlp-12-mo-dogpatch-newer/rUuwKfk8caTvFbsP71C7D8"
+    },
+    {
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-tmlp-12-mo-sophisticated/a4sVqR5zTcLTt8SyEbMt3a",
+      "source": "Craigslist",
+      "type": "standard rental",
+      "title": "TMLP 12-mo. | Sophisticated 1 BR w/ Fire Pit, Fitness, Private Patios*",
+      "price": "$4,993",
+      "sqft": "n/a",
+      "neighborhood": "potrero hill",
+      "posted": "n/a",
+      "url": "https://www.craigslist.org/view/d/san-francisco-tmlp-12-mo-sophisticated/a4sVqR5zTcLTt8SyEbMt3a"
+    },
+    {
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-tmlp-12-mo-stunning-br/xnY4r7gpmC9eFsW3pW8YDs",
+      "source": "Craigslist",
+      "type": "standard rental",
+      "title": "TMLP 12-mo. | Stunning 1 BR-Hardwood, Garage Parking, Pet Friendly!",
+      "price": "$4,993",
+      "sqft": "n/a",
+      "neighborhood": "potrero hill",
+      "posted": "n/a",
+      "url": "https://www.craigslist.org/view/d/san-francisco-tmlp-12-mo-stunning-br/xnY4r7gpmC9eFsW3pW8YDs"
+    },
+    {
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-tmlp-12-mo-exceptional-br/5D2tj7rSWvA9VpKHL72oJu",
+      "source": "Craigslist",
+      "type": "standard rental",
+      "title": "TMLP 12-mo. | Exceptional 1 BR-Washer/Dryer, Rooftop Deck, Modern Touches",
+      "price": "$4,993",
+      "sqft": "n/a",
+      "neighborhood": "potrero hill",
+      "posted": "n/a",
+      "url": "https://www.craigslist.org/view/d/san-francisco-tmlp-12-mo-exceptional-br/5D2tj7rSWvA9VpKHL72oJu"
+    },
+    {
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-tmlp-12-mo-rare/f3HX13zxERr7obcAoCsV5w",
+      "source": "Craigslist",
+      "type": "standard rental",
+      "title": "TMLP 12-mo. | Rare Opportunity-Spacious 1 BR, Granite, Fire Pit, Storage",
+      "price": "$4,993",
+      "sqft": "n/a",
+      "neighborhood": "potrero hill",
+      "posted": "n/a",
+      "url": "https://www.craigslist.org/view/d/san-francisco-tmlp-12-mo-rare/f3HX13zxERr7obcAoCsV5w"
+    },
+    {
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-tmlp-12-mo-private-patios/tYiXtnjhF7gb2TR9fdUXfP",
+      "source": "Craigslist",
+      "type": "standard rental",
+      "title": "TMLP 12-mo. | Private Patios*, Kitchen Island*, Granite Countertops",
+      "price": "$4,993",
+      "sqft": "n/a",
+      "neighborhood": "potrero hill",
+      "posted": "n/a",
+      "url": "https://www.craigslist.org/view/d/san-francisco-tmlp-12-mo-private-patios/tYiXtnjhF7gb2TR9fdUXfP"
+    },
+    {
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-tmlp-12-mo-dogpatch-newer/rUuwKfk8caTvFbsP71C7D8",
+      "source": "Craigslist",
+      "type": "standard rental",
+      "title": "TMLP 12-mo. | Dogpatch Newer Boutique Building easy access to Freeways/Caltrain",
+      "price": "$4,993",
+      "sqft": "n/a",
+      "neighborhood": "potrero hill",
+      "posted": "n/a",
+      "url": "https://www.craigslist.org/view/d/san-francisco-tmlp-12-mo-dogpatch-newer/rUuwKfk8caTvFbsP71C7D8"
+    },
+    {
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-tmlp-12-mo-sophisticated/a4sVqR5zTcLTt8SyEbMt3a",
+      "source": "Craigslist",
+      "type": "standard rental",
+      "title": "TMLP 12-mo. | Sophisticated 1 BR w/ Fire Pit, Fitness, Private Patios*",
+      "price": "$4,993",
+      "sqft": "n/a",
+      "neighborhood": "potrero hill",
+      "posted": "n/a",
+      "url": "https://www.craigslist.org/view/d/san-francisco-tmlp-12-mo-sophisticated/a4sVqR5zTcLTt8SyEbMt3a"
+    },
+    {
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-tmlp-12-mo-stunning-br/xnY4r7gpmC9eFsW3pW8YDs",
+      "source": "Craigslist",
+      "type": "standard rental",
+      "title": "TMLP 12-mo. | Stunning 1 BR-Hardwood, Garage Parking, Pet Friendly!",
+      "price": "$4,993",
+      "sqft": "n/a",
+      "neighborhood": "potrero hill",
+      "posted": "n/a",
+      "url": "https://www.craigslist.org/view/d/san-francisco-tmlp-12-mo-stunning-br/xnY4r7gpmC9eFsW3pW8YDs"
+    },
+    {
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-tmlp-12-mo-exceptional-br/5D2tj7rSWvA9VpKHL72oJu",
+      "source": "Craigslist",
+      "type": "standard rental",
+      "title": "TMLP 12-mo. | Exceptional 1 BR-Washer/Dryer, Rooftop Deck, Modern Touches",
+      "price": "$4,993",
+      "sqft": "n/a",
+      "neighborhood": "potrero hill",
+      "posted": "n/a",
+      "url": "https://www.craigslist.org/view/d/san-francisco-tmlp-12-mo-exceptional-br/5D2tj7rSWvA9VpKHL72oJu"
+    },
+    {
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-tmlp-12-mo-rare/f3HX13zxERr7obcAoCsV5w",
+      "source": "Craigslist",
+      "type": "standard rental",
+      "title": "TMLP 12-mo. | Rare Opportunity-Spacious 1 BR, Granite, Fire Pit, Storage",
+      "price": "$4,993",
+      "sqft": "n/a",
+      "neighborhood": "potrero hill",
+      "posted": "n/a",
+      "url": "https://www.craigslist.org/view/d/san-francisco-tmlp-12-mo-rare/f3HX13zxERr7obcAoCsV5w"
+    },
+    {
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-tmlp-12-mo-private-patios/tYiXtnjhF7gb2TR9fdUXfP",
+      "source": "Craigslist",
+      "type": "standard rental",
+      "title": "TMLP 12-mo. | Private Patios*, Kitchen Island*, Granite Countertops",
+      "price": "$4,993",
+      "sqft": "n/a",
+      "neighborhood": "potrero hill",
+      "posted": "n/a",
+      "url": "https://www.craigslist.org/view/d/san-francisco-tmlp-12-mo-private-patios/tYiXtnjhF7gb2TR9fdUXfP"
+    },
+    {
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-tmlp-12-mo-dogpatch-newer/rUuwKfk8caTvFbsP71C7D8",
+      "source": "Craigslist",
+      "type": "standard rental",
+      "title": "TMLP 12-mo. | Dogpatch Newer Boutique Building easy access to Freeways/Caltrain",
+      "price": "$4,993",
+      "sqft": "n/a",
+      "neighborhood": "potrero hill",
+      "posted": "n/a",
+      "url": "https://www.craigslist.org/view/d/san-francisco-tmlp-12-mo-dogpatch-newer/rUuwKfk8caTvFbsP71C7D8"
     },
     {
       "id": "cl-https://www.craigslist.org/view/d/san-francisco-tmlp-12-mo-sophisticated/a4sVqR5zTcLTt8SyEbMt3a",
@@ -3919,15 +3974,15 @@
       "url": "https://www.craigslist.org/view/d/san-francisco-furnished-1bd-15ba-nob/oetWzFmCPMdDqLdh948QPb"
     },
     {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-furnished-whole-2br-2ba/cUfCfc3SrSa7gMRJRVVUSc",
+      "id": "cl-https://www.craigslist.org/view/d/san-francisco-furnished-1bd-15ba-nob/oetWzFmCPMdDqLdh948QPb",
       "source": "Craigslist",
       "type": "lease takeover / sublet",
-      "title": "Furnished whole 2BR/2BA apartment in Dogpatch, sublet through Dec 28",
+      "title": "Furnished 1BD/1.5BA Nob Hill Sublet, Dec 9 - Jan 9, All-Inclusive",
       "price": "$5,000",
       "sqft": "n/a",
-      "neighborhood": "potrero hill",
+      "neighborhood": "nob hill",
       "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-furnished-whole-2br-2ba/cUfCfc3SrSa7gMRJRVVUSc"
+      "url": "https://www.craigslist.org/view/d/san-francisco-furnished-1bd-15ba-nob/oetWzFmCPMdDqLdh948QPb"
     },
     {
       "id": "cl-https://www.craigslist.org/view/d/san-francisco-furnished-1bd-15ba-nob/oetWzFmCPMdDqLdh948QPb",
@@ -3941,17 +3996,6 @@
       "url": "https://www.craigslist.org/view/d/san-francisco-furnished-1bd-15ba-nob/oetWzFmCPMdDqLdh948QPb"
     },
     {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-furnished-whole-2br-2ba/cUfCfc3SrSa7gMRJRVVUSc",
-      "source": "Craigslist",
-      "type": "lease takeover / sublet",
-      "title": "Furnished whole 2BR/2BA apartment in Dogpatch, sublet through Dec 28",
-      "price": "$5,000",
-      "sqft": "n/a",
-      "neighborhood": "potrero hill",
-      "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-furnished-whole-2br-2ba/cUfCfc3SrSa7gMRJRVVUSc"
-    },
-    {
       "id": "cl-https://www.craigslist.org/view/d/san-francisco-furnished-1bd-15ba-nob/oetWzFmCPMdDqLdh948QPb",
       "source": "Craigslist",
       "type": "lease takeover / sublet",
@@ -3963,17 +4007,6 @@
       "url": "https://www.craigslist.org/view/d/san-francisco-furnished-1bd-15ba-nob/oetWzFmCPMdDqLdh948QPb"
     },
     {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-furnished-whole-2br-2ba/cUfCfc3SrSa7gMRJRVVUSc",
-      "source": "Craigslist",
-      "type": "lease takeover / sublet",
-      "title": "Furnished whole 2BR/2BA apartment in Dogpatch, sublet through Dec 28",
-      "price": "$5,000",
-      "sqft": "n/a",
-      "neighborhood": "potrero hill",
-      "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-furnished-whole-2br-2ba/cUfCfc3SrSa7gMRJRVVUSc"
-    },
-    {
       "id": "cl-https://www.craigslist.org/view/d/san-francisco-furnished-1bd-15ba-nob/oetWzFmCPMdDqLdh948QPb",
       "source": "Craigslist",
       "type": "lease takeover / sublet",
@@ -3983,39 +4016,6 @@
       "neighborhood": "nob hill",
       "posted": "n/a",
       "url": "https://www.craigslist.org/view/d/san-francisco-furnished-1bd-15ba-nob/oetWzFmCPMdDqLdh948QPb"
-    },
-    {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-furnished-whole-2br-2ba/cUfCfc3SrSa7gMRJRVVUSc",
-      "source": "Craigslist",
-      "type": "lease takeover / sublet",
-      "title": "Furnished whole 2BR/2BA apartment in Dogpatch, sublet through Dec 28",
-      "price": "$5,000",
-      "sqft": "n/a",
-      "neighborhood": "potrero hill",
-      "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-furnished-whole-2br-2ba/cUfCfc3SrSa7gMRJRVVUSc"
-    },
-    {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-furnished-1bd-15ba-nob/oetWzFmCPMdDqLdh948QPb",
-      "source": "Craigslist",
-      "type": "lease takeover / sublet",
-      "title": "Furnished 1BD/1.5BA Nob Hill Sublet, Dec 9 - Jan 9, All-Inclusive",
-      "price": "$5,000",
-      "sqft": "n/a",
-      "neighborhood": "nob hill",
-      "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-furnished-1bd-15ba-nob/oetWzFmCPMdDqLdh948QPb"
-    },
-    {
-      "id": "cl-https://www.craigslist.org/view/d/san-francisco-furnished-whole-2br-2ba/cUfCfc3SrSa7gMRJRVVUSc",
-      "source": "Craigslist",
-      "type": "lease takeover / sublet",
-      "title": "Furnished whole 2BR/2BA apartment in Dogpatch, sublet through Dec 28",
-      "price": "$5,000",
-      "sqft": "n/a",
-      "neighborhood": "potrero hill",
-      "posted": "n/a",
-      "url": "https://www.craigslist.org/view/d/san-francisco-furnished-whole-2br-2ba/cUfCfc3SrSa7gMRJRVVUSc"
     }
   ]
 }
